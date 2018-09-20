@@ -1,0 +1,32 @@
+wiki_import.sh $ $Revision: 1.1 $
+
+mediawiki automatic file import script
+
+Usage: wiki_import.sh [OPTIONS]...
+
+The script is designed to import a whole folder of files into mediawiki, with 
+the folder directory tree mapped as wiki category hierarchy.
+
+The specification of the file-to-import is passed from standard input.
+
+Options:
+  -s, --sect=n     the root category section of the wiki
+                     of the imported article (mandatory)
+  -1, --header     include standard header (category hierarchy path & notice)
+  -l, --link       link to actual file on the web site
+  -f, --footer     include standard footer (article category)
+  -R, --res[=p]    add restricted tag in the footer
+                     as '{{<Res Param|Root Category> Restricted}}'  
+                     (default=`$_opt_sect')
+
+Configuration Options:
+  -p, --php=fn     mediawiki import php script specification
+  -r, --root=n     the root category name for the whole wiki site
+  -m, --max=n      max_allowed_packet for mysqld to import
+  -u, --user=n     wiki user used for the import
+  -a, --arch=p     the root url that linked-to archive files based on
+
+Examples:
+
+  echo ./path/to/file.ext | wiki_import.sh -1 -l -f -s 'Customer Support' -R 
+

@@ -1,0 +1,143 @@
+/* ------------------------------------------------------------------------
+    Specific CSS styles for Internet Explorer, all versions
+    Brothers in art
+    http://www.brothersinart.net
+-------------------------------------------------------------------------*/
+
+/*  BODY AND PAGE CONTAINERS
+-------------------------------------------------------------------------*/
+
+#main{
+  margin: 4px 0 0 4px;
+}
+#side{
+  margin: 4px 7px 0 0;
+}
+
+/*  GENERAL STYLES
+-------------------------------------------------------------------------*/
+
+/*  HEADER STYLES
+-----------------------*/
+
+H1 {
+  margin: 0;
+}
+
+/*  BUTTON BASE STYLES
+-----------------------*/
+
+.label {
+  margin: 5px 5px 0 0;
+}
+
+/*  IMAGE STYLES
+-------------------------------------------------------------------------*/
+
+IMG.icon {
+  border: 0px;
+  vertical-align: middle;
+  margin: 1px 0 0 0;
+}
+
+/*  MEMBERBAR
+-------------------------------------------------------------------------*/
+
+#memberbar .form_input, #memberbar .form_button, #memberbar .form_checkbox {
+  margin-bottom: 0px;
+}
+#memberbar IMG {
+  margin-bottom: 0px;
+}
+#memberbar UL { 
+  padding: 3px 0;
+}
+#memberbar .beats {
+  padding: 5px 0 0 0;
+}
+#memberbar .beats .button {
+  margin: -2px -2px -2px 0px;
+}
+#memberbar .beats .button A {
+  padding: 3px 7px 0 7px;
+}
+
+/*  STATUSBAR
+-------------------------------------------------------------------------*/
+
+#statusbar {
+  height: 40px;
+}
+
+/*  NAVIGATION
+-------------------------------------------------------------------------*/
+
+#navigation IMG.icon {
+  margin: 2px 0 0 0;
+}
+
+/*  WINDOWS
+-------------------------------------------------------------------------*/
+
+.window .top .topleft {
+  margin-bottom: 0px;
+}
+.window .top, .window .sidetop  {
+  line-height: 18px;
+}
+.window .top .header {
+  filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=1, OffY=2, Color='#606881', Positive='true');
+  width: 80%;
+}
+.window .sidetop .header{
+  filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=1, OffY=2, Color='#606881', Positive='true');
+  width: 160px;
+}
+
+/*  WINDOW LINK BAR
+-----------------------*/
+
+.winoptionCenter {
+  width:712px;
+}
+.winform, .winformCenter {
+  height: 25px;
+}
+
+.fullArtwork {
+  margin-left: -2px;
+}
+
+/*  COMMENTS
+-------------------------------------------------------------------------*/
+
+.comments .seperator {
+  margin: 0 0 0 -5px;
+}
+
+/*  GENERAL NEWS
+-------------------------------------------------------------------------*/
+
+/*  MORE HEADLINES
+-----------------------*/
+
+.moreheadlines TD {
+  height: auto;
+}
+
+/*  RECENT TOPICS
+-----------------------*/
+
+.moreforumtopics TD {
+  height: auto;
+}
+
+/*  SIDE WINDOWS
+-------------------------------------------------------------------------*/
+
+/*  SMALL LINK BAR
+-----------------------*/
+
+.winoptionsmall {
+  padding: 5px;
+}

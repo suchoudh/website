@@ -1,0 +1,561 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201502 will be lost/reset.
+# Last config file used to build this data file was /home/onelife/tmp/awstats/awstats.onelife.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2684                
+POS_VISITOR 9134                
+POS_DAY 16757               
+POS_DOMAIN 3470                
+POS_LOGIN 4150                
+POS_ROBOT 4305                
+POS_WORMS 4845                
+POS_EMAILSENDER 4976                
+POS_EMAILRECEIVER 5119                
+POS_SESSION 17444               
+POS_SIDER 17613               
+POS_FILETYPES 5254                
+POS_DOWNLOADS 5410                
+POS_OS 5511                
+POS_BROWSER 5825                
+POS_SCREENSIZE 6576                
+POS_UNKNOWNREFERER 6650                
+POS_UNKNOWNREFERERBROWSER 6816                
+POS_ORIGIN 6964                
+POS_SEREFERRALS 7105                
+POS_PAGEREFS 7291                
+POS_SEARCHWORDS 7657                
+POS_KEYWORDS 7835                
+POS_MISC 2347                
+POS_ERRORS 7922                
+POS_CLUSTER 4006                
+POS_SIDER_404 8034                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150301005934 41 8090 9548942386265
+FirstTime 20150201064410
+LastTime 20150228140733
+LastUpdate 20150301153357 41 0 40 0 0
+TotalVisits 150                 
+TotalUnique 133                 
+MonthHostsKnown 95                  
+MonthHostsUnknown 50                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 22 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 36 126235 31 50 276364
+1 15 32 126494 35 55 647091
+2 3 19 58809 45 61 276593
+3 4 32 109824 38 59 360381
+4 4 26 120224 16 46 244328
+5 2 10 38069 21 40 786107
+6 11 53 185978 17 32 199098
+7 6 34 114445 14 31 358468
+8 3 17 59541 51 67 374728
+9 11 71 259765 43 58 350795
+10 18 61 240406 34 55 444494
+11 5 27 119757 36 61 466355
+12 24 47 168442 30 60 714136
+13 17 55 205177 15 35 1058569
+14 6 27 92143 12 22 278921
+15 5 26 88981 15 20 154613
+16 9 52 176995 21 37 107685
+17 5 12 37970 32 42 484914
+18 6 27 93610 37 52 222510
+19 5 33 114453 13 22 120496
+20 11 61 204199 17 38 685937
+21 2 3 9549 15 28 448244
+22 17 54 176879 12 21 74945
+23 9 17 63433 14 32 184527
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 34
+us 78 199 749161
+br 21 168 580964
+de 17 17 44689
+in 14 109 434956
+ie 12 12 62870
+cn 10 14 27722
+gb 7 37 123096
+kr 6 13 37376
+it 4 32 109824
+pt 3 24 82368
+fr 3 24 82368
+nl 3 3 13887
+cl 2 16 54912
+es 2 16 54912
+mx 2 11 31353
+au 2 10 65312
+ro 2 16 54912
+ch 2 16 54912
+np 1 3 3897
+ph 1 8 27456
+cr 1 8 27456
+bb 1 8 27456
+co 1 8 27456
+hk 1 1 4629
+pr 1 8 27456
+jp 1 8 27456
+gr 1 8 27456
+do 1 8 27456
+mt 1 1 1984
+ee 0 1 8629
+ca 1 8 27456
+se 1 1 4629
+iq 1 8 27456
+pe 1 8 27456
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+bot[\s_+:,\.\;\/\\-] 512 5385607 20150228211626 107
+spider 154 1381800 20150228112942 0
+robot 112 1153029 20150228065359 30
+googlebot 49 426853 20150228211257 12
+crawl 38 84796 20150227114840 2
+unknown 21 3984 20150227075636 21
+slurp 15 665939 20150222050203 7
+bingpreview 9 27385 20150228040323 0
+no_user_agent 2 1984 20150213025050 0
+php 1 20701 20150215190625 0
+[\s_+:,\.\;\/\\-]bot 1 0 20150228231754 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 91 124453 0 0
+html 205 624698 0 0
+jpg 351 393782 0 0
+js 97 57001 0 0
+gif 88 1791444 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/one.pdf 20 0 2288831
+/SunilChoudhary.pdf 8 0 930946
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+blackberry 1 1
+linuxandroid 31 7
+winxp 31 20
+macosx6 2 2
+winlong 3 3
+ios_iphone 1 0
+win2000 1 1
+winunknown 64 13
+win2003 11 10
+macosx9 8 1
+win8 17 2
+java 1 1
+linuxubuntu 1 1
+linux 34 13
+win7 567 103
+macosx 5 2
+Unknown 15 15
+win8.1 38 9
+macosx8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 41
+msie6.0 3 3
+chrome40.0.2214.94 8 1
+chrome40.0.2214.115 17 2
+firefox4.0.1 2 2
+android 15 5
+chrome40.0.2214.111 37 6
+firefox4.0 1 1
+chrome36.0.1985.125 1 1
+firefox31.0 2 2
+msie8.0 20 18
+firefox6.0.2 1 1
+msie7.0 13 12
+firefox16.0 8 1
+firefox23.0 1 1
+safari7.1.3 8 1
+safari8.0 1 0
+wget 1 1
+msie9.0 1 0
+Unknown 2 2
+firefox11.0 1 0
+blackberry 1 1
+msie5.01 1 1
+chrome40.0.2214.109 16 2
+firefox3.5.2 1 1
+chrome32.0.1700.107 48 6
+msie11.0 9 1
+chrome36.0.1985.143 382 54
+firefox33.0 1 1
+chrome10.0.648.0 1 1
+mozilla 14 14
+firefox25.0 2 2
+chrome35.0.1916.153 16 2
+firefox14.0.1 9 9
+firefox6.0 7 7
+firefox3.6.3 2 2
+msie 5 5
+firefox36.0 1 1
+chrome40.0.2214.93 9 2
+safari 143 19
+firefox3.6.8 13 13
+firefox35.0 8 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mnogosearch-3.1.21 20150202140044
+Mozilla/2.0_(compatible;_crw) 20150227213324
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Mnogosearch-3.1.21 20150202140044
+Java/1.7.0_60-ea 20150224002351
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 100 106
+From1 0 0
+From2 13 17
+From3 75 75
+From4 17 634
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+google 1 5
+baidu 6 6
+search 5 5
+yahoo 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+http://semalt.semalt.com/crawler.php 35 35
+http://buttons-for-website.com 21 21
+http://seoairport.com/site/recommended 12 12
+http://www.seoairport.com/site/recommended 5 5
+http://www.rediffmail.com/cgi-bin/red.cgi 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+sunilchoudhary+swebsite 6
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+sunilchoudhary 6
+swebsite 6
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 2 2278
+206 3 13887
+404 75 86100
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 26
+/admin.php 2 -
+/www.oracle.com 4 -
+/Resume_SunilChoudhary.rtf 4 -
+/_image/mine.gif 6 -
+/Resume_SunilChoudhary.txt 3 -
+/administrator/index.php 2 -
+/old/wp-admin/ 4 -
+/customer/account/login 1 http://onelife.in/customer/account/login
+/www.codezoo.net 8 -
+/recognition.html/xmlrpc.php 1 http://www.onelife.in/recognition.html/xmlrpc.php
+/wordpress/wp-admin/ 3 -
+/wp-includes/wlwmanifest.xml 2 -
+/modules/mod_sections.xml 1 -
+/wp-admin/ 4 -
+/administrator/ 1 -
+/blog/wp-admin/ 5 -
+/Resume_SunilChoudhary.zip 1 -
+/%C3%95x%02 1 http://onelife.in/
+/xmlrpc.php 1 http://www.onelife.in/xmlrpc.php
+/default.php 3 http://onelife.in/default.php
+/www.nucleussoftware.com 5 -
+/components/com_wrapper/wrapper.xml 1 -
+/wp-login.php 3 -
+/test/wp-admin/ 5 -
+/Resume_SunilChoudhary.pdf 1 -
+/wp/wp-admin/ 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 145
+mail.expertmail80.co.uk 16 16 74064 20150208130000
+axido.com 11 11 24848 20150222124648
+38.100.21.64 10 11 53782 20150220014047
+69.58.178.57 10 10 54116 20150212133133
+ip-89-234-68-85.broadband.digiweb.ie 6 6 31435 20150219102235
+ip-89-234-68-105.broadband.digiweb.ie 6 6 31435 20150218232322
+70.39.187.32 5 14 39196 20150201123021
+50-93-249-212.fttp.usinternet.com 3 10 36714 20150225223303
+hosted-by.leaseweb.com 2 2 9258 20150214222458
+nat-vlan550.las1.sco.cisco.com 2 2 10000 20150216061919
+14-200-9-133.static.tpgi.com.au 2 10 65312 20150206045325
+static.42.50.9.176.clients.your-server.de 2 2 3968 20150209113756
+ptr.cnsat.com.cn 2 2 6324 20150207145319
+resultsmarine.com 2 16 54912 20150218065603
+google-proxy-66-249-84-212.google.com 2 2 3968 20150214222605
+host-92-10-166-215.as43234.net 2 16 54912 20150225101337
+222.239.162.7 2 2 3968 20150224140517
+udp261423uds.hawaiiantel.net 2 16 54912 20150216063521
+static.213-133-97-216.clients.your-server.de 2 2 9258 20150224164953
+61.135.190.103 2 3 4542 20150210130108
+60.254.32.83 2 9 30093 20150201100555
+177-177-78-161.user.veloxzone.com.br 1 8 27456 20150223133404
+baiduspider-123-125-71-39.crawl.baidu.com 1 1 2569 20150224005759
+179.179.251.253.dynamic.adsl.gvt.net.br 1 8 27456 20150216085407
+37.77.115.250 1 8 27456 20150227071000
+ec2-52-11-3-175.us-west-2.compute.amazonaws.com 1 1 1984 20150224002351
+186.244.166.76 1 8 27456 20150213121323
+189-107-109-60.user.veloxzone.com.br 1 8 27456 20150208171005
+181.64.209.108 1 8 27456 20150219062551
+106.221.146.176 0 1 29033 
+187.122.55.253 1 8 27456 20150228091428
+200151191110.userdial.telemar.net.br 1 8 27456 20150209070225
+ec2-54-205-74-114.compute-1.amazonaws.com 1 1 4629 20150226085900
+ec2-54-159-187-44.compute-1.amazonaws.com 1 1 4629 20150201064410
+24.139.134.68 1 8 27456 20150206205848
+180.76.4.181 1 1 4629 20150204060730
+201.18.18.175 1 8 31844 20150225111805
+5.156.47.35 1 8 27456 20150226043310
+23.236.6.65 1 8 27456 20150223202251
+host22-61-dynamic.8-87-r.retail.telecomitalia.it 1 8 27456 20150216005643
+bl18-70-188.dsl.telepac.pt 1 8 27456 20150205003959
+google-proxy-66-249-84-193.google.com 1 1 1984 20150207105414
+ip98-162-145-253.pn.at.cox.net 1 8 27456 20150204154410
+43.245.148.235 1 8 27456 20150228140733
+host-92-16-35-180.as13285.net 1 8 27456 20150221164117
+c-98-211-102-31.hsd1.md.comcast.net 1 8 27456 20150217131231
+61.135.190.221 1 1 1984 20150208230824
+static.235.225.46.78.clients.your-server.de 1 1 4629 20150201195335
+37.236.136.163 1 8 27456 20150221045137
+pc-135-106-215-201.cm.vtr.net 1 8 27456 20150221193055
+abts-mp-dynamic-248.235.168.122.airtelbroadband.in 1 8 27456 20150221204822
+151.77.145.227 1 8 27456 20150210100950
+c35-219.i07-9.onvol.net 1 1 1984 20150223051018
+static-202-65-144-206.pol.net.in 1 8 27456 20150210034033
+61.135.190.220 1 1 1984 20150212013819
+138.91.230.7 1 1 4629 20150218172628
+225.217.166.190.f.sta.codetel.net.do 1 8 27456 20150212105134
+ec2-52-1-89-22.compute-1.amazonaws.com 1 1 4629 20150214150931
+116.73.128.63 0 1 8696 
+211.244.83.232 1 1 1984 20150204110720
+177.86.48.46 1 8 27456 20150216112749
+50-249-134-78-static.hfc.comcastbusiness.net 1 3 3897 20150224224406
+google-proxy-66-249-84-132.google.com 1 1 1984 20150208124607
+152-250-157-164.user.vivozap.com.br 1 8 27456 20150227131236
+61.135.190.104 1 1 1984 20150203230909
+177-188-136-200.dsl.telesp.net.br 1 8 27456 20150208205615
+175.45.136.95.rev.vodafone.pt 1 8 27456 20150206001520
+static-176-182-29-48.ncc.abo.bbox.fr 1 8 27456 20150226052531
+ppp-94-64-62-46.home.otenet.gr 1 8 27456 20150214111205
+host-62-24-181-135.as13285.net 1 2 5644 20150221164558
+static-32-75-27-46.ipcom.comunitel.net 1 8 27456 20150224092110
+net-2-36-204-212.cust.vodafonedsl.it 1 8 27456 20150221155624
+201.22.161.242.dynamic.adsl.gvt.net.br 1 8 27456 20150228073019
+ip72-198-38-100.ok.ok.cox.net 1 8 27456 20150204183601
+61.135.190.102 0 1 574 
+186.247.138.91 1 8 27456 20150213095124
+27.4.32.153 0 1 8629 
+cpe-167-114-162-103-dsl.montrealnetworx.com 1 1 1984 20150223070048
+c-50-182-208-17.hsd1.nj.comcast.net 1 8 27456 20150220194833
+108.171.159.41 1 8 27456 20150206001653
+61.135.190.224 1 2 2558 20150211094416
+5.151.128.9 1 8 27456 20150211104822
+google-proxy-66-249-80-6.google.com 1 1 1984 20150223211036
+pc-150-160-46-190.cm.vtr.net 1 8 27456 20150222093554
+31-192-228-65-static.serverhotell.net 1 1 4629 20150205204623
+112.198.79.9 1 8 27456 20150213032406
+186.176.131.191 1 8 27456 20150211194916
+prolight.force9.co.uk 1 1 1984 20150211225205
+100.83.244.66.aw.smithvilledigital.net 0 1 5579 
+201-92-97-91.dsl.telesp.net.br 1 8 27456 20150226222528
+177-162-225-165.user.vivozap.com.br 1 8 27456 20150215095819
+conm200-116-125-206.epm.net.co 1 8 27456 20150226141952
+61-adsl.ntc.net.np 1 3 3897 20150224093910
+abts-kk-dynamic-027.151.172.122.airtelbroadband.in 1 8 27456 20150204012815
+188.0.48.2 0 1 8629 
+211.244.83.248 1 1 1984 20150209102925
+host-62-24-252-133.as13285.net 1 2 5644 20150225101407
+201-88-99-217.pvoce702.dsl.brasiltelecom.net.br 1 8 27456 20150224095124
+46.229.170.197 1 1 4629 20150217015753
+199.30.228.151 0 7 25472 
+cpe-24-166-234-147.columbus.res.rr.com 1 8 27456 20150208204109
+customer-tln-143-254.megared.net.mx 1 8 27456 20150209133033
+ip70-177-93-187.ok.ok.cox.net 1 8 27456 20150226011400
+bfbc507d.virtua.com.br 1 8 27456 20150226160230
+114.143.148.241 1 8 27456 20150224062418
+247.112.3.85.dynamic.wline.res.cust.swisscom.ch 1 8 27456 20150222164704
+117.232.132.182 1 8 27456 20150226121246
+82.127.193.178.dynamic.wline.res.cust.swisscom.ch 1 8 27456 20150215204744
+182.208.136.10 1 8 27456 20150209225030
+soy95-8-78-225-89-48.fbx.proxad.net 1 8 27456 20150211223150
+google-proxy-64-233-173-164.google.com 0 1 29033 
+119.9.76.111 1 1 4629 20150223093818
+177-100-194-109.viacaboip.com.br 1 8 27456 20150208183843
+38.81.65.42 1 1 1984 20150218220555
+host-5810019.fivenetwork.com 1 8 27456 20150225034356
+abts-north-dynamic-008.199.162.122.airtelbroadband.in 1 8 27456 20150205024328
+138.91.226.72 1 1 4629 20150205185136
+msnbot-157-55-39-216.search.msn.com 0 1 574 
+static-88-27-25-46.ipcom.comunitel.net 1 8 27456 20150206193636
+61.135.190.101 0 1 574 
+199.30.228.135 1 1 1984 20150215075806
+186.212.197.15.static.host.gvt.net.br 1 8 27456 20150223165206
+cpe-76-94-148-1.socal.res.rr.com 1 8 27456 20150211223028
+211.244.83.215 1 1 1984 20150214105544
+189-82-181-41.user.veloxzone.com.br 1 8 27456 20150227094954
+abts-mp-dynamic-128.46.168.122.airtelbroadband.in 1 8 27456 20150222023147
+69.63.165.2 1 8 27456 20150218185244
+google-proxy-66-249-83-206.google.com 1 1 1984 20150214222549
+1871252106.telemar.net.br 1 8 27456 20150220084245
+atoulon-552-1-283-175.w86-211.abo.wanadoo.fr 1 8 27456 20150221065038
+static.93.207.9.176.clients.your-server.de 1 1 1986 20150227213324
+71-93-9-218.dhcp.knwc.wa.charter.com 1 8 27456 20150214163337
+d24-141-186-42.home.cgocable.net 1 8 27456 20150207145130
+ec2-54-235-202-25.compute-1.amazonaws.com 1 1 4629 20150212222601
+37.140.189.46.rev.vodafone.pt 1 8 27456 20150218092522
+202-12-83-44-dynamic.mangalore.cscnet.in 0 1 29033 
+abts-mp-dynamic-114.73.168.122.airtelbroadband.in 1 8 27456 20150226033022
+static-173-49-24-118.phlapa.fios.verizon.net 1 1 4629 20150202140044
+pool-71-190-253-170.nycmny.fios.verizon.net 0 1 5579 
+210.56.98.181 1 8 27456 20150211200735
+customer-gdl-204-110.megared.net.mx 1 3 3897 20150207022053
+ip-191.5.197.4.redeatel.com.br 1 8 27456 20150203161710
+191-43-81-54.userwifi.veloxzone.com.br 1 8 27456 20150211151711
+109.99.44.39 1 8 27456 20150203105610
+google-proxy-66-249-84-246.google.com 1 1 1984 20150202015636
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20150201 9 25 78547 4
+20150202 2 2 6613 2
+20150203 5 20 61112 5
+20150204 5 26 88981 5
+20150205 4 19 93203 4
+20150206 8 44 180282 7
+20150207 5 14 38483 5
+20150208 23 51 190425 8
+20150209 6 35 142825 6
+20150210 5 21 91323 5
+20150211 9 52 173907 9
+20150212 13 21 88759 4
+20150213 3 25 87947 3
+20150214 9 23 76735 7
+20150215 3 24 82368 3
+20150216 7 35 121810 6
+20150217 2 9 32085 2
+20150218 13 41 150509 7
+20150219 10 26 99700 5
+20150220 14 30 118894 5
+20150221 7 50 170380 7
+20150222 4 25 85283 4
+20150223 7 30 102152 7
+20150224 9 34 101328 9
+20150225 7 35 128099 5
+20150226 9 65 224277 9
+20150227 4 26 92983 4
+20150228 3 24 82368 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+5mn-15mn 1
+30s-2mn 5
+0s-30s 144
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ 162 443078 137 130
+/FAQ.html 8 34562 2 3
+/credit.html 7 36286 3 5
+/whatsnew.html 7 25863 2 3
+/project.html 6 30106 1 2
+/recognition.html 6 20120 2 2
+/resume.html 5 12272 3 3
+/link.html 1 7821 0 0
+/ToDo.html 1 5269 0 0
+/oracle9i_application_server.html 1 4449 0 1
+/LearningCurve.html 1 4872 0 1
+END_SIDER

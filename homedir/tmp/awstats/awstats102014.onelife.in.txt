@@ -1,0 +1,648 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201410 will be lost/reset.
+# Last config file used to build this data file was /home/onelife/tmp/awstats/awstats.onelife.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2003                
+POS_TIME 2683                
+POS_VISITOR 12582               
+POS_DAY 20592               
+POS_DOMAIN 3480                
+POS_LOGIN 4109                
+POS_ROBOT 4264                
+POS_WORMS 4735                
+POS_EMAILSENDER 4866                
+POS_EMAILRECEIVER 5009                
+POS_SESSION 21364               
+POS_SIDER 21561               
+POS_FILETYPES 5144                
+POS_DOWNLOADS 5385                
+POS_OS 5510                
+POS_BROWSER 5681                
+POS_SCREENSIZE 6639                
+POS_UNKNOWNREFERER 6713                
+POS_UNKNOWNREFERERBROWSER 7107                
+POS_ORIGIN 7386                
+POS_SEREFERRALS 7527                
+POS_PAGEREFS 7717                
+POS_SEARCHWORDS 8307                
+POS_KEYWORDS 8504                
+POS_MISC 2346                
+POS_ERRORS 8613                
+POS_CLUSTER 3965                
+POS_SIDER_404 8737                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20141101000424 61 12127 11309998514522
+FirstTime 20141001011648
+LastTime 20141031215517
+LastUpdate 20141101130229 61 0 60 0 0
+TotalVisits 219                 
+TotalUnique 124                 
+MonthHostsKnown 108                 
+MonthHostsUnknown 44                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 12 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 9258 33 57 263410
+1 6 14 48530 31 50 74345
+2 16 38 143092 31 50 294568
+3 15 33 388430 17 35 50676
+4 29 49 151414 35 58 533623
+5 13 25 144052 49 69 300855
+6 4 19 59454 109 139 1101424
+7 35 77 1212713 40 69 331420
+8 18 21 83778 27 54 597441
+9 14 43 155711 13 36 281229
+10 13 39 153001 23 43 167911
+11 19 37 157604 37 53 242656
+12 16 59 235515 44 58 227806
+13 27 58 221123 19 50 995078
+14 12 47 204108 20 41 155634
+15 8 24 79697 44 62 371805
+16 36 52 336801 49 66 222514
+17 39 39 202225 35 58 239102
+18 42 57 256335 20 46 47141
+19 14 21 83273 24 36 299569
+20 26 40 170557 28 43 106476
+21 15 46 162629 27 47 319403
+22 4 4 19258 38 65 326162
+23 5 20 67470 48 71 123392
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 30
+fi 173 173 859798
+us 56 81 313465
+in 51 159 1843364
+cn 34 62 212242
+de 23 23 108452
+sk 17 17 87428
+br 15 120 411840
+jp 9 18 50496
+ua 6 6 22815
+kr 6 6 11904
+ru 6 24 93065
+fr 6 20 65724
+es 4 32 109824
+pt 2 16 54912
+at 2 2 9258
+it 2 16 54912
+pl 2 2 5406
+nl 2 2 9258
+ve 2 16 54912
+cl 1 8 27456
+ph 1 9 33035
+lv 1 1 4629
+mx 1 8 27456
+pa 1 8 27456
+gb 1 9 33035
+sg 1 8 27456
+ec 1 8 27456
+sa 0 1 8696
+co 1 8 27456
+se 1 1 4629
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+bot[\s_+:,\.\;\/\\-] 661 5248916 20141031235506 181
+googlebot 192 1049421 20141029233733 21
+robot 133 479174 20141031133142 33
+spider 90 243103 20141031235621 18
+unknown 45 8720 20141031164326 45
+crawl 32 69570 20141031145909 6
+slurp 26 287113 20141030014806 7
+no_user_agent 5 17181 20141021114050 0
+msnbot\-media 4 38017 20141008075215 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 62 94962 0 0
+png 3 4864 0 0
+pdf 2 294510 0 0
+cgi 1 1010 0 0
+php 24 62605 0 0
+html 401 1607234 0 0
+js 84 62423 0 0
+jpg 223 1388113 0 0
+Unknown 2 8783 0 0
+gif 62 1103331 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/robots.txt 312 0 73888
+/one.pdf 27 2 3173466
+/SunilChoudhary.pdf 3 0 295976
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 12
+blackberry 1
+linuxandroid 11
+winlong 1
+winxp 84
+unix 1
+winvista 126
+linux 30
+win7 540
+macosx 21
+winunknown 6
+win2003 11
+Unknown 34
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 55
+msie6.0 15
+safari7.0.3 1
+chrome37.0.2062.124 76
+chrome27.0.1453.94 1
+safari7.0 8
+firefox5.0 4
+firefox3.6 1
+chrome38.0.2125.104 3
+android 9
+firefox5.02 2
+chrome5.0.375.99 1
+firefox4.0 1
+chrome38.0.2125.101 10
+chrome38.0.2125.111 39
+chrome36.0.1985.125 1
+curl 1
+firefox3.5.3 1
+firefox31.0 2
+firefox3.6.15 46
+chrome11.0.696.34 1
+chrome13.0.782.112 2
+chrome26.0.1410.65 1
+chrome27.0.1453.93 1
+msie7.0 11
+firefox23.0 1
+chrome37.0.2062.120 1
+chrome27.0.1453.90 1
+safari8.0 1
+chrome33.0.1750.154 3
+chrome37.0.2062.122 1
+chrome26.0.1410.43 3
+Unknown 24
+firefox11.0 5
+chrome30.0.0.0 2
+netscape 1
+firefox32.0 23
+blackberry 1
+chrome18.0.1025.166 1
+chrome10.0.648.133 1
+firefox21.0 3
+chrome32.0.1700.107 24
+firefox1.0.7 1
+chrome36.0.1985.143 200
+mozilla 185
+firefox25.0 6
+firefox1.0 1
+chrome35.0.1916.153 98
+firefox14.0.1 10
+msie10.0 1
+firefox6.0 3
+msie 6
+chrome27.0.1453.116 2
+firefox15.0.1 6
+safari 12
+firefox3.6.8 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Python-urllib/2.7_(_http://www.juls.savba.sk) 20141001141720
+Mozilla 20141021050055
+Mozilla/5.0_(compatible;_SiteExplorer/1.0b;__http://siteexplorer.info/) 20141027020920
+CakePHP 20141017204538
+nutch-1.4/Nutch-1.4 20141016152054
+A6-Indexer/1.0_(http://www.a6corp.com/a6-web-scraping-policy/) 20141015074315
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Python-urllib/2.7_(_http://www.juls.savba.sk) 20141001141720
+CakePHP 20141017204538
+nutch-1.4/Nutch-1.4 20141016152054
+A6-Indexer/1.0_(http://www.a6corp.com/a6-web-scraping-policy/) 20141015074315
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 295 304
+From1 0 0
+From2 35 42
+From3 41 41
+From4 57 479
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+google 5 12
+search 6 6
+baidu 23 23
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 13
+http://semalt.semalt.com/crawler.php 23 23
+http://22794088.semalt.com/crawler.php 6 6
+http://buttons-for-website.com 2 2
+http://leadwayau.com 1 1
+http://veldsur.fulba.com 1 1
+http://landmarkslegacy.com 1 1
+http://mmbandservices.co.uk/fotografu/sarasas 1 1
+http://lmrauction.com 1 1
+http://eskortburada.org/softwares/cad-cam/ 1 1
+http://compserve.com.au 1 1
+http://fenuste.com 1 1
+http://yourvisualhere.be 1 1
+http://waterfallscanopy.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+sunilchoudhary+swebsite 23
+sunil+choudhary 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 4
+sunilchoudhary 23
+swebsite 23
+choudhary 1
+sunil 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 18 20502
+302 1 20
+206 4 35319
+404 133 155584
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 66
+/admin/fckeditor/editor/filemanager/connectors/asp/connector.asp 1 -
+/editors/fckeditor/editor/filemanager/connectors/aspx/connector.aspx 1 -
+/editors/fckeditor/editor/filemanager/connectors/php/connector.php 1 -
+/fckeditor/editor/filemanager/connectors/asp/ezkxconnector.asp 1 -
+/admin/fckeditor/editor/filemanager/connectors/php/connector.php 1 -
+/admin.php 1 -
+/www.oracle.com 10 -
+/includes/fckeditor/editor/filemanager/connectors/php/connector.php 1 -
+/Resume_SunilChoudhary.txt 10 -
+/_image/mine.gif 3 -
+/admin/FCKeditor/editor/dialog 1 -
+/ckeditor/ckfinder/core/connector/php/connector.php 1 -
+/FCKeditor/editor/filemanager/connectors/aspx/connector.aspx 1 -
+/wp-admin/ 1 -
+/editors/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/fckeditor/editor/filemanager/connectors/asp/mlwpconnector.asp 1 -
+/fckeditor/editor/filemanager/connectors/php/connector.php 2 -
+/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/xmlrpc.php 1 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/fckeditor/editor/filemanager/connectors/aspx/connector.aspx 2 -
+/fckedit/editor/filemanager/connectors/aspx/connector.aspx 1 -
+/kcfinder/browse.php 1 -
+/fckeditor/editor/filemanager/connectors/asp/gqqoconnector.asp 1 -
+/ckeditor/ckfinder/core/connector/aspx/connector.aspx 1 -
+/admin/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/fckeditor/editor/filemanager/connectors/asp/connector.asp 2 -
+/administrator/components/com_virtuemart/virtuemart.xml 2 -
+/FCKeditor/editor/filemanager/connectors/php/connector.php 1 -
+/fckeditor/editor/filemanager/connectors/asp/lkufconnector.asp 1 -
+/administrator/ 1 -
+/blog/wp-admin/ 1 -
+/wp-login.php 8 -
+/FCKeditor/editor/filemanager/connectors/asp/connector.asp 1 -
+/fckeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 2 -
+/wp/wp-admin/ 1 -
+/wp-includes/css/admin-bar.css 1 https://www.google.com/
+/FCKeditor/editor/filemanager/upload/php/upload.php 1 -
+/administrator/components/com_joomlaupdate/restore.php 1 -
+/fckeditor/editor/filemanager/connectors/asp/jiczconnector.asp 1 -
+//blog/wp-login.php 1 http://onelife.in/wp-login.php
+/fckeditor/editor/filemanager/connectors/asp/vgkeconnector.asp 1 -
+/Resume_SunilChoudhary.rtf 4 -
+/includes/fckeditor/editor/filemanager/connectors/asp/chnuconnector.asp 1 -
+/old/wp-admin/ 1 -
+/editors/fckeditor/editor/filemanager/connectors/asp/connector.asp 1 -
+/editors/fckeditor/editor/filemanager/connectors/asp/chnuconnector.asp 2 -
+/wordpress/wordpress/wp-admin/ 1 -
+/admin/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 1 -
+/wp-admin/admin-ajax.php 1 -
+/ckeditor/ckfinder/core/connector/asp/connector.asp 1 -
+/_wiki/index.php/Talk:S1103D 1 http://onelife.in/_wiki/index.php
+/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 2 -
+/includes/fckeditor/editor/filemanager/connectors/asp/connector.asp 1 -
+/www.nucleussoftware.com 11 -
+/ckfinder/core/connector/php/connector.php 1 -
+/Resume_SunilChoudhary.pdf 3 -
+/includes/fckeditor/editor/filemanager/connectors/aspx/connector.aspx 1 -
+/administrator/index.php 1 -
+/admin/fckeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 1 -
+/admin/fckeditor/editor/filemanager/connectors/aspx/connector.aspx 1 -
+/valid-xhtml10.png 6 http://onelife.in/career.html
+/www.codezoo.net 12 -
+/wordpress/wp-admin/ 1 -
+/fckeditor/editor/filemanager/browser/default/connectors/jsp/connector.jsp 1 -
+/fckeditor/editor/filemanager/connectors/asp/chnuconnector.asp 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 152
+ns504861.ip-192-99-149.net 169 169 848986 20141028195611
+210.212.154.186 39 87 1359933 20141031071210
+147.213.138.6 17 17 87428 20141001141720
+69.58.178.56 10 10 54116 20141012170647
+38.100.21.63 10 11 54205 20141022135128
+199.187.122.91 7 7 38856 20141007111810
+www10115ug.sakura.ne.jp 6 15 37611 20141017211743
+158.85.89.7-static.masterlayer.com 6 6 13164 20141027020920
+static.173.185.76.144.clients.your-server.de 6 6 32071 20141024172101
+ds1862-01-vue.solidseodedicated.com 4 4 10812 20141009204725
+static.48.163.76.144.clients.your-server.de 4 4 19258 20141014210634
+61.135.190.102 4 7 9658 20141023031453
+ds2489-01-n.solidseodedicated.com 4 4 10812 20141021032002
+61.135.190.103 4 9 10806 20141014100610
+61.135.190.219 3 4 6526 20141027054813
+173.208.148.51 3 3 13887 20141013074815
+222.239.162.7 3 3 5952 20141027074521
+google-proxy-66-249-81-34.google.com 3 3 5952 20141014135954
+61.135.190.224 3 6 7674 20141031131844
+61.135.190.105 2 5 5690 20141017143908
+61.135.190.220 2 3 4542 20141020033330
+158.85.94.4-static.reverse.softlayer.com 2 2 5731 20141023021641
+91.236.75.57 2 2 5406 20141021023445
+61.135.190.100 2 2 3968 20141029102736
+static.213-133-97-216.clients.your-server.de 2 2 4629 20141009075514
+187-44-10-222.moc.mastercabo.com.br 1 8 27456 20141007213032
+177.55.253.228 1 8 27456 20141025111208
+baiduspider-123-125-71-106.crawl.baidu.com 1 1 1658 20141031164323
+baiduspider-123-125-71-89.crawl.baidu.com 0 1 1015 
+v4610.vir.kagoya.net 1 1 4295 20141017204538
+210.212.154.180 0 1 743 
+abts-mp-dynamic-182.4.168.122.airtelbroadband.in 1 4 32932 20141020133315
+alyon-656-1-745-109.w92-144.abo.wanadoo.fr 1 8 27456 20141023095758
+triband-mum-59.182.123.199.mtnl.net.in 1 8 27456 20141012143257
+baiduspider-123-125-71-79.crawl.baidu.com 0 1 2641 
+a85-138-89-242.cpe.netcabo.pt 1 8 27456 20141026130955
+189.115.145.143.static.host.gvt.net.br 1 8 27456 20141019190118
+177-9-178-156.dsl.telesp.net.br 1 8 27456 20141002230142
+85x113x58x138.static-customer.samara.ertelecom.ru 1 1 1984 20141010185223
+abts-kk-dynamic-032.73.167.122.airtelbroadband.in 1 8 27456 20141014063252
+106.79.129.12 0 1 29033 
+189-106-213-4.user.veloxzone.com.br 1 8 27456 20141014100617
+baiduspider-220-181-108-89.crawl.baidu.com 0 1 118193 
+cpe-104-35-241-132.socal.res.rr.com 0 1 5579 
+sol-fttb.110.152.118.46.sovam.net.ua 1 1 5371 20141009234827
+v4483.vir.kagoya.net 1 1 4295 20141010125052
+61.135.190.223 1 2 2558 20141009081308
+dsl-kk-static-023.140.145.59.airtelbroadband.in 0 1 29033 
+s140-30.rdale.k12.mn.us 0 1 5579 
+ec2-54-69-245-92.us-west-2.compute.amazonaws.com 1 1 0 20141011193234
+49.249.198.133 0 1 29033 
+proxy-220-255-1-108.singnet.com.sg 0 1 743 
+ec2-54-165-142-111.compute-1.amazonaws.com 1 1 1984 20141006084130
+178-137-95-11-lvv.broadband.kyivstar.net 1 1 5371 20141003222154
+138.91.230.7 2 2 9258 20141030185404
+51.238.32.95.dsl-dynamic.vsi.ru 0 1 5579 
+baiduspider-123-125-71-41.crawl.baidu.com 2 2 4048 20141031164323
+baiduspider-123-125-71-99.crawl.baidu.com 1 1 3162 20141031164324
+abts-mum-dynamic-231.92.170.122.airtelbroadband.in 1 8 27456 20141027072053
+187-40-150-239.user.veloxzone.com.br 1 8 27456 20141023140947
+162.10.217.91.collocation.ipisp.steephost.net 1 1 4629 20141024125312
+211.244.83.232 1 1 1984 20141007032727
+bb025497.virtua.com.br 1 8 27456 20141023073016
+h051.helix.fastwebserver.de 1 1 5371 20141007210220
+61.135.190.104 1 4 3706 20141003145139
+proxy-220-255-1-172.singnet.com.sg 1 1 1984 20141031044341
+dynamic-31.67.142.202.sitibroadband.in 1 1 1984 20141023041915
+static.136.69.251.148.clients.your-server.de 2 2 10742 20141008071526
+117.78.13.18 1 1 1984 20141016152054
+201-89-250-252.mganm702.dsl.brasiltelecom.net.br 1 8 27456 20141018101138
+static-182-84-90.rpnspl.com 0 1 29033 
+158.85.89.6-static.masterlayer.com 1 1 1984 20141022183203
+static.88-198-87-233.clients.your-server.de 1 1 1010 20141031210206
+ec2-50-19-214-24.compute-1.amazonaws.com 1 1 4629 20141028172141
+triband-mum-120.63.79.246.mtnl.net.in 1 8 27456 20141027060516
+160.snat-111-91-24.hns.net.in 1 8 27456 20141031095110
+200.162.130.36 1 8 27456 20141004150237
+baiduspider-123-125-71-86.crawl.baidu.com 1 1 2479 20141031164323
+23.111.28.93.rev.sfr.net 1 8 27456 20141010093355
+31-192-228-65-static.serverhotell.net 1 1 4629 20141004181911
+5e01a8dc.bb.sky.com 1 8 27456 20141008021008
+static.69.201.76.144.clients.your-server.de 2 2 10742 20141021051640
+b15228ed.virtua.com.br 1 8 27456 20141031215517
+msnbot-199-30-24-86.search.msn.com 0 7 25472 
+37.200.65.208 1 1 4629 20141019202514
+176.102.38.144 1 1 4629 20141030055507
+bfb8b8b2.virtua.com.br 1 8 27456 20141022213804
+179.253.63.1 1 8 27456 20141020201700
+static.46.75.251.148.clients.your-server.de 1 1 4629 20141008071525
+187-52-149-61.bnut3700.dsl.brasiltelecom.net.br 1 8 27456 20141015125813
+120.88.184.255 2 10 65312 20141016143555
+a89-152-48-199.cpe.netcabo.pt 1 8 27456 20141021101257
+abts-mp-dynamic-029.181.168.122.airtelbroadband.in 0 1 29033 
+179-99-17-21.dsl.telesp.net.br 1 1 1984 20141024185418
+static.88-198-56-239.clients.your-server.de 2 2 10742 20141021210938
+host15-202-dynamic.6-87-r.retail.telecomitalia.it 1 8 27456 20141014121331
+host205-204-dynamic.11-79-r.retail.telecomitalia.it 1 8 27456 20141008112239
+190.73-12-76.dyn.dsl.cantv.net 1 8 27456 20141001161722
+210.212.154.171 2 2 5797 20141031071158
+46.229.170.197 2 2 9258 20141023091216
+proxy-220-255-1-137.singnet.com.sg 0 1 574 
+02d8ddd8.bb.sky.com 0 1 5579 
+pc-101-252-83-200.cm.vtr.net 1 8 27456 20141023210120
+baiduspider-123-125-71-71.crawl.baidu.com 1 1 2569 20141031164324
+199-116-75-95.reliablehosting.com 1 8 27456 20141019024229
+ns3371993.ip-37-187-93.eu 2 2 9258 20141002144814
+62.239.37.120.broad.pt.fj.dynamic.163data.com.cn 2 2 5830 20141023032830
+50-11-217-241.par.clearwire-wmx.net 1 8 27456 20141017013924
+217.12.207.218 1 1 831 20141021050055
+203.111.234.148 1 8 27456 20141025231522
+114.143.158.16 1 8 27456 20141007091657
+proxy-220-255-1-132.singnet.com.sg 0 1 666 
+b15157be.virtua.com.br 1 8 27456 20141031121151
+226.186-69-26.uio.satnet.net 1 8 27456 20141015122507
+181.red-88-10-28.dynamicip.rima-tde.net 1 8 27456 20141010181753
+179-104-158-172.xd-dynamic.ctbcnetsuper.com.br 1 8 27456 20141010154333
+189-78-205-129.dsl.telesp.net.br 1 8 27456 20141010131238
+dedic336.hidehost.net 1 1 1984 20141011135701
+92.f5.344a.static.theplanet.com 1 1 4629 20141018161207
+125.red-83-47-61.dynamicip.rima-tde.net 1 8 27456 20141018122808
+190-202-197-239.dyn.dsl.cantv.net 1 8 27456 20141019140245
+138.91.226.72 2 2 9258 20141030202600
+126-4-191-213.fttb.ur.ru 1 4 23977 20141010113052
+2.90.94.101 0 1 8696 
+proxy-220-255-1-167.singnet.com.sg 0 1 1339 
+baiduspider-123-125-71-27.crawl.baidu.com 1 1 2753 20141031164323
+static.170.104.9.5.clients.your-server.de 1 1 4629 20141021144441
+61.135.190.222 0 1 574 
+charls-47-107.pacenet-india.com 0 1 8696 
+61.135.190.101 1 3 3132 20141002011411
+proxy-220-255-1-119.singnet.com.sg 0 1 20701 
+dsl-189-251-87-48-dyn.prod-infinitum.com.mx 1 8 27456 20141019200834
+baiduspider-123-125-71-100.crawl.baidu.com 0 1 2641 
+proxy-220-255-1-110.singnet.com.sg 0 1 718 
+ec2-54-86-235-76.compute-1.amazonaws.com 1 1 1984 20141015023254
+11.red-83-57-14.dynamicip.rima-tde.net 1 8 27456 20141011164023
+211.244.83.215 2 2 3968 20141022092236
+198.204.243.116 1 1 1984 20141015160734
+117.200.148.38 0 1 29033 
+baiduspider-123-125-71-34.crawl.baidu.com 1 1 3420 20141031164323
+177.203.44.13 1 8 27456 20141012130400
+ostrova-holding.ru 1 1 4629 20141002000127
+201.227.158.249 1 8 27456 20141007184917
+v4565.vir.kagoya.net 1 1 4295 20141003120356
+bd1d4a33.virtua.com.br 1 8 27456 20141031055903
+baiduspider-123-125-71-70.crawl.baidu.com 0 1 1015 
+h048.helix.fastwebserver.de 1 1 4629 20141007050833
+proxy-220-255-1-163.singnet.com.sg 0 1 731 
+119.pool85-54-253.dynamic.orange.es 1 8 27456 20141002033832
+122.175.198.39 0 1 29033 
+ec2-54-172-177-115.compute-1.amazonaws.com 1 1 1984 20141015074315
+ccscliente043.ifxnetworks.net.ve 1 3 3897 20141006141557
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20141001 22 38 183189 7
+20141002 8 23 77970 7
+20141003 6 11 59165 5
+20141004 52 73 267932 14
+20141005 9 10 39590 9
+20141006 11 14 40842 11
+20141007 23 45 178169 17
+20141008 13 28 101857 13
+20141009 7 8 23370 5
+20141010 12 54 478810 9
+20141011 5 14 45323 5
+20141012 15 31 123778 6
+20141013 1 1 4629 1
+20141014 11 34 111452 10
+20141015 16 32 123905 6
+20141016 10 19 97897 4
+20141017 32 43 183052 8
+20141018 3 24 85013 3
+20141019 38 69 295064 6
+20141020 21 32 155003 5
+20141021 32 44 236090 12
+20141022 17 26 100360 8
+20141023 18 49 189391 13
+20141024 3 3 11984 3
+20141025 2 18 112978 2
+20141026 1 8 27456 1
+20141027 5 20 61438 5
+20141028 3 3 13887 2
+20141029 1 2 2558 1
+20141030 4 5 16445 4
+20141031 27 83 1297431 17
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 2
+5mn-15mn 1
+15mn-30mn 2
+2mn-5mn 2
+0s-30s 210
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 20
+/ 192 622945 173 163
+/FAQ.html 28 139180 15 16
+/_wiki/index.php 23 61774 2 1
+/project_perl.html 18 68386 7 8
+/recognition.html 18 58309 1 5
+/link.html 17 102150 5 1
+/credit.html 16 96586 3 2
+/project.html 16 81334 2 3
+/resume.html 16 50420 1 3
+/whatsnew.html 14 81342 1 0
+/ToDo.html 11 55069 0 4
+/Bad_decisions_in_Liips.html 10 52386 1 2
+/LearningCurve.html 10 48720 0 1
+/artwork.html 9 41871 1 0
+/oracle9i_application_server.html 9 40041 1 0
+/oracle11iEbusiness_Suite.html 9 42495 4 1
+/career.html 8 26000 0 6
+/_wiki/index.php/S1103D 2 8783 0 1
+/cgi-sys/suspendedpage.cgi 1 1010 1 1
+/index.php 1 831 1 1
+END_SIDER

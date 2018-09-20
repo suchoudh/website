@@ -1,0 +1,263 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201709 will be lost/reset.
+# Last config file used to build this data file was /home/onelife/tmp/awstats/ssl/awstats.onelife.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2683                
+POS_VISITOR 6301                
+POS_DAY 6636                
+POS_DOMAIN 3273                
+POS_LOGIN 3533                
+POS_ROBOT 3688                
+POS_WORMS 4011                
+POS_EMAILSENDER 4142                
+POS_EMAILRECEIVER 4285                
+POS_SESSION 6844                
+POS_SIDER 6991                
+POS_FILETYPES 4420                
+POS_DOWNLOADS 4563                
+POS_OS 4642                
+POS_BROWSER 4749                
+POS_SCREENSIZE 4902                
+POS_UNKNOWNREFERER 4976                
+POS_UNKNOWNREFERERBROWSER 5063                
+POS_ORIGIN 5145                
+POS_SEREFERRALS 5278                
+POS_PAGEREFS 5422                
+POS_SEARCHWORDS 5570                
+POS_KEYWORDS 5722                
+POS_MISC 2347                
+POS_ERRORS 5781                
+POS_CLUSTER 3389                
+POS_SIDER_404 5878                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171001003546 6 795 9540369556817
+FirstTime 20170901035010
+LastTime 20170929051817
+LastUpdate 20171001101334 6 0 5 0 0
+TotalVisits 13                  
+TotalUnique 6                   
+MonthHostsKnown 4                   
+MonthHostsUnknown 2                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 3 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 5 8 20139
+1 2 9 31844 3 6 18771
+2 0 0 0 2 5 6252
+3 1 8 31844 2 5 128880
+4 0 0 0 1 1 5860
+5 6 6 13887 2 5 912
+6 1 1 0 4 6 16205
+7 0 0 0 3 5 8105
+8 0 0 0 5 5 13887
+9 1 1 0 22 25 110462
+10 1 8 31844 3 4 11008
+11 0 0 0 5 12 28701
+12 0 0 0 8 9 108659
+13 0 0 0 6 10 30297
+14 0 0 0 6 8 22211
+15 0 0 0 2 3 4933
+16 0 0 0 0 3 127434
+17 1 1 0 4 8 15346
+18 0 0 0 2 6 10140
+19 0 0 0 4 4 18844
+20 1 1 0 3 7 15103
+21 0 0 0 1 3 608
+22 0 0 0 8 15 38069
+23 1 1 0 5 7 19764
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+de 8 8 0
+us 4 4 13887
+in 2 16 63688
+cn 1 8 31844
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+bot[\s_+:,\.\;\/\\-] 144 679352 20170930230133 37
+googlebot 4 1216 20170923054227 4
+netcraft 1 4629 20170909125932 0
+bingpreview 1 1015 20170930021423 0
+no_user_agent 1 4629 20170929193028 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+gif 3 62103 0 0
+html 15 27774 0 0
+css 3 7923 0 0
+jpg 12 8574 0 0
+js 3 3045 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/SunilChoudhary.pdf 2 0 253652
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+winnt 1 1
+linux 2 2
+win7 32 11
+macosx 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+firefox17.0 2 2
+chrome51.0.2704.79 1 1
+chrome40.0.2214.85 8 8
+chrome60.0.3112.113 24 3
+firefox51.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 15 15
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 21
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 13 0
+401 3 84499
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 4
+/www.oracle.com 3 -
+/www.codezoo.net 1 -
+/.well-known/apple-app-site-association 4 -
+/www.nucleussoftware.com 5 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 6
+planetlab19.net.in.tum.de 8 8 0 20170929051817
+107.191.50.27.vultr.com 2 2 9258 20170905055136
+mail36.correionaweb103.com 2 2 4629 20170920052934
+mail.akums.net 1 8 31844 20170901035010
+49.66.90.120 1 8 31844 20170905014920
+111.92.74.157 1 8 31844 20170926102428
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20170901 1 8 31844 1
+20170905 3 10 41102 2
+20170920 2 2 4629 1
+20170922 1 1 0 1
+20170926 1 8 31844 1
+20170927 2 2 0 2
+20170928 3 3 0 3
+20170929 2 2 0 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 13
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 15 27774 13 13
+END_SIDER

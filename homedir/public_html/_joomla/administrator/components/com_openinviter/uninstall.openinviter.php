@@ -1,0 +1,10 @@
+<?php
+defined( '_JEXEC' ) or die( 'Restricted access' );
+function com_install()
+{
+?>
+<div class="header">Congratulations, Open Inviter uninstalled!</div>
+<p>Open source OpenInviter<sup>TM</sup> (Open Inviter<sup>TM</sup>) is a free import contacts (addressbook) script from email providers like Azet, Inbox.com, AOL, Live/Hotmail, YouTube, Grafitti, 5Fm, Care2, Zapakmail, Apropo, Virgilio, Pochta, Lycos, O2, LinkedIn, Evite, Doramail, Yandex, MSN, IndiaTimes, India, Canoe, GMail, FastMail, Rambler, Mail.com, Web.de, KataMail, Mynet.com, Interia, Meta, Mail.in, Hushmail, Clevergo, Inet, Atlas, GMX.net, Terra, Nz11, Walla, Bordermail, Freemail, Yahoo!, Libero, Netaddress, Aussiemail, Kids, Sapo.pt, Rediff, Techemail, Mail.ru, Abv, Bigstring, Gawab, Popstarmail, Mail2World, Uk2, OperaMail, Wp.pt or social portals like Koolro, Last.fm, Mevio, Mycatspace, Flixster, Bebo, Livejournal, Mydogspace, NetLog, Meinvz, MySpace, Plurk, Facebook, Cyworld, Vkontakte, Plazes, Orkut, Flickr, Hyves, Perfspot, Hi5, Skyrock, Badoo, Famiva, Kincafe, Friendster, Multiply, Konnects, Eons, Bookcrossing, Friendfeed, Brazencareerist, Flingr, Lovento, Twitter, Xanga, Faces, Plaxo, Motortopia, Xuqa, Ning, Tagged, Vimeo, Fdcareer, Xing. This contacts importer script is integrating with content management systems (aka CMS) like Drupal, PhpBB, nowFire, RoundCube, PunBB, Vwebmail, SimpleMachines Forum (SMF), myBB, Dating Pro, Buddy Zone, JamRoom, phpFoX, Joomla, Social Engine, phpizabi, vBulletin, Joomla1.0, jamit job, PHPMELODY, symfony, Atmail5, joovili, Boonex Dolphin, Wordpress. Open Inviter is written in PHP 5 (no database required but cURL or wget required) and running on any webserver (tested on Apache) offering advanced tell a friend features. OpenInviter<sup>TM</sup> is a free self hosted solution that does not use a third party gateway (or API) to import contacts.</p>
+<?php
+}
+?>

@@ -1,0 +1,865 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201510 will be lost/reset.
+# Last config file used to build this data file was /home/onelife/tmp/awstats/awstats.onelife.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2678                
+POS_VISITOR 21334               
+POS_DAY 28738               
+POS_DOMAIN 3464                
+POS_LOGIN 4121                
+POS_ROBOT 4276                
+POS_WORMS 4947                
+POS_EMAILSENDER 5078                
+POS_EMAILRECEIVER 5221                
+POS_SESSION 29484               
+POS_SIDER 29663               
+POS_FILETYPES 5356                
+POS_DOWNLOADS 5580                
+POS_OS 5683                
+POS_BROWSER 5997                
+POS_SCREENSIZE 7023                
+POS_UNKNOWNREFERER 7097                
+POS_UNKNOWNREFERERBROWSER 7644                
+POS_ORIGIN 7951                
+POS_SEREFERRALS 8091                
+POS_PAGEREFS 8264                
+POS_SEARCHWORDS 8732                
+POS_KEYWORDS 8884                
+POS_MISC 2341                
+POS_ERRORS 8943                
+POS_CLUSTER 3977                
+POS_SIDER_404 9053                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20151101035153 1 0 9411877610404
+FirstTime 20151001044325
+LastTime 20151031181102
+LastUpdate 20151102025833 1 0 0 0 0
+TotalVisits 133                 
+TotalUnique 126                 
+MonthHostsKnown 101                 
+MonthHostsUnknown 45                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 24 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 26 75416 54 77 389655
+1 11 11 36760 24 40 709575
+2 27 54 526506 106 155 233081
+3 4 30 932203 15 30 45257
+4 15 23 94371 23 36 216324
+5 3 14 92482 18 31 338823
+6 13 42 139093 31 64 344446
+7 4 32 109824 17 36 483031
+8 6 31 96386 30 48 334802
+9 9 24 77478 17 39 241671
+10 15 15 66774 32 54 654663
+11 5 28 112547 23 44 740591
+12 19 64 271519 29 48 331072
+13 10 26 92522 117 148 467429
+14 16 38 147238 17 28 541964
+15 2 17 89853 19 39 385372
+16 6 22 148016 29 45 493562
+17 3 24 82368 36 55 223556
+18 7 35 121066 27 42 203489
+19 6 48 164736 23 36 200701
+20 3 4 42920 74 100 251573
+21 5 5 17855 49 73 496948
+22 4 13 40037 94 107 317441
+23 7 22 73274 44 56 256304
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 33
+us 76 129 624736
+in 24 83 444322
+jp 18 43 1217325
+br 18 144 494208
+cn 14 21 56441
+it 11 89 302747
+de 10 10 27775
+ua 5 5 20500
+zz 5 11 14894
+fr 4 4 10581
+nl 4 4 15871
+ca 2 9 32085
+pt 1 8 27456
+cl 1 1 1984
+kr 1 1 1984
+my 1 5 5294
+ru 1 1 1984
+mx 1 8 27456
+ro 1 1 1984
+gb 1 1 4629
+bg 1 8 27456
+sr 1 8 27456
+si 1 8 27456
+dz 1 8 27456
+by 1 1 4629
+lt 0 1 22992
+ir 0 1 22992
+tw 0 1 22992
+pk 0 1 22992
+ar 1 8 27456
+pe 1 8 27456
+mg 1 9 28199
+ve 1 8 27456
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+bot[\s_+:,\.\;\/\\-] 619 3784975 20151031210035 188
+googlebot 91 369207 20151031020718 23
+robot 84 1169086 20151031224716 25
+spider 83 2104169 20151031195505 0
+crawl 39 81796 20151018000113 3
+slurp 27 588968 20151029025501 11
+unknown 20 6080 20151030183825 20
+google[_+\s]web[_+\s]preview 11 30901 20151012093316 0
+no_user_agent 8 30062 20151022180137 1
+googlebot\-image 7 126446 20151031113852 0
+bingpreview 3 22614 20151030083442 0
+[\s_+:,\.\;\/\\-]bot 2 58870 20151018223130 0
+curl 2 4629 20151008204830 0
+php 1 20701 20151017050259 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 61 84283 0 0
+pdf 3 204521 0 0
+jsp 1 2887 0 0
+php 13 35148 0 0
+html 192 602552 0 0
+js 62 35588 0 0
+jpg 248 1507582 0 0
+Unknown 2 3756 0 0
+gif 66 1174927 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/one.pdf 20 0 2288831
+/SunilChoudhary.pdf 14 0 1691902
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+linuxandroid 6 2
+blackberry 2 2
+winlong 1 1
+macosx6 3 3
+winxp 6 5
+ios_iphone 28 8
+win2000 1 1
+winunknown 1 1
+win2003 22 20
+macosx9 12 6
+win8 13 4
+unix 4 2
+java 2 2
+linux 46 28
+win7 401 62
+winme 1 1
+macosx 63 27
+win8.1 6 5
+Unknown 29 27
+macosx8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 54
+chrome44.0.2403.125 1 1
+msie6.0 5 5
+firefox5.0 1 1
+chrome38.0.1025.166 4 1
+android 1 0
+chrome5.0.375.99 1 1
+firefox18.0 2 2
+firefox4.0 3 3
+chrome36.0.1985.125 12 6
+firefox24.0 1 1
+firefox31.0 2 2
+chrome28.0.1500.72 1 1
+chrome42.0.2311.90 30 17
+chrome43.0.2357.81 1 1
+chrome39.0.2171.65 1 1
+msie7.0 22 20
+chrome37.0.2062.120 11 11
+firefox23.0 1 1
+firefox41.0 1 0
+chrome27.0.1453 8 1
+safari8.0 6 6
+msie9.0 1 0
+Unknown 18 17
+blackberry 2 2
+opera12.16 1 0
+safari8.0.8 4 4
+firefox3.5.1 1 1
+libwww 1 1
+firefox10.0.1 1 1
+firefox38.0 4 2
+chrome46.0.2490.71 11 2
+chrome28.0.1500.71 1 1
+firefox30.0 1 1
+chrome32.0.1700.107 16 2
+chrome46.0.2490.80 1 0
+msie11.0 4 3
+chrome36.0.1985.143 327 41
+chrome18.0.1025.133 1 1
+safari9.0 9 1
+mozilla 13 13
+firefox39.0 6 2
+chrome45.0.2454.101 37 6
+firefox1.0 1 1
+firefox25.0 1 1
+chrome35.0.1916.153 25 4
+firefox14.0.1 8 8
+msie10.0 11 3
+firefox3.6.3 1 1
+chrome41.0.2220.0 1 1
+msie 1 1
+firefox36.0 1 1
+chrome29.0.1547.2 1 1
+safari 21 2
+firefox3.1 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+binlar_2.6.3_test@mgmt.mic 20151013004839
+LWP::Simple/5.827_libwww-perl/5.833 20151019094140
+Mozilla/5.0_(compatible;_Lipperhey-Kaus-Australis/5.0;__https://www.lipperhey.com/en/about/) 20151018103647
+YahooCacheSystem;_YahooWebServiceClient 20151017163622
+Google_favicon 20151015120707
+Opera/9.80_(Series_60;_Opera_Mini/7.1.32448/37.6652;_U;_en)_Presto/2.12.423_Version/12.16 20151004060309
+Mnogosearch-3.1.21 20151009011737
+nutch-1.4/Nutch-1.4 20151013181331
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+YahooCacheSystem;_YahooWebServiceClient 20151017163622
+Google_favicon 20151015120707
+Java/1.7.0_79 20151014012800
+Mnogosearch-3.1.21 20151009011737
+binlar_2.6.3_test@mgmt.mic 20151013004839
+nutch-1.4/Nutch-1.4 20151013181331
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 136 161
+From1 0 0
+From2 4 13
+From3 58 58
+From4 10 416
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 3 11
+bing 0 1
+aol 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 10
+http://rankings-analytics.com/try.php 26 26
+http://success-seo.com/try.php 11 11
+http://buttons-for-website.com 8 8
+http://pizza-imperia.com 2 2
+http://pizza-tycoon.com 2 2
+http://hvd-store.com 2 2
+https://elitesportsadvisor.com 2 2
+http://hundejo.com 2 2
+http://burger-imperia.com 2 2
+http://video--production.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 6 6834
+404 397 453460
+301 6 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 282
+/xiaolei.php 1 http://onelife.in/xiaolei.php
+/plus/bakup.php 1 http://onelife.in/plus/bakup.php
+/Editor/assetmanager/assetmanager.asp 1 -
+/admin.php 2 -
+/www.oracle.com 16 -
+/plus/mycak.php 1 http://onelife.in/plus/mycak.php
+/RTE_popup_file_atch.asp 1 -
+/plugins/search/newsfeeds.php 1 -
+/include/code/mp.php 1 http://onelife.in/include/code/mp.php
+/dxyylc/1ndex.php 1 http://onelife.in/dxyylc/1ndex.php
+/new_gb/help/images/usage/3.3.gif 1 -
+/components/hack/a.php 1 -
+/CMS/RTE_popup_file_atch.asp 1 -
+/yijuhua.php 1 http://onelife.in/yijuhua.php
+/userfiles/image/diaosi.asp/dwobb50161.jpg 1 http://onelife.in/userfiles/image/diaosi.asp/dwobb50161.jpg
+/packages/portal/includes/js/editor/editor/assetmanager/assetmanager.php 1 -
+/modules/mod_footer/tmpl/index.php 1 -
+/xmlrpc.php 1 -
+/plus/xsvip.php 1 http://onelife.in/plus/xsvip.php
+/plus/mytag_js.php 6 http://onelife.in/plus/mytag_js.php
+/lrrpv51331.asp 1 http://onelife.in/lrrpv51331.asp
+/admin/includes/rte/editor/fckeditor.html 1 -
+/editor/assetmanager/assetmanager.php 1 -
+/innovaeditor/assetmanager/assetmanager.php 1 -
+/fckeditor1/editor/fckeditor.html 1 -
+/components/a.php 1 -
+/manage/editor/fckeditor.html 1 -
+/ScanWebshell.asp 1 http://onelife.in/ScanWebshell.asp
+/Uploads/Fck/file/20150402142450.asp 1 http://onelife.in/Uploads/Fck/file/20150402142450.asp
+/includes/RTE/RTE_popup_file_atch.asp 1 -
+/doku.php 1 -
+/FCKeditor/editor/fckeditor.html 1 -
+/weki.php 1 http://onelife.in/weki.php
+/docs.css 1 -
+/plus/av.php 1 http://onelife.in/plus/av.php
+/administrator/index3.php 1 -
+/wp-login.php 7 http://onelife.in/wp-login.php
+/script/fckeditor/editor/fckeditor.html 1 -
+/jjxmq.asp 1 http://onelife.in/jjxmq.asp
+/Manage/Include/fckeditor/editor/fckeditor.html 1 -
+/Files/image/diaosi.asp/zznnx71579.jpg 1 http://onelife.in/Files/image/diaosi.asp/zznnx71579.jpg
+/wp-content/include.php 1 -
+/system/fckeditor/editor/fckeditor.html 1 -
+/data/conn/config.php 1 http://onelife.in/data/conn/config.php
+/Resume_SunilChoudhary.rtf 3 -
+/ggg.asp 1 http://onelife.in/ggg.asp
+/WebAdmin/FCKeditor/editor/fckeditor.html 1 -
+/images/zh-CN/logo.ico 1 -
+/userfiles/file/20150402142729.asp 2 http://onelife.in/userfiles/file/20150402142729.asp
+/shop/ 3 -
+/controls/fckeditor/editor/fckeditor.html 1 -
+/inv/assetmanager/assetmanager.php 1 -
+/admin/fckeditor/editor/fckeditor.html 1 -
+/blog/xmlrpc.php 1 -
+/checkout/ 1 -
+/archiver/ 1 -
+/admin/system/editor/fckeditor.html 1 -
+/license.php 1 http://onelife.in/license.php
+/inc/splitword.php 1 http://onelife.in/inc/splitword.php
+/Resume_SunilChoudhary.pdf 3 -
+/cms/fckeditor/editor/fckeditor.html 1 -
+/FileZillaPortable/Data/settings/filezilla.xml 1 -
+/sitemap/templates/met/SqlIn.asp 1 http://onelife.in/sitemap/templates/met/SqlIn.asp
+/config/AspCms_Config.asp 1 http://onelife.in/config/AspCms_Config.asp
+/images/login-page.gif 1 -
+/rss.aspx 1 -
+/includes/general.js 1 -
+/manager/status 2 -
+/ads/admin/admin.lnc.php 1 http://onelife.in/ads/admin/admin.lnc.php
+/wp-includes/SimplePie/theme-options.php 1 -
+/images/swfupload/images/uddatasql.php 1 http://onelife.in/images/swfupload/images/uddatasql.php
+/php168/1ist.php 1 http://onelife.in/php168/1ist.php
+/mail/ 3 -
+/images/swfupload/images/uploadye.php 2 http://onelife.in/images/swfupload/images/uploadye.php
+/includes/fckeditor/editor/fckeditor.html 1 -
+/adm1n/adm1n.asp 1 http://onelife.in/adm1n/adm1n.asp
+/archive/archive.css 1 -
+/components/com_wrapper/wraper.php 1 -
+/intranet/fckeditor/editor/fckeditor.html 1 -
+/_image/mine.gif 5 -
+/Resume_SunilChoudhary.txt 9 -
+/Uploads/uploadTester.asp 1 -
+/forum/ 3 -
+/plugins/content/mysql/config.php 1 -
+/Ac2.asp 1 http://onelife.in/Ac2.asp
+/alimail/ 1 -
+/wp-admin/ 3 -
+/shell.php 2 http://onelife.in/shell.php
+/dvbbs/ 1 -
+/templates/plus/sky.php 1 http://onelife.in/templates/plus/sky.php
+/scripts/fckeditor/editor/fckeditor.html 1 -
+/wordpress 1 -
+/include/ckeditor/plugins/pagebreak/images/inCahe.php 1 http://onelife.in/include/ckeditor/plugins/pagebreak/images/inCahe.php
+/rte/rte_popup_file_atch.asp 1 -
+/hack/upgrade/admin.php 1 http://onelife.in/hack/upgrade/admin.php
+/panel/FCKeditor/editor/fckeditor.html 1 -
+/install/modurnlecscache.php 1 http://onelife.in/install/modurnlecscache.php
+/mambots/editors/fckeditor/editor/fckeditor.html 1 -
+/admin/assetmanager/assetmanager.php 1 -
+/fckeditor/UploadFiles/media/ali.asp/ali(24).jpg 1 http://onelife.in/fckeditor/UploadFiles/media/ali.asp/ali(24).jpg
+/include/fckeditor/editor/fckeditor.html 1 -
+/docs/ 1 -
+/leadbbs/ 1 -
+/files/file/1.asp/20150402142804.jpg 1 http://onelife.in/files/file/1.asp/20150402142804.jpg
+/weki.asp 1 http://onelife.in/weki.asp
+/test/wp-admin/ 2 -
+/zzz.asp 1 http://onelife.in/zzz.asp
+/images/zh-CN/winisp.gif 1 -
+/admin/ 1 http://onelife.in/admin/
+/dxyylc/md5.php 1 http://onelife.in/dxyylc/md5.php
+/x.php 1 http://onelife.in/x.php
+/issmall 1 -
+/apple-touch-icon.png 8 -
+/plus/e7xue.php 1 http://onelife.in/plus/e7xue.php
+/wiki.php 1 http://onelife.in/wiki.php
+/plus/helen.php 1 http://onelife.in/plus/helen.php
+/administrator/includes/event.php 1 -
+/ind.php 1 -
+/jycpcx.asp 1 http://onelife.in/jycpcx.asp
+/wp-config.php~ 1 -
+/zznnx71579.asp 1 http://onelife.in/zznnx71579.asp
+/admin/editor/assetmanager/assetmanager.php 1 -
+/kdatebase/index_.asp 1 http://onelife.in/kdatebase/index_.asp
+/Files/file/20150402142915.asp 1 http://onelife.in/Files/file/20150402142915.asp
+/archiver 3 -
+/ASPAdmin_A.asp 1 http://onelife.in/ASPAdmin_A.asp
+/inc/Templates/rss.xslt 1 -
+/apple-touch-icon-precomposed.png 8 -
+/uploadfiles/File/20150402142900.asp 1 http://onelife.in/uploadfiles/File/20150402142900.asp
+/scripts/assetmanager/assetmanager.asp 1 -
+/modules/fckeditor/editor/fckeditor.html 1 -
+/FileZilla.xml 1 -
+/valid-xhtml10.png 2 http://www.onelife.in/artwork.html
+/public/js/fckeditor/editor/fckeditor.html 1 -
+/cgi-mod/header_logo.cgi 1 -
+/include/editor/fckeditor.html 1 -
+/extern.php 1 -
+/tools/rss.aspx 1 -
+/fck/editor/fckeditor.html 1 -
+/plus/mybak.php 1 http://onelife.in/plus/mybak.php
+/apple-app-site-association 1 -
+/stylesheet.css 1 -
+/news/fckeditor/editor/fckeditor.html 1 -
+/bypass.php 1 http://onelife.in/bypass.php
+/do/class.php 1 http://onelife.in/do/class.php
+/shops/ 3 -
+/1234.php 1 http://onelife.in/1234.php
+/libraries/joomla/installer/adapters/index.php 1 -
+/admin/editor/assetmanager/assetmanager.asp 1 -
+/help/ch_gb/images/help-title.gif 1 -
+/plugins/system/cache/cache.xml 1 -
+/1.asp 1 http://onelife.in/1.asp
+/bftvp15111.asp 1 http://onelife.in/bftvp15111.asp
+/tsnFile/UserFiles/Image/diaosi.asp/zznnx71579.jpg 1 http://onelife.in/tsnFile/UserFiles/Image/diaosi.asp/zznnx71579.jpg
+/blog 1 -
+/xx.asp:201362123211948915.jpg 1 http://onelife.in/xx.asp:201362123211948915.jpg
+/utility/convert/data/config.inc.php 2 http://onelife.in/utility/convert/data/config.inc.php
+/admin/editor/fckeditor.html 1 -
+/dxyylc/md5.asp 1 http://onelife.in/dxyylc/md5.asp
+/language/en-GB/en_GB.php 1 -
+/admin/RTE_popup_file_atch.asp 1 -
+/ASPAdmin.asp 1 http://onelife.in/ASPAdmin.asp
+/admin/assetmanager/assetmanager.asp 1 -
+/download/FileZilla.xml 1 -
+/libraries/simplepie/idn/index.php 1 -
+/Upload/Editor/image/diaosi.asp/zznnx71579.jpg 1 http://onelife.in/Upload/Editor/image/diaosi.asp/zznnx71579.jpg
+/edit/editor/fckeditor.html 1 -
+/dump.sql 1 http://onelife.in/dump.sql
+/plus/ad_js.php 1 http://onelife.in/plus/ad_js.php
+/tmp/gif.php 1 -
+/6kbbs/ 1 -
+/ecshop/ 1 -
+/plugins/system/mtupgrade/unicodes.php 1 -
+/wp/wp-admin/ 3 -
+/common/fckeditor/editor/fckeditor.html 1 -
+/images/stories/0day.php 1 -
+/eshop/ 3 -
+/FreeASPUpload/uploadTester.asp 1 -
+/do/c.php 1 http://onelife.in/do/c.php
+/admin/rte/RTE_popup_file_atch.asp 1 -
+/administrator/components/com_joomlaupdate/wt5121n.php 1 -
+/data/admin/sky.php 1 http://onelife.in/data/admin/sky.php
+/admin/fck/editor/fckeditor.html 1 -
+/components/com_jnews/includes/openflashchart/tmp-upload-images/255test.php 1 -
+/js/mage/cookies.js 1 http://onelife.in
+/skin/frontend/default/modern/css/styles.css 1 -
+/admin-console 1 -
+/assetmanager/assetmanager.php 1 -
+/admin/uploadTester.asp 1 -
+/mall/ 3 -
+/1.php 1 http://onelife.in/1.php
+/UpdateFiles/file/20150402142838.asp 1 http://onelife.in/UpdateFiles/file/20150402142838.asp
+/components/com_banners/setting.php 1 -
+/jjxmq.asp:.jpg 1 http://onelife.in/jjxmq.asp:.jpg
+/test.php 1 http://onelife.in/test.php
+/administrator/index.php 3 -
+/editor/editor/fckeditor.html 1 -
+/uploadTester.asp 1 -
+/plus/laobiao.php 1 http://onelife.in/plus/laobiao.php
+/include/helperss/filter.helpaer.php 1 http://onelife.in/include/helperss/filter.helpaer.php
+/administrator/fckeditor/editor/fckeditor.html 1 -
+/js/ajax_x.js 1 -
+/images/powered_by.gif 1 -
+/www.codezoo.net 6 -
+/wordpress/wp-admin/ 3 -
+/Files/pubfiles/20150402143354.asp 1 http://onelife.in/Files/pubfiles/20150402143354.asp
+/img/file/1.asp/20150402143910.jpg 1 http://onelife.in/img/file/1.asp/20150402143910.jpg
+/evalproxy.php 1 http://onelife.in/evalproxy.php
+/editors/fckeditor/editor/fckeditor.html 1 -
+/tmp/j.php 1 -
+/plus/11m.php 1 http://onelife.in/plus/11m.php
+/Files/UserFiles/Image/diaosi.asp/zznnx71579.jpg 1 http://onelife.in/Files/UserFiles/Image/diaosi.asp/zznnx71579.jpg
+/Resume_SunilChoudhary.zip 2 -
+/images/cache.asp 1 http://onelife.in/images/cache.asp
+/phpmyadmin/docs.css 1 -
+/javascripts/fckeditor/editor/fckeditor.html 1 -
+/plus/long.php 1 http://onelife.in/plus/long.php
+/upload/uploadTester.asp 1 -
+/tmp/a.php 1 -
+/include/ckeditor/plugins/app/inCahe.php 1 http://onelife.in/include/ckeditor/plugins/app/inCahe.php
+/Somnus/Somnus.asp 1 http://onelife.in/Somnus/Somnus.asp
+/wp-content/plugins/revslider/js/rev_admin.js 2 -
+/templets/plus/sky.php 1 http://onelife.in/templets/plus/sky.php
+/modules/mod_archive/tmpl/index.php 1 -
+/uploadfile/2015-4/File/ali.asp 1 http://onelife.in/uploadfile/2015-4/File/ali.asp
+/licence.txt 1 -
+/web-console 1 -
+/admin/index.php 1 -
+/max-templates/classic/styles/app.css 1 -
+/fluxbb/ 1 -
+/outils/fckeditor/editor/fckeditor.html 1 -
+/data/cache/t.php 1 http://onelife.in/data/cache/t.php
+/phpmyadmin/ 1 -
+/phpwind/ 1 -
+/admin/view/javascript/fckeditor/editor/fckeditor.html 1 -
+/Images/pubfiles/20150402143355.asp 1 http://onelife.in/Images/pubfiles/20150402143355.asp
+/include/data/fonts/uddatasql.php 1 http://onelife.in/include/data/fonts/uddatasql.php
+/editor/fckeditor.html 1 -
+/include/helperss/filter.helpear.php 1 http://onelife.in/include/helperss/filter.helpear.php
+/plus/90sec.php 1 http://onelife.in/plus/90sec.php
+/phpbb/ 1 -
+/ASPupload/uploadTester.asp 1 -
+/blog/wp-admin/ 2 -
+/skype:suchoudh 1 -
+/components/com_hdwplayer/hdwplayer.php 1 http://search.aol.com/aol/search
+/manager/scripts/assetmanager/assetmanager.asp 1 -
+/bbsmax/ 1 -
+/discuz/ 2 -
+/web2/login_template/1.files/Logo1.jpg 1 -
+/manage/fckeditor/editor/fckeditor.html 1 -
+/modules/login.php 1 -
+/images/login_03.gif 1 -
+/rss.php 1 -
+/blog/FCKeditor/editor/fckeditor.html 1 -
+/fckeditor/fckeditor/editor/fckeditor.html 1 -
+/inc/fckeditor/editor/fckeditor.html 1 -
+/old/wp-admin/ 3 -
+/utility/convert/include/rom2823.php 1 http://onelife.in/utility/convert/include/rom2823.php
+/plus/myjs.php 1 http://onelife.in/plus/myjs.php
+/site/fckeditor/editor/fckeditor.html 1 -
+/data/data/index.php 1 http://onelife.in/data/data/index.php
+/libraries/phputf8/phputf8.php 1 -
+/images/login9/login_33.jpg 1 -
+/images/post.php 1 -
+/templates/system/html/gif.php 1 -
+/www.nucleussoftware.com 16 -
+/bbs/ 3 -
+/clientscript/vbulletin_ajax_htmlloader.js 1 -
+/cms/assetmanager/assetmanager.php 1 -
+/admin/error.asp 1 http://onelife.in/admin/error.asp
+/include.php 1 -
+/admin/Admin_Ta.asp 1 http://onelife.in/admin/Admin_Ta.asp
+/public/fckeditor/editor/fckeditor.html 1 -
+/plus/mytag_j.php 1 http://onelife.in/plus/mytag_j.php
+/Upload/file/1.asp/20152602022652.jpg 1 http://onelife.in/Upload/file/1.asp/20152602022652.jpg
+/data/config.php 1 http://onelife.in/data/config.php
+/wiki.asp 1 http://onelife.in/wiki.asp
+/images/j.php 1 -
+/manager/html 1 -
+/webmanage/fckeditor/editor/fckeditor.html 1 -
+/auth/login 2 -
+/assetmanager/assetmanager.asp 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 146
+v133-130-58-190.a013.g.tyo1.static.conoha.io 17 30 342018 20151014022113
+spider-8.lipperhey.com 12 12 60822 20151018103648
+69.58.178.56 10 10 54116 20151012121902
+38.100.21.64 10 11 53628 20151013141552
+209.0.146.171 10 11 56334 20151005041049
+183.60.243.190 6 12 33213 20151027021950
+abts-mp-dynamic-198.26.168.122.airtelbroadband.in 4 4 10800 20151014015217
+158.69.2.151 4 4 18516 20151018212756
+abts-mp-dynamic-136.38.168.122.airtelbroadband.in 4 4 10799 20151009235728
+abts-mp-dynamic-097.29.168.122.airtelbroadband.in 4 4 10653 20151023064756
+46.229.170.197 3 3 13887 20151026132937
+221.231.6.246 3 3 10089 20151014012800
+abts-mum-dynamic-054.76.70.182.airtelbroadband.in 3 11 149291 20151013025129
+static-mum-182.57.117.109.mtnl.net.in 2 9 29440 20151014065933
+static.9.39.4.46.clients.your-server.de 2 2 9258 20151010130156
+204-195-139-006-dhcp.mia.fl.atlanticbb.net 2 2 9258 20151028180616
+72-77-134-95.pool.ukrtel.net 2 2 9258 20151008204824
+google-proxy-66-249-80-84.google.com 2 2 3968 20151012093314
+b39d6d76.virtua.com.br 1 8 27456 20151031181102
+179-199-250-102.user.veloxzone.com.br 1 8 27456 20151010083436
+jhstelecom.static.gvt.net.br 1 1 1984 20151005084743
+net-93-150-198-204.cust.dsl.teletu.it 1 8 27456 20151020072344
+static.88-198-110-130.clients.your-server.de 1 1 1984 20151016003140
+clauzel.eu 1 1 1984 20151009104129
+static-82-85-181-85.clienti.tiscali.it 1 8 27456 20151011042933
+google-proxy-64-233-172-180.google.com 0 1 574 
+107.189.60.67 1 3 3897 20151014224745
+ec2-54-90-15-99.compute-1.amazonaws.com 1 1 0 20151001160930
+katniss.crypto-rebels.de 1 1 1984 20151022145716
+google-proxy-66-249-84-239.google.com 1 1 1984 20151001064208
+5.2.3.54 1 8 27456 20151021155930
+190.232.114.239 1 8 27456 20151012163344
+ec2-54-210-215-78.compute-1.amazonaws.com 1 1 1984 20151001044325
+201-92-107-131.dsl.telesp.net.br 1 8 27456 20151005192316
+google-proxy-66-249-88-83.google.com 1 1 1984 20151010130221
+117.240.209.34 0 1 29033 
+64.64.162.42 1 8 27456 20151015231225
+ppp-237-252.98-62.inwind.it 1 8 27456 20151001134124
+114-45-131-233.dynamic.hinet.net 0 1 22992 
+177.21.235.74 1 8 27456 20151011184329
+210.212.154.186 1 8 27456 20151006064631
+google-proxy-66-249-93-232.google.com 0 4 22684 
+google-proxy-64-233-172-188.google.com 1 1 3162 20151027055958
+mta66.mail.dollareuroyen.com 1 1 6700 20151012224604
+c-153-168.fox.com.br 1 8 27456 20151005111701
+180.153.186.54 0 1 574 
+20132079210.telemar.net.br 1 8 27456 20151017083540
+23.99.49.162 1 1 4629 20151013145025
+31.202.241.227.format-tv.net 1 1 4629 20151015214539
+190.7.61.46 1 8 27456 20151009182225
+iis25.mobile.gq1.yahoo.com 0 1 58870 
+host158-163-dynamic.17-87-r.retail.telecomitalia.it 1 8 27456 20151005060445
+210.75.99.11 1 1 4629 20151019094140
+223.176.183.156 1 8 27456 20151016033609
+62-210-37-82.rev.poneytelecom.eu 1 1 1984 20151021061054
+89.148.137.27 1 8 27456 20151008172529
+srv5.lam.elsynet.net 1 8 27456 20151007115742
+138.99.111.2 1 8 27456 20151016004804
+a95-95-175-25.cpe.netcabo.pt 1 8 27456 20151028174611
+b3d5c10a.virtua.com.br 1 8 27456 20151002181032
+tor-exit.cylab.cmu.edu 1 1 1984 20151008064418
+ridid116.vds 1 1 1984 20151025123452
+104.140.83.121 1 1 1984 20151016230418
+175.144.126.139 1 5 5294 20151009001850
+24-176-177-112.static.reno.nv.charter.com 0 1 5579 
+google-proxy-66-249-84-242.google.com 1 1 1984 20151004090659
+117.195.92.189 1 8 27456 20151021002521
+ec2-54-80-230-42.compute-1.amazonaws.com 1 8 27456 20151010232409
+177.222.30.243.dynamic.on.com.br 1 8 27456 20151028135946
+host12-15-dynamic.37-79-r.retail.telecomitalia.it 1 8 27456 20151022124315
+103.245.44.14 1 1 4629 20151013004839
+200-1-214-45-revzone.parbo.net 1 8 27456 20151002122822
+google-proxy-64-233-172-196.google.com 0 2 58732 
+107.189.60.69 1 3 3897 20151011085752
+badf7ee0.virtua.com.br 1 8 27456 20151011161149
+140.237.4.34 1 1 1984 20151007091447
+b1eba078.virtua.com.br 1 8 27456 20151016225004
+203.133.169.36 1 1 1984 20151028222038
+b3997192.virtua.com.br 1 8 27456 20151023195937
+static-ip-85-25-103-119.inaddr.ip-pool.com 1 1 1984 20151025211306
+ns343855.ip-94-23-45.eu 1 1 1984 20151015114633
+177-101-230.18.static.stech.net.br 1 8 27456 20151013152631
+tgn.188.47.32.dts.mg 1 9 28199 20151001091656
+9.236.46.84.mobile.mezon.lt 0 1 22992 
+107.189.60.68 1 2 2558 20151023085705
+host-58100293.fivenetwork.com 1 8 27456 20151014075136
+47.83.86.109.triolan.net 1 1 1984 20151016013609
+r3.apx.pub 1 1 4629 20151010160102
+202.134.171.134.customer.7starnet.com 1 8 27456 20151001125123
+138-36-193-24.customer.flashnet.psi.br 1 8 27456 20151026093228
+78.90.79.194 1 8 27456 20151014073607
+189.58.67.145.dynamic.adsl.gvt.net.br 0 1 743 
+107.189.60.80 1 2 2558 20151026052848
+relay2.tor.maximilian-jacobsen.com 1 1 1984 20151007022042
+google-proxy-66-249-80-76.google.com 1 1 1984 20151012093312
+152.238.16.223 1 8 27456 20151002140828
+62.212.73.49 1 1 1984 20151022161640
+host26-107-dynamic.183-80-r.retail.telecomitalia.it 1 8 27456 20151001053540
+188.231.197.4.freenet.com.ua 1 1 4629 20151007144002
+ec2-54-90-236-251.compute-1.amazonaws.com 1 1 4629 20151027043828
+bace4dc3.virtua.com.br 1 8 27456 20151018192547
+189-30-249-170.pltce701.dsl.brasiltelecom.net.br 1 8 27456 20151016175357
+frontur.static.gvt.net.br 0 1 718 
+google-proxy-66-249-93-235.google.com 1 3 4054 20151013190518
+unemail.ru 1 1 4629 20151030205533
+google-proxy-66-249-93-146.google.com 1 1 1984 20151010130203
+117.149.243.215 1 1 1984 20151003045003
+google-proxy-66-249-93-238.google.com 0 1 718 
+a26-06-07.opera-mini.net 0 1 8696 
+dynamic-adsl-84-223-92-191.clienti.tiscali.it 1 9 28187 20151006125911
+117.78.13.29 1 1 1984 20151013181331
+provedorcybernet.static.gvt.net.br 1 8 27456 20151008124104
+bsn-143-84-77.dynamic.siol.net 1 8 27456 20151013063212
+189.58.98.184.static.gvt.net.br 0 5 24011 
+ns316491.ip-37-187-129.eu 1 1 4629 20151010160048
+ns380419.ip-5-196-72.eu 1 1 1984 20151028102838
+117.220.51.212 1 8 27456 20151027074529
+google-proxy-66-249-84-224.google.com 1 1 1984 20151015045107
+200.75.103.194 1 8 27456 20151010140335
+pw126254100122.8.panda-world.ne.jp 1 13 875307 20151014032113
+host-128-227-211-228.xlate.ufl.edu 0 1 5579 
+google-proxy-66-249-83-164.google.com 1 1 1984 20151015120707
+138.94.128.4 1 8 27456 20151028193022
+c-98-248-95-21.hsd1.ca.comcast.net 1 1 1984 20151023000841
+google-proxy-66-249-88-26.google.com 1 1 1984 20151012101827
+vh41.hosterby.com 1 1 4629 20151030091433
+44.192.201.42-static-fiberlink.net.pk 0 1 22992 
+177.207.3.74.dynamic.adsl.gvt.net.br 1 8 27456 20151027111630
+google-proxy-66-249-83-192.google.com 1 1 1984 20151010130355
+38.122.42.106 0 1 5579 
+host173-228-static.62-79-b.business.telecomitalia.it 1 8 27456 20151020035504
+baccce5b.virtua.com.br 1 8 27456 20151030121810
+142.4.204.22 1 1 4629 20151011091430
+google-proxy-66-249-85-233.google.com 1 1 1984 20151010130218
+ec2-54-235-202-25.compute-1.amazonaws.com 1 1 4629 20151021002647
+41.96.131.71 1 8 27456 20151003144742
+113.193.106.118 0 1 34941 
+hessel3.torservers.net 1 1 1984 20151029082304
+static-173-49-24-118.phlapa.fios.verizon.net 1 1 4629 20151009011737
+63.156.58.59.broad.pt.fj.dynamic.163data.com.cn 1 1 1984 20151003120251
+tor-exit.nmte.ch 1 1 1984 20151021214123
+186.244.4.102 1 8 27456 20151002190021
+91.99.128.251.parsonline.net 0 1 22992 
+4.31.69.186 0 1 5579 
+179.61.201.42 1 1 1984 20151010060142
+gefjun.chgans.net 1 1 1984 20151008030452
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20151001 7 36 114535 7
+20151002 4 32 109824 4
+20151003 4 11 33408 4
+20151004 1 2 10680 1
+20151005 14 43 166158 5
+20151006 2 17 55643 2
+20151007 4 12 70994 4
+20151008 6 21 73717 5
+20151009 8 21 96146 5
+20151010 14 36 143054 13
+20151011 6 30 124556 6
+20151012 15 22 94224 6
+20151013 20 50 301158 9
+20151014 30 78 1326463 8
+20151015 6 13 42666 6
+20151016 7 36 138768 7
+20151017 1 9 86326 1
+20151018 14 21 92907 3
+20151019 1 1 4629 1
+20151020 2 17 60491 2
+20151021 5 20 64083 5
+20151022 3 10 31424 3
+20151023 7 15 42651 4
+20151024 0 1 5579 0
+20151025 2 2 3968 2
+20151026 4 12 39272 4
+20151027 10 33 155222 5
+20151028 6 27 90965 6
+20151029 1 1 1984 1
+20151030 3 11 42293 3
+20151031 1 8 27456 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 1
+2mn-5mn 3
+0s-30s 127
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 23
+/ 140 376286 126 121
+/credit.html 7 39824 2 2
+/_joomla/index.php 6 12733 0 3
+/resume.html 6 17912 0 2
+/_wiki/index.php 6 19519 3 0
+/project.html 5 27191 0 0
+/recognition.html 5 18134 0 0
+/FAQ.html 5 24053 0 0
+/whatsnew.html 5 27993 0 0
+/link.html 3 19062 0 1
+/ToDo.html 3 12917 0 0
+/LearningCurve.html 3 12052 0 1
+/artwork.html 2 4430 1 1
+/project_perl.html 2 6359 0 1
+/oracle9i_application_server.html 2 6566 0 0
+/career.html 1 1640 0 0
+/webmail/admin/index.php 1 2896 0 0
+/webmail/auth/login 1 2925 0 0
+/webmail/ 1 2901 0 0
+/webmail/maintlogin.jsp 1 2887 0 1
+/Bad_decisions_in_Liips.html 1 2753 0 0
+/oracle11iEbusiness_Suite.html 1 2479 0 0
+/index.php/module/aciton/param1/%24%7B%40phpinfo%28%29%7D 1 831 1 0
+END_SIDER

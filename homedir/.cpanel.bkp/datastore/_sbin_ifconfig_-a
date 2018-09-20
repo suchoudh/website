@@ -1,0 +1,101 @@
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:16436  Metric:1
+          RX packets:1911195162 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1911195162 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:3398734548668 (3.0 TiB)  TX bytes:3398734548668 (3.0 TiB)
+
+lo:0      Link encap:Local Loopback  
+          inet addr:192.168.2.7  Mask:255.255.0.0
+          UP LOOPBACK RUNNING  MTU:16436  Metric:1
+
+venet0    Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:127.0.0.1  P-t-P:127.0.0.1  Bcast:0.0.0.0  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+          RX packets:2827246682 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:3469208790 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:752040914431 (700.3 GiB)  TX bytes:2900215792743 (2.6 TiB)
+
+venet0:0  Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.54  P-t-P:207.210.64.54  Bcast:207.210.64.54  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:1  Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.55  P-t-P:207.210.64.55  Bcast:207.210.64.55  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:2  Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.56  P-t-P:207.210.64.56  Bcast:207.210.64.56  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:3  Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.57  P-t-P:207.210.64.57  Bcast:207.210.64.57  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:4  Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.58  P-t-P:207.210.64.58  Bcast:207.210.64.58  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:5  Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.59  P-t-P:207.210.64.59  Bcast:207.210.64.59  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:6  Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.60  P-t-P:207.210.64.60  Bcast:207.210.64.60  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:7  Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.61  P-t-P:207.210.64.61  Bcast:207.210.64.61  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:8  Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.62  P-t-P:207.210.64.62  Bcast:207.210.64.62  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:9  Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.63  P-t-P:207.210.64.63  Bcast:207.210.64.63  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:10 Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.64  P-t-P:207.210.64.64  Bcast:207.210.64.64  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:11 Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.65  P-t-P:207.210.64.65  Bcast:207.210.64.65  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:12 Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.230  P-t-P:207.210.64.230  Bcast:207.210.64.230  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:13 Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.231  P-t-P:207.210.64.231  Bcast:207.210.64.231  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:14 Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.232  P-t-P:207.210.64.232  Bcast:207.210.64.232  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:15 Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.233  P-t-P:207.210.64.233  Bcast:207.210.64.233  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:16 Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.234  P-t-P:207.210.64.234  Bcast:207.210.64.234  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:17 Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.235  P-t-P:207.210.64.235  Bcast:207.210.64.235  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:18 Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.236  P-t-P:207.210.64.236  Bcast:207.210.64.236  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+
+venet0:19 Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          inet addr:207.210.64.237  P-t-P:207.210.64.237  Bcast:207.210.64.237  Mask:255.255.255.255
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+

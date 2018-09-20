@@ -1,0 +1,871 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201310 will be lost/reset.
+# Last config file used to build this data file was /home/onelife/tmp/awstats/awstats.onelife.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2003                
+POS_TIME 2685                
+POS_VISITOR 24563               
+POS_DAY 29293               
+POS_DOMAIN 3485                
+POS_LOGIN 4015                
+POS_ROBOT 4170                
+POS_WORMS 4696                
+POS_EMAILSENDER 4827                
+POS_EMAILRECEIVER 4970                
+POS_SESSION 30047               
+POS_SIDER 30239               
+POS_FILETYPES 5105                
+POS_DOWNLOADS 5331                
+POS_OS 5456                
+POS_BROWSER 5640                
+POS_SCREENSIZE 6455                
+POS_UNKNOWNREFERER 6529                
+POS_UNKNOWNREFERERBROWSER 7245                
+POS_ORIGIN 7640                
+POS_SEREFERRALS 7781                
+POS_PAGEREFS 7980                
+POS_SEARCHWORDS 8351                
+POS_KEYWORDS 8586                
+POS_MISC 2348                
+POS_ERRORS 8734                
+POS_CLUSTER 3871                
+POS_SIDER_404 8852                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20131101000146 358 67715 9503529759022
+FirstTime 20131001015057
+LastTime 20131031210448
+LastUpdate 20131101071839 358 0 357 0 0
+TotalVisits 140                 
+TotalUnique 91                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 136                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 29 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 43 80 233020 34 80 1338577
+1 14 14 29484 25 114 1650155
+2 32 52 403991 33 74 726357
+3 4 8 617252 20 57 522713
+4 27 42 294487 32 66 1188977
+5 23 52 190248 30 66 1665299
+6 22 61 1229975 27 68 100632
+7 6 23 115593 33 64 628013
+8 11 43 216318 28 72 879925
+9 13 16 211829 53 75 149939
+10 40 60 350968 50 92 357152
+11 7 16 131454 14 38 444222
+12 15 37 316563 27 64 516952
+13 19 39 1049443 175 360 174267
+14 6 20 187063 36 82 194362
+15 8 24 466211 24 52 319907
+16 13 21 120353 31 82 302702
+17 5 5 14958 33 69 431382
+18 4 20 102581 45 70 703673
+19 3 18 98509 34 58 143200
+20 1 9 32893 35 72 201793
+21 12 18 184240 28 61 149635
+22 0 2 92334 51 88 337968
+23 4 4 7600 12 38 1076687
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 23
+us 141 259 2789885
+in 77 256 1390429
+cn 22 38 87793
+il 17 23 177308
+fr 17 17 82846
+dk 17 17 38463
+de 17 18 65757
+ca 9 11 184902
+kr 4 4 7600
+hu 3 3 0
+pt 2 15 900731
+es 2 8 218497
+se 2 2 9258
+ru 1 3 8285
+gb 1 2 25330
+rs 0 1 22992
+ph 0 1 533753
+id 0 1 34941
+co 0 1 5579
+pk 0 1 5579
+kw 0 1 29033
+cz 0 1 22992
+ge 0 1 22992
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+bot[\s_+:,\.\;\/\\-] 459 1593611 20131031154637 147
+robot 304 8050116 20131031210353 42
+[\s_+:,\.\;\/\\-]bot 291 1790136 20131031183318 71
+googlebot 182 406644 20131031225200 38
+msnbot\-media 119 1306055 20131031094806 59
+spider 61 331691 20131031195609 17
+unknown 33 5232 20131031221859 33
+no_user_agent 2 25330 20131022014407 0
+crawl 2 9258 20131022014726 0
+netcraft 1 4629 20131011100649 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 46 67290 0 0
+png 14 13800 0 0
+pdf 12 1031904 0 0
+php 29 86530 0 0
+html 302 844240 0 0
+js 50 41953 0 0
+jpg 182 3817726 0 0
+Unknown 1 400 0 0
+gif 48 777313 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/robots.txt 407 0 97488
+/one.pdf 18 1 1738138
+/SunilChoudhary.pdf 4 0 288677
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 14
+linuxandroid 43
+winlong 24
+winxp 107
+java 2
+win2000 1
+linux 76
+winvista 28
+win7 243
+winme 2
+macosx 76
+winunknown 7
+j2me 1
+win2003 15
+Unknown 60
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 51
+msie6.0 24
+firefox20.0 7
+firefox3.6 2
+chrome29.0.1547.76 3
+android 33
+chrome12.0.742.91 1
+firefox4.0 21
+firefox18.0 5
+firefox24.0 41
+minefield 3
+opera9.80 20
+firefox3.6.15 15
+iphone 9
+msie8.0 21
+chrome28.0.1500.72 17
+msie7.0 28
+firefox23.0 8
+chrome30.0.1599.82 10
+chrome8.0.552.237 1
+msie9.0 9
+chrome24.0.1312.52 8
+chrome30.0.1599.101 34
+Unknown 9
+firefox10.0.12 8
+chrome21.0.1180.75 1
+safari6.0 1
+firefox3.0.11 1
+chrome28.0.1500.71 40
+chrome30.0.1599.69 83
+firefox12.0 1
+firefox3.6.23 1
+firefox3.0.3 1
+nokia 2
+mozilla 82
+firefox25.0 8
+netscape5.0 3
+firefox22.0 3
+firefox14.0.1 20
+firefox3.0.6 1
+msie10.0 17
+firefox3.6.28 1
+firefox6.0 36
+netscape6.1 1
+msie 4
+chrome27.0.1453.116 1
+chrome25.0.1364.97 8
+firefox19.0 1
+firefox8.0.1 5
+prism 1
+firefox3.6.8 5
+safari 20
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla/5.0_(compatible;_SiteExplorer/1.0b;__http://siteexplorer.info/) 20131028015236
+Mozilla/5.0_(compatible) 20131003041619
+Mozilla/5.0_(compatible;_Abonti/0.91_-_http://www.abonti.com) 20131010001433
+Opera/9.80_(Android;_Opera_Mini/7.5.33361/32.981;_U;_en)_Presto/2.8.119_Version/11.10 20131024154332
+Webscout/1.0_(webscout_GmbH;_http://www.webscout.de;_crwadm@webscout.de) 20131022161252
+Mnogosearch-3.1.21 20131016171940
+Mozilla/6.0_(compatible) 20131003041619
+MacInroy_Privacy_Auditors._See_onelife.in's_privacy_violation_report:_http://onelife.in.macinroy.com/onelife.in 20131015061233
+nutch-1.4/Nutch-1.4 20131019094046
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+Webscout/1.0_(webscout_GmbH;_http://www.webscout.de;_crwadm@webscout.de) 20131022161252
+Mnogosearch-3.1.21 20131016171940
+Java/1.7.0_25 20131028051004
+MacInroy_Privacy_Auditors._See_onelife.in's_privacy_violation_report:_http://onelife.in.macinroy.com/onelife.in 20131015061233
+nutch-1.4/Nutch-1.4 20131019094046
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 205 237
+From1 2 2
+From2 24 33
+From3 14 24
+From4 87 389
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google 5 12
+search 4 4
+baidu 14 14
+bing 0 2
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://www.facebook.com/l.php 4 4
+http://seoairport.com/site/product/ 4 4
+https://www.facebook.com 3 3
+http://m.facebook.com/l.php 2 2
+https://m.facebook.com 1 1
+http://purelyblogs.com/the-return-of-ultraman-jazz-rar/ 0 10
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 4
+sunilchoudhary+swebsite 8
+onelife.in 3
+leapstone+neilgogte 1
+site+www.onelife.in 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 7
+sunilchoudhary 8
+swebsite 8
+onelife.in 3
+leapstone 1
+neilgogte 1
+site 1
+www.onelife.in 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 4 80
+206 51 677763
+301 1 232
+404 423 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 312
+/admin/tpl/backup.htm 1 http://www.baidu.com
+/\xe5\xae\x89\xe8\xa3\x85\xe8\xaf\xb4\xe6\x98\x8e.txt 1 http://www.baidu.com
+/www.oracle.com 18 -
+/admin/Southidceditor/js/buttons.js 1 http://www.baidu.com
+/admin/list.html 1 http://www.baidu.com
+/supernews.css 1 http://www.baidu.com
+/fckeditor/fckeditor.js 1 http://www.baidu.com
+/install/db_init.sql 1 http://www.baidu.com
+/gbook/_notes/dwsync.xml 1 http://www.baidu.com
+/common/common.js 1 http://www.baidu.com
+/extmail/README 1 http://www.baidu.com
+/admin/kindeditor/kindeditor.js 1 http://www.baidu.com
+/footer.php 1 http://www.baidu.com
+/images/edit/edit.js 1 http://www.baidu.com
+/plugins/googlemap/view/admin_googlemap.htm 1 http://www.baidu.com
+/theme/default/style.css 1 http://www.baidu.com
+/install/sql/db_settings_lite.sql 1 http://www.baidu.com
+/public/themes/newstyle/layout.css 1 http://www.baidu.com
+/Resource/Cache/City.xml 1 http://www.baidu.com
+/keke_client/ucenter/log.txt 1 http://www.baidu.com
+/wp-content/themes/twentyten/style.css 1 http://www.baidu.com
+/plugins/autolinks_plugin/definitions.default.txt 1 http://www.baidu.com
+/agent/templates/Smarty/utf-8/footer.html 1 http://www.baidu.com
+/administrator/manifests/files/joomla.xml 1 http://www.baidu.com
+/js/fckeditorcode_ie.js 1 http://www.baidu.com
+/admin/kindeditor/license.txt 1 http://www.baidu.com
+/update.txt 1 http://www.baidu.com
+/ThinkPHP/README.txt 1 http://www.baidu.com
+/admin/jscripts/imodal.js 1 http://www.baidu.com
+/templet/default/guestbook.jsp 1 http://www.baidu.com
+/wcm/app/js/source/wcmlib/WCMConstants.js 1 http://www.baidu.com
+/install/templates/default/footer.php 1 http://www.baidu.com
+/\xe6\xb3\xa8\xe6\x84\x8f\xe4\xba\x8b\xe9\xa1\xb9-\xe5\xbf\x85\xe7\x9c\x8b.txt 1 http://www.baidu.com
+/editor/Include/Editor.js 1 http://www.baidu.com
+/userapi_readme.txt 1 http://www.baidu.com
+/admin/inc/xml.xslt 1 http://www.baidu.com
+/hotspots.xml 1 http://www.baidu.com
+/phpmyadmin/Documentation.txt 1 http://www.baidu.com
+/web2/css/css0/webmail.css 1 http://www.baidu.com
+/readme.txt 1 http://www.baidu.com
+/pub/guiedit/guiedit.js 1 http://www.baidu.com
+/Resume_SunilChoudhary.rtf 9 http://onelife.in/career.html
+/extensions/jcms/info.xml 1 http://www.baidu.com
+/data 1 http://www.baidu.com
+/readme 1 http://www.baidu.com
+/install/sql.txt 1 http://www.baidu.com
+/themes/mall/default/footer.html 1 http://www.baidu.com
+/license.txt 1 http://www.baidu.com
+/data/licence.txt 1 http://www.baidu.com
+/cuteeditor_files/Scripts/spell.js 1 http://www.baidu.com
+/themes/lazycms/home.html 1 http://www.baidu.com
+/Resume_SunilChoudhary.pdf 8 http://onelife.in/career.html
+/templates/default/cn/public/fotter.html 1 http://www.baidu.com
+/plugin/kindeditor/license.txt 1 http://www.baidu.com
+/includes/js/common.js 1 http://www.baidu.com
+/history.txt 1 http://www.baidu.com
+/virtuemart.xml 1 http://www.baidu.com
+/admin/javascript/typecho.js 1 http://www.baidu.com
+/admin/bicq/system/js/window.js 1 http://www.baidu.com
+/lang/install_wind.sql 1 http://www.baidu.com
+/install/oecms_v3.0.sql 1 http://www.baidu.com
+/Admin/Include/version.xml 1 http://www.baidu.com
+/media/blogs/index.html 1 http://www.baidu.com
+/wlwmanifest.xml 1 http://www.baidu.com
+/public/style_css/ipb_rtl.css 1 http://www.baidu.com
+/HX_login.asp 1 http://www.baidu.com
+/system/language/zh-cn.xml 1 http://www.baidu.com
+/admin/tpl/showmessage.htm 1 http://www.baidu.com
+/includes/general.js 1 http://www.baidu.com
+/include/bottom.asp 1 http://www.baidu.com
+/js/index.htm 1 http://www.baidu.com
+/data/js/config.js 1 http://www.baidu.com
+/editor/js/fckeditorcode_ie.js 1 http://www.baidu.com
+/system/skins/default/system.login.htm 1 http://www.baidu.com
+/edoas2/edoas2_test.jsp 1 http://www.baidu.com
+/admin/help/online_help_1.htm 1 http://www.baidu.com
+/do/reg.php 1 http://www.baidu.com
+/admin/view/template/common/header.tpl 1 http://www.baidu.com
+/archive/archive.css 1 http://www.baidu.com
+/templates/default/tools_main.html 1 http://www.baidu.com
+/_image/mine.gif 15 -
+/Resume_SunilChoudhary.txt 15 -
+/dede/login.php 1 http://www.baidu.com
+/inc/style2.css 1 http://www.baidu.com
+/admin/templates/aboutus.html 1 http://www.baidu.com
+/news.txt 1 http://www.baidu.com
+/modules/article/toplist.php 1 http://www.baidu.com
+/version.txt 1 http://www.baidu.com
+/external/modules/datacall/templates/admin/header.html 1 http://www.baidu.com
+/install/phpdisk.sql 1 http://www.baidu.com
+/templates/default/footer.php 1 http://www.baidu.com
+/Documentation.txt 1 http://www.baidu.com
+/themes/default/style.css 1 http://www.baidu.com
+/99billdo.php 1 http://www.baidu.com
+/message.html 1 http://www.baidu.com
+/install/resources/mybb_theme.xml 1 http://www.baidu.com
+/api/Request.xml 1 http://www.baidu.com
+/lib/fckeditor/fckconfig.js 1 http://www.baidu.com
+/license_top.txt 1 http://www.baidu.com
+/plus/comment/setting.xml 1 http://www.baidu.com
+/docs/changelog.txt 1 http://www.baidu.com
+/skins/default.css 1 http://www.baidu.com
+/templates/main/default/space_reviews.htm 1 http://www.baidu.com
+/app/code/core/Mage/Admin/etc/config.xml 1 http://www.baidu.com
+/admin/template/foot.htm 1 http://www.baidu.com
+/templet/default/ 1 http://www.baidu.com
+/template/home.htm 1 http://www.baidu.com
+/themes/purple/info.xml 1 http://www.baidu.com
+/data/sql/survey.sql 1 http://www.baidu.com
+/kindeditor/kindeditor.js 1 http://www.baidu.com
+/js/admin-dnd.js 1 http://www.baidu.com
+/core/version.txt 1 http://www.baidu.com
+/images/default/publict.css 1 http://www.baidu.com
+/control/admin/tpl/admin_config_integration_pw.htm 1 http://www.baidu.com
+/eWebEditor/Include/Editor.js 1 http://www.baidu.com
+/Inc/SysProduct.asp 1 http://www.baidu.com
+/template/\xe8\xaf\xb7\xe5\x8b\xbf\xe5\x88\xa0\xe9\x99\xa46kbbs\xe6\xa8\xa1\xe6\x9d\xbf.txt 1 http://www.baidu.com
+/wp-content/plugins/all-video-gallery/allvideogallery.css 1 http://www.baidu.com
+/Southidceditor/Dialog/about.htm 1 http://www.baidu.com
+/install/upgrade.sql 1 http://www.baidu.com
+/core/modules/article/assistant/templates/article_list.htm 1 http://www.baidu.com
+/templates/default/header.php 1 http://www.baidu.com
+/Southidceditor/js/buttons.js 1 http://www.baidu.com
+/pla/lib/ldap_error_codes.txt 1 http://www.baidu.com
+/wcm/app/login.jsp 1 http://www.baidu.com
+/cgi-bin/login.cgi 1 http://www.baidu.com
+/admin/static/css/style.css 1 http://www.baidu.com
+/template/default/styles.css 1 http://www.baidu.com
+/App_Themes/AdminDefaultTheme/xtree.css 1 http://www.baidu.com
+/plugin/kindeditor/kindeditor.js 1 http://www.baidu.com
+/statics/js/ckeditor/plugins/capture/plugin.js 1 http://www.baidu.com
+/kindeditor/kindeditor-min.js 1 http://www.baidu.com
+/phpmyadmin/README 1 http://www.baidu.com
+/a_d/install/data.sql 1 http://www.baidu.com
+/ckeditor/ckeditor.js 1 http://www.baidu.com
+/docs/samples.txt 1 http://www.baidu.com
+/kindeditor/license.txt 1 http://www.baidu.com
+/login.php 1 http://www.baidu.com
+/www/admin/templates/install/register-step.html 1 http://www.baidu.com
+/application/Plugin/Example/View/admin/index.tpl 1 http://www.baidu.com
+/templates/default/images/style_css_1.css 1 http://www.baidu.com
+/mails/en/bankwire.txt 1 http://www.baidu.com
+/robots 1 http://www.baidu.com
+/digg.php 1 http://www.baidu.com
+/minica_down.php 1 http://www.baidu.com
+/templates/default/en/public/footer.html 1 http://www.baidu.com
+/public/home/js/main.js 1 http://www.baidu.com
+/install/en.sql 1 http://www.baidu.com
+/themes/purple/theme.xml 1 http://www.baidu.com
+/templates/rounded/template1.html 1 http://www.baidu.com
+/ask 1 http://www.baidu.com
+/wcm/loginpage.jsp 1 http://www.baidu.com
+/data/subscriptionmail.txt 1 http://www.baidu.com
+/valid-xhtml10.png 12 -
+/static/js/common.js 1 http://www.baidu.com
+/admin 1 http://www.baidu.com
+/master/login.aspx 1 http://www.baidu.com
+/admin/login.aspx 1 http://www.baidu.com
+/templates/default/dnt.css 1 http://www.baidu.com
+/data/install.sql 1 http://www.baidu.com
+/ThinkPHP/Extend/README.txt 1 http://www.baidu.com
+/file/script/config.js 1 http://www.baidu.com
+/README 1 http://www.baidu.com
+/fckeditor/editor/js/fckeditorcode_ie.js 1 http://www.baidu.com
+/plugins/tinymce_plugin/tiny_mce/plugins/more/editor_plugin.js 1 http://www.baidu.com
+/css/eyou.css 1 http://www.baidu.com
+/member/space/commpany/info.txt 1 http://www.baidu.com
+/Help/default.htm 1 http://www.baidu.com
+/_data/jcmsU1.js 1 http://www.baidu.com
+/admin/tpl/footer.htm 1 http://www.baidu.com
+/api/Response.xml 1 http://www.baidu.com
+/plugin/backupdb/plugin.xml 1 http://www.baidu.com
+/templates/classik/css/classik.css 1 http://www.baidu.com
+/FCK/fckeditor.js 1 http://www.baidu.com
+/install/data/sql/db_full.sql 1 http://www.baidu.com
+/admin/Southidceditor/Dialog/about.htm 1 http://www.baidu.com
+/readme_gbk.txt 1 http://www.baidu.com
+/data/config.js 1 http://www.baidu.com
+/templates/default/info.txt 1 http://www.baidu.com
+/js/api.js 1 http://www.baidu.com
+/editor/Scripts/spell.js 1 http://www.baidu.com
+/cuteeditor_files/Help/default.htm 1 http://www.baidu.com
+/README-VIRTUEMART.txt 1 http://www.baidu.com
+/FS_Inc/FS_CSS.css 1 http://www.baidu.com
+/member/template/homepage.htm 1 http://www.baidu.com
+/custom/README 1 http://www.baidu.com
+/plugins/tinymce_plugin/tiny_mce/themes/advanced/skins/o2k7/ui_silver.css 1 http://www.baidu.com
+/Include/Editor.js 1 http://www.baidu.com
+/images/admin/admin.css 1 http://www.baidu.com
+/phpldapadmin/lib/ldap_error_codes.txt 1 http://www.baidu.com
+/admin/includes/stylesheet.css 1 http://www.baidu.com
+/install/frcms_db.sql 1 http://www.baidu.com
+/docs/index.html 1 http://www.baidu.com
+/openconf.js 1 http://www.baidu.com
+/install/templates/step-1.html 1 http://www.baidu.com
+/dede/js/album.js 1 http://www.baidu.com
+/CSS/atom.css 1 http://www.baidu.com
+/css.css 1 http://www.baidu.com
+/wp-content/plugins/wp-property/readme.txt 1 http://www.baidu.com
+/wp-content/plugins/wp-property/js/wp-property-backend-global.js 1 http://www.baidu.com
+/common.js 1 http://www.baidu.com
+/ThinkPHP/LICENSE.txt 1 http://www.baidu.com
+/data/admin/ver.txt 1 http://www.baidu.com
+/pub/skins/pmwiki/pmwiki.css 1 http://www.baidu.com
+/README.txt 1 http://www.baidu.com
+/help.html 1 http://www.baidu.com
+/self_adherent.php 1 http://www.baidu.com
+/language/gb2312.xml 1 http://www.baidu.com
+/editor/Help/default.htm 1 http://www.baidu.com
+/templates/default/en/public/fotter.html 1 http://www.baidu.com
+/\xe8\xaf\xb4\xe6\x98\x8e\xe6\x96\x87\xe4\xbb\xb6.txt 1 http://www.baidu.com
+/\xe7\xa8\x8b\xe5\xba\x8f\xe8\xaf\xb4\xe6\x98\x8e.txt 1 http://www.baidu.com
+/e/master/login.aspx 1 http://www.baidu.com
+/install/zcncms_default.sql 1 http://www.baidu.com
+/lib/ldap_error_codes.txt 1 http://www.baidu.com
+/cms4jadmin/skin/blue/css/icon.css 1 http://www.baidu.com
+/admin/tpls/tpls/main/default/index.tpl 1 http://www.baidu.com
+/js/changejobtype.js 1 http://www.baidu.com
+/admin/login.asp 1 http://www.baidu.com
+/docs/readme_en.txt 1 http://www.baidu.com
+/FCK/editor/js/fckeditorcode_ie.js 1 http://www.baidu.com
+/lionsky_client/WebHtmlEditor/1_7_2006_1020/Theme/Office_Tinge/WebHtmlEditor.css 1 http://www.baidu.com
+/admin/js/command.js 1 http://www.baidu.com
+/install.php 1 http://www.baidu.com
+/view/default/wap/image.tpl 1 http://www.baidu.com
+/www.codezoo.net 20 -
+/fckeditor.js 1 http://www.baidu.com
+/docs/DOCUMENTATION.txt 1 http://www.baidu.com
+/Resume_SunilChoudhary.zip 2 http://onelife.in/career.html
+/mthemes/default/images/style.css 1 http://www.baidu.com
+/plus/digg/setting.xml 1 http://www.baidu.com
+/URLRewrite/Nginx.txt 1 http://www.baidu.com
+/edoas2_test.jsp 1 http://www.baidu.com
+/ueditor/editor_all.js 1 http://www.baidu.com
+/sitemap.xml 2 -
+/install/templates/header.htm 1 http://www.baidu.com
+/template/default/refreshto.htm 1 http://www.baidu.com
+/templates/default/cn/public/footer.html 1 http://www.baidu.com
+/templates/admin/help.html 1 http://www.baidu.com
+/e/install/index.aspx 1 http://www.baidu.com
+/html/head.asp 1 http://www.baidu.com
+/data/xml/supply.xml 1 http://www.baidu.com
+/Providers/HtmlEditorProviders/Fck/fcklinkgallery.aspx 1 http://www.baidu.com
+/admin/views/style/default/style.css 1 http://www.baidu.com
+/editor/Dialog/about.htm 1 http://www.baidu.com
+/phpldapadmin 1 http://www.baidu.com
+/5107/chat/js/chat.js 1 http://www.baidu.com
+/templates/default/header.htm 1 http://www.baidu.com
+/licence.txt 1 http://www.baidu.com
+/plugin/kindeditor/kindeditor-min.js 1 http://www.baidu.com
+/edoas2/install/install.jsp 1 http://www.baidu.com
+/xweibo_upload/css/default/base.css 1 http://www.baidu.com
+/max-templates/classic/styles/app.css 1 http://www.baidu.com
+/changelog.txt 1 http://www.baidu.com
+/install/templates/default/errorinfo.php 1 http://www.baidu.com
+/inc/playerKinds.xml 1 http://www.baidu.com
+/admin/licence 1 http://www.baidu.com
+/static/alpa.css 1 http://www.baidu.com
+/eWebEditor/Dialog/about.htm 1 http://www.baidu.com
+/modules/forum/index.php 1 http://www.baidu.com
+/Scripts/spell.js 1 http://www.baidu.com
+/templates/default/auction_detail.html 1 http://www.baidu.com
+/admin/jscripts/codepress/languages/codepress-mybb.css 1 http://www.baidu.com
+/api/api_user.xml 1 http://www.baidu.com
+/admin/kindeditor/kindeditor-min.js 1 http://www.baidu.com
+/ueditor/editor_config.js 1 http://www.baidu.com
+/SCRIPT/common.js 1 http://www.baidu.com
+/css/style.css 1 http://www.baidu.com
+/leiame.html 1 http://www.baidu.com
+/install.txt 1 http://www.baidu.com
+/skin/frontend/default/spy/css/styles.css 1 http://www.baidu.com
+/Dialog/about.htm 1 http://www.baidu.com
+/URLRewrite/httpd.ini 1 http://www.baidu.com
+/comm_front/email/uploadImageFile_do.jsp 1 http://www.baidu.com
+/install/data.sql 1 http://www.baidu.com
+/usr/themes/default/sytle.css 1 http://www.baidu.com
+/install/install.jsp 1 http://www.baidu.com
+/cgi-bin/web2cgi/getpass.cgi 1 http://www.baidu.com
+/widget/oauth_login/info.txt 1 http://www.baidu.com
+/pla 1 http://www.baidu.com
+/install/css/install.css 1 http://www.baidu.com
+/phpmyadmin/ChangeLog 1 http://www.baidu.com
+/catalog/view/theme/default/stylesheet/carousel.css 1 http://www.baidu.com
+/docs/README 1 http://www.baidu.com
+/langs/nl/lang.txt 1 http://www.baidu.com
+/www.nucleussoftware.com 20 -
+/clientscript/vbulletin_ajax_htmlloader.js 1 http://www.baidu.com
+/data/cachefiles/config.js 1 http://www.baidu.com
+/admin/template/article_more/config.htm 1 http://www.baidu.com
+/templates/default/css/common.css 1 http://www.baidu.com
+/manage/login.aspx 1 http://www.baidu.com
+/CHANGELOG.txt 1 http://www.baidu.com
+/announcement/index.html 1 http://www.baidu.com
+/install/zcncms.sql 1 http://www.baidu.com
+/License.txt 1 http://www.baidu.com
+/templates/cn/html/about.html 1 http://www.baidu.com
+/js/PublicJS.js 1 http://www.baidu.com
+/install/t_thinksns_com.sql 1 http://www.baidu.com
+/wcm/WCMV6/login.jsp 1 http://www.baidu.com
+/cms4jadmin/login.jsp 1 http://www.baidu.com
+/RELEASE_NOTES.txt 1 http://www.baidu.com
+/system/templates/default12/images/js.js 1 http://www.baidu.com
+/wp-content/plugins/wp-property/js/wp-property-global.js 1 http://www.baidu.com
+/\xe6\x98\x93\xe8\xb4\xb4\xe7\x94\x9f\xe6\xb4\xbb\xe4\xbf\xa1\xe6\x81\xaf\xe7\xbd\x91\xe4\xbb\x8b\xe7\xbb\x8d.txt 1 http://www.baidu.com
+/hack/gather/template/edit_title.htm 1 http://www.baidu.com
+/install/style.css 1 http://www.baidu.com
+/plus/count/setting.xml 1 http://www.baidu.com
+/xml_language/lang[arabic].xml 1 http://www.baidu.com
+/special 1 http://www.baidu.com
+/Inc/Southidc.js 1 http://www.baidu.com
+/bbs/Inc/Ads.js 1 http://www.baidu.com
+/board/default/board_view.html 1 http://www.baidu.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 136
+72.14.199.135 40 40 38000 20131030102213
+182.56.237.19 29 55 139204 20131015022733
+77.233.225.114 17 17 38463 20131010001433
+192.114.71.13 17 23 177308 20131003041619
+94.23.233.204 15 15 78217 20131026102251
+38.100.21.68 10 11 56180 20131013050704
+69.58.178.58 10 10 54116 20131022103150
+208.43.225.84 10 10 21648 20131020044112
+69.58.178.57 10 10 54116 20131015134408
+184.22.183.114 10 17 589795 20131025101540
+144.76.42.76 8 8 15200 20131021214640
+113.193.33.79 7 16 105125 20131023065642
+142.4.217.219 6 8 168944 20131025101539
+183.60.244.29 6 6 6500 20131031134421
+117.98.176.98 5 14 101670 20131022140739
+202.65.130.154 5 14 129554 20131022110241
+208.43.225.85 5 5 12163 20131028015236
+106.212.11.41 4 19 67640 20131019184533
+50.19.167.100 4 5 3196 20131029054903
+54.221.46.57 4 5 3196 20131030122235
+120.63.69.246 4 15 261448 20131005154846
+59.182.20.127 4 12 62995 20131022080104
+64.2.3.196 4 13 97591 20131022123514
+183.83.170.247 3 10 31715 20131023100423
+91.120.24.188 3 3 0 20131020121227
+168.187.116.186 0 1 29033 
+61.135.190.105 2 3 4359 20131025052527
+71.117.22.20 1 8 27314 20131027043028
+199.30.16.104 0 1 34941 
+61.135.165.55 0 1 666 
+110.84.0.129 1 1 3217 20131019211913
+193.111.141.44 1 2 25330 20131006093220
+131.253.24.121 0 10 871179 
+81.7.13.161 1 1 1598 20131011021932
+199.30.16.110 0 1 34941 
+110.5.75.194 0 1 8696 
+220.181.108.99 0 1 1015 
+54.225.58.239 1 1 1900 20131022015244
+207.182.143.146 1 1 4629 20131025034111
+220.181.51.54 0 1 743 
+65.55.215.250 1 3 3772 20131025100846
+50.57.120.161 1 8 27314 20131013200425
+61.135.190.223 0 1 559 
+158.74.35.10 2 10 65043 20131022162525
+85.25.137.24 1 1 1900 20131005172835
+220.181.51.45 0 1 731 
+174.129.122.186 1 1 1900 20131023004907
+162.213.210.58 2 2 3800 20131028051004
+122.168.21.216 2 10 65043 20131022022757
+24.8.29.169 0 1 5579 
+184.22.211.146 2 3 126859 20131023122259
+61.135.190.219 1 2 2459 20131019211143
+174.51.228.50 0 1 22992 
+199.19.249.196 1 1 4629 20131021060531
+85.25.110.112 1 1 3019 20131030191332
+37.228.106.39 0 1 22992 
+65.55.215.235 1 3 5072 20131008005559
+5.9.55.7 1 1 4629 20131022161252
+211.244.83.232 2 2 3800 20131028133641
+24.115.76.112 1 1 1900 20131031210448
+46.105.59.74 1 1 0 20131009080759
+65.55.219.141 0 1 34941 
+58.146.104.202 1 8 27314 20131015085555
+61.135.190.104 3 5 6818 20131030121738
+122.175.16.231 3 11 66641 20131022022341
+65.55.217.245 0 1 34941 
+46.229.160.208 0 1 16211 
+68.5.110.198 1 3 3755 20131021212435
+131.253.24.25 1 7 44624 20131023134455
+66.155.8.191 1 8 27314 20131025102120
+37.228.104.47 2 7 195505 20131024154306
+117.78.13.18 1 1 1900 20131019094046
+93.87.74.42 0 1 22992 
+85.25.134.59 2 2 3800 20131015061233
+65.52.241.183 1 1 1900 20131022014714
+123.236.181.164 2 9 29214 20131017082036
+131.253.24.126 0 1 34941 
+61.135.190.224 1 2 2459 20131024141243
+115.240.127.178 1 8 27314 20131028050347
+122.177.207.126 2 9 28912 20131022050756
+173.49.24.118 1 1 4629 20131016171940
+31.192.228.65 2 2 9258 20131020153746
+220.181.108.158 0 1 1015 
+188.129.235.116 0 1 22992 
+117.199.29.138 1 8 27314 20131022085115
+23.22.33.243 0 1 20701 
+180.149.133.11 0 1 1296 
+61.135.169.21 0 1 718 
+111.91.75.194 1 8 27314 20131013002829
+36.81.31.203 0 1 34941 
+117.78.13.17 1 1 1900 20131010040348
+192.69.219.196 1 1 4295 20131009125511
+199.30.24.89 0 7 25414 
+218.93.127.107 3 3 23463 20131018195449
+66.249.80.97 1 8 27314 20131022121339
+211.244.83.248 2 2 3800 20131022172312
+54.211.191.97 2 4 5655 20131023050211
+5.9.55.4 1 1 4629 20131022161306
+115.85.32.138 0 1 533753 
+117.208.14.106 0 1 29033 
+206.29.182.219 0 1 57393 
+69.171.164.102 0 1 22992 
+46.233.243.227 1 3 8285 20131027052420
+220.181.51.139 1 1 1900 20131004045516
+131.253.24.21 0 1 34941 
+162.119.232.106 0 1 5579 
+86.200.178.61 1 1 4629 20131008064246
+80.86.88.173 1 1 2460 20131027124557
+168.62.22.20 3 3 13887 20131031155022
+200.116.2.74 0 1 5579 
+14.141.4.100 0 1 5579 
+223.232.75.30 1 8 27314 20131012054116
+61.135.190.222 1 2 2459 20131021083324
+199.30.24.86 0 1 34941 
+74.102.226.98 1 8 27314 20131021191451
+59.144.9.7 1 8 27314 20131021060532
+64.34.169.244 1 1 4629 20131015033940
+85.242.212.69 2 15 900731 20131023064003
+65.52.245.128 1 1 1900 20131022064419
+180.149.133.35 1 1 1900 20131014081958
+176.57.142.28 1 2 28522 20131021212804
+122.168.179.112 0 1 29033 
+142.4.217.221 3 3 15958 20131021212804
+50.16.27.251 1 1 4629 20131009094715
+59.91.162.87 0 1 29033 
+199.30.16.101 0 1 34941 
+182.182.74.37 0 1 5579 
+210.212.230.197 0 1 8696 
+199.30.25.151 0 1 1296 
+131.253.24.20 0 1 34941 
+131.253.24.26 0 1 34941 
+50.176.25.30 3 10 31372 20131022065822
+90.177.157.88 0 1 22992 
+220.181.51.35 0 1 20701 
+120.63.26.254 1 8 27314 20131014071420
+220.181.108.97 0 1 1015 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20131001 2 3 535653 1
+20131002 3 4 37462 2
+20131003 17 24 206341 1
+20131004 3 3 3800 2
+20131005 6 19 341051 3
+20131006 8 11 211312 5
+20131007 5 9 191880 4
+20131008 5 8 36493 4
+20131009 6 7 48342 5
+20131010 28 28 83686 4
+20131011 7 12 241960 4
+20131012 3 11 52206 2
+20131013 13 29 138429 4
+20131014 2 15 54069 2
+20131015 46 81 278637 9
+20131016 8 9 44827 5
+20131017 2 10 37910 1
+20131018 6 8 41701 5
+20131019 9 27 129141 5
+20131020 13 13 22712 5
+20131021 14 33 237821 11
+20131022 50 139 816843 19
+20131023 18 71 2204651 8
+20131024 3 9 197964 2
+20131025 10 29 225438 7
+20131026 7 7 36794 1
+20131027 6 16 42418 5
+20131028 10 23 111734 5
+20131029 6 7 5096 2
+20131030 8 11 67967 4
+20131031 8 8 13029 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 3
+30s-2mn 11
+0s-30s 122
+15mn-30mn 2
+2mn-5mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 20
+/ 158 318541 111 90
+/_wiki/index.php 28 86130 1 2
+/resume.html 19 46770 2 8
+/project.html 17 63801 0 3
+/link.html 16 97512 7 9
+/recognition.html 16 47632 4 6
+/credit.html 15 74733 4 5
+/FAQ.html 13 46535 1 2
+/whatsnew.html 11 46701 1 3
+/artwork.html 9 30368 5 3
+/project_perl.html 5 14512 2 3
+/Bad_decisions_in_Liips.html 5 12985 0 2
+/LearningCurve.html 5 16380 0 2
+/ToDo.html 4 9084 0 0
+/career.html 3 4773 0 1
+/oracle9i_application_server.html 3 6087 1 0
+/oracle11iEbusiness_Suite.html 2 4762 0 0
+/index.php/i 1 400 0 0
+/_wiki/ 1 3064 1 0
+/index.php 1 400 0 1
+END_SIDER

@@ -1,0 +1,842 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201802 will be lost/reset.
+# Last config file used to build this data file was /home/onelife/tmp/awstats/awstats.onelife.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2687                
+POS_VISITOR 17826               
+POS_DAY 27117               
+POS_DOMAIN 3502                
+POS_LOGIN 3986                
+POS_ROBOT 4141                
+POS_WORMS 5822                
+POS_EMAILSENDER 5953                
+POS_EMAILRECEIVER 6096                
+POS_SESSION 27838               
+POS_SIDER 28039               
+POS_FILETYPES 6231                
+POS_DOWNLOADS 6434                
+POS_OS 7554                
+POS_BROWSER 7911                
+POS_SCREENSIZE 9411                
+POS_UNKNOWNREFERER 9485                
+POS_UNKNOWNREFERERBROWSER 10381               
+POS_ORIGIN 10769               
+POS_SEREFERRALS 10910               
+POS_PAGEREFS 11153               
+POS_SEARCHWORDS 11359               
+POS_KEYWORDS 11577               
+POS_MISC 2349                
+POS_ERRORS 11704               
+POS_CLUSTER 3842                
+POS_SIDER_404 11803               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180301001106 93 16665 11284278518361
+FirstTime 20180201000428
+LastTime 20180228211105
+LastUpdate 20180301100503 93 0 92 0 0
+TotalVisits 203                 
+TotalUnique 160                 
+MonthHostsKnown 102                 
+MonthHostsUnknown 85                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 126 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 19 87 690394 31 90 835115
+1 6 34 621088 25 50 999896
+2 32 69 1039668 100 170 1125780
+3 10 20 606161 61 139 1289596
+4 6 20 328790 39 58 637144
+5 8 39 650596 44 93 609420
+6 14 85 1606605 32 83 1529059
+7 14 99 1901527 52 90 647214
+8 10 31 498121 55 84 496681
+9 33 141 2480832 35 88 706131
+10 17 87 1579742 33 90 578059
+11 30 45 509957 32 63 118342
+12 9 37 639556 32 74 244150
+13 14 21 212351 116 180 665126
+14 9 23 344705 46 77 898950
+15 5 6 22741 41 87 1228076
+16 19 19 100354 24 59 851563
+17 13 16 71229 57 84 416665
+18 6 16 189729 27 69 1134956
+19 2 2 9230 129 173 1104925
+20 5 6 51440 59 104 2177495
+21 8 15 187243 51 103 823980
+22 16 26 256185 62 100 540881
+23 5 5 23820 21 62 643405
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 20
+us 177 437 5934164
+in 77 375 6824568
+ru 9 21 227959
+ua 9 9 41535
+ca 9 46 854085
+cn 4 11 169117
+fr 4 4 18460
+pl 3 3 12875
+gb 3 6 13742
+au 3 3 13267
+dm 2 2 9230
+nl 2 2 9230
+il 2 2 9230
+pk 1 8 155272
+de 1 1 4615
+th 1 1 860
+co 1 8 155272
+lt 1 1 4615
+ch 1 8 155272
+gy 0 1 8696
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 39
+bingbot/ 232 5756250 20180228172917 58
+YandexBot/ 214 1916470 20180228165042 70
+DotBot/ 130 2266025 20180228224754 66
+bot[\s_+:,\.\;\/\\-] 107 440579 20180228214132 2
+MJ12bot/ 83 218116 20180228160033 40
+SemrushBot/ 75 294465 20180228222007 19
+SeznamBot/ 73 47832 20180228205455 38
+spbot/ 72 351328 20180222072011 4
+Baiduspider/ 67 2751779 20180227194529 0
+AhrefsBot/ 67 1866695 20180226164500 20
+Googlebot/ 67 445997 20180226101434 18
+bingpreview 62 1356002 20180228100907 0
+HubSpot[\x20]Webcrawler 55 642370 20180224031839 1
+crawl 37 145632 20180228210440 9
+CCBot/ 34 370499 20180221193031 8
+unknown 33 10032 20180228001125 33
+Mail\.RU_Bot/ 32 210650 20180223210756 13
+BLEXBot/ 26 129355 20180227172453 1
+linkdexbot/ 20 96552 20180225183623 2
+netEstate[\x20]NE[\x20]Crawler 19 92447 20180223082520 1
+MegaIndex\.ru/ 18 87832 20180212035433 1
+(firefox/)([0-9]\.|[0-1][0]\.) 18 27583 20180227194407 12
+360Spider 16 73840 20180228103302 0
+no_user_agent 13 38440 20180226193513 5
+Uptimebot/ 8 4615 20180228061033 0
+SiteExplorer/ 6 1824 20180223233947 6
+YandexImages/ 8 24712 20180227213959 0
+Dalvik/ 1 118193 20180214043936 0
+W3C_Validator/ 1 3645 20180220093444 0
+MojeekBot/ 2 4919 20180211191531 1
+DuckDuckGo\-Favicons\-Bot/ 1 4615 20180219155409 0
+DeuSu/ 2 4919 20180224122310 1
+Applebot/ 1 4615 20180203132615 0
+link 2 608 20180219005654 2
+Sogou[\x20]web[\x20]spider/ 2 608 20180209092013 2
+istellabot/ 2 304 20180227060801 1
+SafeDNSBot 6 22553 20180226102702 2
+Googlebot\-Image/ 2 33648 20180214203555 0
+Yahoo![\x20]Slurp 2 4919 20180203184311 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+gif 87 12396298 0 0
+js 86 87290 0 0
+css 86 227126 0 0
+pdf 1 0 0 0
+jpg 337 523445 0 0
+txt 42 3143 0 0
+html 293 1315406 0 0
+php 17 69356 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 16
+/one.pdf 30 0 3427597
+/.well-known/pki-validation/1CB58483A1312DF3A08B94EAB7C3AC1D.txt 14 0 1078
+/SunilChoudhary.pdf 13 0 1648738
+/.well-known/pki-validation/953AB58F1E24A31057F8F6F823A1EB7E.txt 6 0 462
+/.well-known/pki-validation/3BDE3FFE8608C17C3E5B1EE5785CFD2E.txt 5 0 385
+/.well-known/pki-validation/AE5C8BC36612042A1EE5CF2B0D0D76C7.txt 4 0 308
+/.well-known/pki-validation/E900349181F1104E4E8BEFB499162D06.txt 3 0 231
+/.well-known/pki-validation/5A4E34ACCC28C2C5391009E9A77191BE.txt 2 0 154
+/.well-known/pki-validation/88181D3200C6C87649E6F2853EB57675.txt 1 0 64
+/.well-known/pki-validation/1658D387DE0FA0315E5EDBC5EF75052A.txt 1 0 64
+/.well-known/pki-validation/8FE65BF6D33294E4122BCAF36D4C2646.txt 1 0 64
+/.well-known/pki-validation/B4E91EC1A5D7D7615DB74CE37702EAD3.txt 1 0 64
+/.well-known/pki-validation/AAE1D09736B4CB372FF851420366A329.txt 1 0 64
+/.well-known/pki-validation/C76F2505F819AB007AB2A36B1725E86F.txt 1 0 77
+/.well-known/pki-validation/73280A5E07CB694C98130F092B01E845.txt 1 0 64
+/.well-known/pki-validation/AEBCC6C6766E86B0A326B1125E7C3236.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 23
+macosx10 2 2
+ios_ipad 15 15
+macosx9 1 1
+win2000 1 1
+macosx5 2 2
+macosx 8 1
+win8 2 2
+winlong 4 2
+Unknown 139 90
+win2003 11 10
+macosx12 22 15
+ios_iphone 14 3
+win10 40 18
+win98 1 1
+linuxandroid 451 79
+macosx11 2 2
+win8.1 25 3
+win7 168 45
+linux 16 9
+macosx7 1 1
+macosx8 2 2
+winxp 21 5
+winnt 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 73
+chrome28.0.1500.71 2 2
+firefox58.0 50 8
+safari6.0 1 1
+safari10.0.3 1 1
+chrome50.0.2661.86 8 1
+chrome64.0.3282.140 33 5
+chrome49.0.2623.112 19 4
+firefox33.0 2 2
+msie5.0 1 1
+safari5.0 1 1
+chrome16.0.912.36 1 1
+lynx 1 1
+chrome55.0.2883.91 8 1
+chrome38.0.1025.166 34 6
+msie6.0 1 1
+opera12.16 8 1
+chrome63.0.3239.111 73 10
+msie11.0 3 3
+opera48.0.2685.35 8 1
+chrome40.0.2214.93 1 1
+chrome60.0.3112.107 8 1
+msie7.0 12 11
+chrome60.0.3112.97 8 1
+firefox47.0 8 1
+chrome33.0.0.0 18 4
+mozilla 12 12
+chrome58.0.3029.83 16 2
+Unknown 117 75
+chrome3.0.187.1 8 1
+safari11.0.2 8 1
+chrome62.0.3202.84 8 1
+chrome54.0.2840.85 13 4
+chrome57.0.2987.108 8 1
+chrome49.0.2623.75 1 1
+chrome53.0.2785.124 10 3
+firefox56.0 1 1
+firefox35.0 1 1
+chrome40.0.2214.89 3 1
+chrome44.0.2403.89 1 1
+chrome37.0.2062.120 4 4
+chrome57.0.2987.133 1 1
+chrome14.0.801.0 1 1
+chrome61.0.3163.100 19 12
+firefox26.0 2 2
+chrome34.0.1847.131 1 1
+chrome64.0.3282.137 123 23
+chrome52.0.2743.98 2 1
+chrome50.0.2631.0 8 1
+safari11.0 27 17
+chrome64.0.3282.167 16 2
+chrome63.0.3239.132 80 22
+msie8.0 3 1
+chrome55.0.2883.95 1 1
+firefox48.0 1 1
+chrome59.0.3071.92 8 1
+chrome64.0.3282.186 8 1
+iphone 1 0
+chrome64.0.3282.119 8 1
+chrome41.0.2228.0 1 1
+android 15 1
+firefox49.0 2 1
+firefox57.0 3 2
+chrome42.0.2311.111 9 2
+firefox34.0 10 10
+safari7.0.3 1 1
+chrome58.0.3029.110 4 4
+chrome28.0.1500.94 8 1
+chrome59.0.3071.115 2 2
+edge16 1 0
+chrome61.0.3163.98 34 6
+msie10.0 2 2
+chrome59.0.3071.125 20 5
+msie9.0 6 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 15
+Go-http-client/1.1 20180209124310
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko)_Chrome/55.0.2883.95_Safari/537.36/ 20180226114742
+Opera/9.80_(MAUI_Runtime;_Opera_Mini/4.4.39016/85.73;_U;_hi)_Presto/2.12.423_Version/12.16 20180205062913
+SEMrushBot 20180213141440
+Mozilla/5.0_(compatible;_Qwantify/vR;__https://www.qwant.com/) 20180206232629
+BUbiNG_(_http://law.di.unimi.it/BUbiNG.html) 20180228001155
+Python/3.5_aiohttp/2.3.3 20180206001153
+Mozilla/5.0_(compatible;_ips-agent) 20180220163138
+COMODO_DCV 20180211001004
+Faraday_v0.9.2 20180223203108
+null 20180207032101
+Mozilla/5.0_(compatible;_Qwantify/2.4w;__https://www.qwant.com/)/2.4w 20180210185705
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20180228211105
+ia_archiver 20180216155914
+ltx71_-_(http://ltx71.com/) 20180209154207
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+SEMrushBot 20180213141440
+Go-http-client/1.1 20180209124310
+Faraday_v0.9.2 20180223203108
+null 20180207032101
+ia_archiver 20180216155914
+ltx71_-_(http://ltx71.com/) 20180209154207
+BUbiNG_(_http://law.di.unimi.it/BUbiNG.html) 20180228001155
+Python/3.5_aiohttp/2.3.3 20180206001153
+COMODO_DCV 20180211001004
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 258 303
+From1 13 13
+From2 17 27
+From3 4 4
+From4 18 602
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+www_google_com 2 2
+www_google_co_in 8 10
+yandexru 3 3
+google_com 2 2
+google_translate 1 8
+bing 1 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://burger-imperia.com 2 2
+http://pizza-tycoon.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+http+%2f%2fwww.onelife.in 1
+www.onelife.org.in 1
+www.onelife.in 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 4
+www.onelife.in 1
+www.onelife.org.in 1
+%2f%2fwww.onelife.in 1
+http 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 522 0
+206 6 210642
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 166
+/fileadmin/ 2 -
+/wp-content/plugins/simple-ads-manager/sam-ajax-admin.php 1 -
+/wp-content/plugins/simple-dropbox-upload-form/dragup/ 1 -
+/js/lib/ 2 -
+/admin 5 -
+/wp-content/plugins/gallery-slider/register.php 1 -
+/wp-content/plugins/codecanyon-157782-video-gallery-wordpress-plugin-w-youtube-vimeo-/upload.php 1 -
+/wp-login.php 4 -
+/modules/megamenu/uploadify/uploadify.php 1 -
+/javascripts/ajax/ 2 -
+/modules/pk_flexmenu/ajax/upload.php 1 -
+/admin/ 2 -
+/wp-content/themes/version.php 1 -
+/newsadmin/ 2 -
+/FCK/_whatsnew.html 2 -
+/components/com_sexycontactform/fileupload/index.php 1 -
+/administrator/components/com_joomlaupdate/restore.php 2 -
+/javascripts/ 2 -
+/wp-content/plugins/font-uploader/font-upload.php 1 -
+/Fck/_whatsnew.html 2 -
+/inc/ 2 -
+/fck/editor/dialog/fck_about.html 2 -
+/blog/wp-includes/wlwmanifest.xml 7 -
+/blog 1 -
+/modules/homepageadvertise2/uploadimage.php 1 -
+/admin_manage_access/ 2 -
+/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 1 -
+/Resume_SunilChoudhary.rtf 14 -
+/sitemap.xml 3 -
+/modules/wdoptionpanel/wdoptionpanel_ajax.php 1 -
+/blog/xmlrpc.php 2 -
+/wp-content/plugins/fluid_forms/file-upload/server/node/server.js 1 -
+/editor/dialog/fck_about.html 2 -
+/www.oracle.com 21 -
+/wp-includes/css/modules.php 1 -
+/admin888/ 2 -
+/fckeditor/editor/dialog/fck_about.html 2 -
+/far.php 1 -
+/inc/editor/ 2 -
+/wp-content/plugins/user-files/readme.txt 1 -
+/fck2/editor/dialog/fck_about.html 2 -
+/administrator/ 2 -
+/webmaster/ 2 -
+/wp-content/plugins/mm-forms-community/includes/doajaxfileupload.php 1 -
+/ckeditor/_whatsnew.html 2 -
+/wp-includes/wlwmanifest.xml 9 -
+/www.nucleussoftware.com 24 -
+/js/ 2 -
+/wp-admin/admin-ajax.php 8 -
+/wp/wp-includes/wlwmanifest.xml 2 -
+/modules/pk_vertflexmenu/ajax/upload.php 1 -
+/ckeditor/editor/dialog/fck_about.html 2 -
+/lib/ 2 -
+/HTMLEditor/ 2 -
+/wp-content/plugins/cardoza-facebook-like-box/custom-css/xo.php 1 -
+/wp-content/plugins/dzs-portfolio/admin/upload.php 2 -
+/checkadmin/ 2 -
+/fckedit/editor/dialog/fck_about.html 2 -
+/wp-content/plugins/real3d-flipbook/includes/process.php 3 -
+/_image/mine.gif 6 -
+/wp-content/plugins/page-google-maps/pr.php 1 -
+/index.php 1 -
+/apple-touch-icon-precomposed.png 30 -
+/fck2/_whatsnew.html 2 -
+/modules/fieldvmegamenu/ajax/upload.php 1 -
+/Resume_SunilChoudhary.zip 1 -
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/wp-content/themes/konzept/style.css 2 http://www.onelife.in/wp-content/themes/konzept/style.css
+/admin_area/ 2 -
+/wp-content/plugins/wp2android-turn-wp-site-into-android-app/readme.txt 2 http://www.onelife.in/wp-content/plugins/wp2android-turn-wp-site-into-android-app/readme.txt
+/wp-content/plugins/php-event-calendar/server/file-uploader/ 1 -
+/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php 2 http://www.onelife.in/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php
+/wp-content/plugins/codecanyon-157782-video-gallery-wordpress-plugin-w-youtube-vimeo-/admin/upload.php 1 -
+/wp-content/plugins/wp-symposium/server/php/index.php 1 -
+/admin_manage/ 2 -
+/sysadm/ 2 -
+/adm/ 2 -
+/consystem.php 1 -
+/ 5 -
+/scripts/ 2 -
+/wp-content/plugins/cardoza-facebook-like-box/cardoza_facebook_like_box.php 2 -
+/fckeditor/_whatsnew.html 2 -
+/site/wp-includes/wlwmanifest.xml 2 -
+/common/ 2 -
+/wp-admin/admin-post.php 4 -
+/wp-content/plugins/gallery-plugin/upload/php.php 1 -
+/Admin 2 -
+/search.php 1 -
+/xmlrpz.php 1 -
+/FCKeditor/_whatsnew.html 2 -
+/connectors/security/login.php 1 -
+/wp-includes/modules.php 1 -
+/FCKEditorV2/_whatsnew.html 2 -
+/apple-touch-icon-152x152-precomposed.png 30 -
+/wp-content/plugins/dzs-portfolio/upload.php 1 -
+/Fck/editor/dialog/fck_about.html 2 -
+/wp-content/plugins/uploader/uploadify/uploadify.php 1 -
+/uploads/ 2 -
+/wp-admin/user/updater.php 1 -
+/blog/ 5 -
+/webadmin/ 2 -
+/_whatsnew.html 2 -
+/apple-touch-icon-152x152.png 30 -
+/modules/vtemslideshow/uploadimage.php 1 -
+/FCKeditor/editor/dialog/fck_about.html 2 -
+/moderator/ 2 -
+/sysadmin/ 2 -
+/html/js/ 2 -
+/processlogin/ 2 -
+/wp-content/plugins/mailpress/mp-includes/action.php 1 -
+/wp-content/plugins/wp-property/third-party/uploadify/uploadify.php 1 -
+/imprima.php 2 -
+/wp-content/plugins/formcraft/file-upload/server/php/upload.php 1 http://onelife.in/wp-content/plugins/formcraft/file-upload/server/php/upload.php
+/FCKEditorV2/editor/dialog/fck_about.html 2 -
+/robots.txt 1 -
+/smalls.php 2 -
+/wp-content/plugins/wpstorecart/php/upload.php 1 -
+/sizing.php 2 -
+/AdminWeb/ 2 -
+/CFIDE/scripts/ajax/ 2 -
+/wp-content/plugins/sharexy/ajaxresponder.php 1 -
+/Editor/ 2 -
+/XAttacker.php 2 -
+/replace.php 1 -
+http://onelife.in/modules/homepageadvertise/uploadimage.php 1 -
+/system/ 2 -
+/wp-content/plugins/dzs-videogallery/upload.php 2 -
+/modules/attributewizardpro/file_upload.php 1 -
+/fck/_whatsnew.html 2 -
+/FCK/editor/dialog/fck_about.html 2 -
+/includes/editor/ 2 -
+/ads.txt 5 -
+/valid-xhtml10.png 3 -
+/cms/wp-includes/wlwmanifest.xml 2 -
+/control/ 2 -
+/wp-admin/plugin-editor.php 1 -
+/wp-content/plugins/google-maps-by-daniel-martyn/inuse.php 1 -
+/modules/columnadverts/uploadimage.php 1 -
+/apple-touch-icon.png 30 -
+/connectors/system/settings.php 1 -
+/libraries/sfn.php 1 -
+/downloader/ 1 -
+/wp-admin/post.php 1 -
+/Admin/ 2 -
+/xmlrpc.php 6 -
+/Resume_SunilChoudhary.txt 12 -
+/wp-content/plugins/dzs-videogallery/admin/upload.php 1 -
+/Resume_SunilChoudhary.pdf 11 -
+/scripts/ajax/ 2 -
+/js/ajax/ 2 -
+/modules/advancedslider/ajax_advancedsliderUpload.php 1 -
+/htaccess.php 2 -
+/.index.php 1 -
+/manage/ 2 -
+/www.codezoo.net 14 -
+/user/register 1 -
+/fckedit/_whatsnew.html 2 -
+/b.php 2 -
+/ciosan.php 2 -
+/includes/ 2 -
+/faq.html 12 http://onelife.in
+/components/com_adsmanager/js/noconflict.js 1 -
+/wp-load.php 1 -
+//wp-login.php 1 -
+/&wd=test 1 http://www.baidu.com/s
+/manager/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 187
+ec2-52-87-222-31.compute-1.amazonaws.com 17 17 87528 20180221113119
+ec2-35-153-50-122.compute-1.amazonaws.com 17 17 87528 20180223023302
+ec2-54-165-80-143.compute-1.amazonaws.com 16 16 84048 20180218234328
+69.58.178.57 10 10 54216 20180220163138
+ec2-13-56-229-65.us-west-1.compute.amazonaws.com 10 10 46150 20180227044547
+38.100.21.67 10 11 53728 20180218171735
+google-proxy-64-233-173-138.google.com 8 20 612623 20180226024048
+ec2-54-174-163-65.compute-1.amazonaws.com 8 8 42525 20180201001438
+inter-range.dincorate.com 7 7 27690 20180223113506
+203.191.35.22 6 14 239467 20180213114007
+ec2-54-165-90-203.compute-1.amazonaws.com 5 5 23383 20180216155914
+157.48.67.230 5 26 475046 20180220091052
+abts-mp-dynamic-240.54.168.122.airtelbroadband.in 4 11 168115 20180201130928
+117.226.243.95 4 12 188342 20180203095638
+47.15.242.239 4 13 232997 20180220093401
+117.207.193.187 3 11 199927 20180209061452
+193.106.30.99 3 3 13845 20180220111020
+google-proxy-64-233-173-37.google.com 3 21 453420 20180227091009
+google-proxy-66-102-6-151.google.com 3 7 151170 20180226024018
+google-proxy-64-233-173-39.google.com 3 19 316709 20180228072832
+google-proxy-64-233-173-140.google.com 3 12 306374 20180217215934
+46.229.170.197 2 2 9230 20180227150344
+185.24.77.24 2 2 9230 20180207032101
+195.22.127.183 2 2 9230 20180211092212
+google-proxy-64-233-173-139.google.com 2 24 605243 20180217215958
+106.66.180.181 1 8 155272 20180214074257
+1.187.246.10 1 7 154554 20180202092550
+ec2-54-205-5-118.compute-1.amazonaws.com 1 1 4615 20180223203108
+rate-limited-proxy-66-249-90-99.google.com 1 1 4615 20180207081113
+157.41.241.86 1 8 155272 20180219061700
+176.116.7.204 1 1 4615 20180215085105
+168.235.200.78 1 8 155272 20180205102416
+157.41.149.224 1 8 155272 20180224183723
+27.4.154.196 1 8 155272 20180223073940
+27.97.33.151 0 2 1681 
+census12.shodan.io 1 1 4615 20180203025523
+49.14.70.205 1 2 5630 20180201120653
+google-proxy-66-102-8-210.google.com 0 1 743 
+174.138.63.96 1 1 4957 20180209124310
+124.155.251.9 1 8 155272 20180219051022
+49.44.86.42 1 1 0 20180210034238
+google-proxy-66-249-82-115.google.com 1 6 153798 20180206075850
+8.37.230.4 1 3 8271 20180206055503
+secure.comodo.net 0 3 231 
+ec2-54-163-145-152.compute-1.amazonaws.com 1 1 4615 20180212061639
+static-139.245.203.49-tataidc.co.in 1 8 155272 20180214225820
+114.232.43.3 1 1 4615 20180213144143
+157.48.197.62 1 15 305929 20180210062126
+49.35.45.210 2 16 310544 20180220064726
+94.23.75.60 1 1 4615 20180217142744
+223.184.213.150 1 8 155272 20180216100828
+106.207.23.26 1 8 155272 20180211070918
+27.59.212.249 1 8 155272 20180222081117
+42-106-198-195.live.vodafone.in 1 1 4615 20180214093841
+google-proxy-66-102-6-150.google.com 0 3 2399 
+ip-217-182-92.eu 1 1 4615 20180221134916
+ec2-54-213-41-202.us-west-2.compute.amazonaws.com 1 1 4615 20180213202719
+1.186.185.34.dvois.com 1 8 155272 20180218072740
+49.33.44.158 1 8 155272 20180201101609
+google-proxy-66-249-82-111.google.com 1 5 152808 20180203090709
+dynamicip-94-180-178-32.pppoe.kzn.ertelecom.ru 1 8 155272 20180205101233
+google-proxy-66-102-7-148.google.com 0 3 4102 
+152.201.117.169 1 8 155272 20180202134221
+42-107-6-204.live.vodafone.in 1 8 155272 20180223104002
+8.37.230.50 1 8 155272 20180221120845
+50-200-91-219.static.youbroadband.in 0 1 8696 
+49.15.183.42 1 3 6832 20180214043627
+106.79.138.135 0 5 147001 
+106.79.141.246 1 1 0 20180201120721
+ec2-54-145-7-238.compute-1.amazonaws.com 1 1 4615 20180219025908
+204.79.180.5 1 1 4615 20180209172545
+ip-147-135-194.eu 1 1 4615 20180206232629
+google-proxy-66-102-6-223.google.com 0 1 2641 
+ec2-34-217-108-16.us-west-2.compute.amazonaws.com 1 1 4615 20180204093022
+google-proxy-66-102-6-152.google.com 1 2 7256 20180220090940
+106.210.167.86 1 8 155272 20180204083637
+42-106-230-51.live.vodafone.in 2 9 150657 20180214093919
+google-proxy-64-233-173-141.google.com 0 3 2424 
+ip197.ip-178-33-39.eu 1 1 4615 20180223035458
+49.44.85.37 2 9 155272 20180216002539
+137.186.225.35.bc.googleusercontent.com 1 1 4615 20180209154207
+google-proxy-66-249-88-143.google.com 0 1 1015 
+9a.ac.adb8.ip4.static.sl-reverse.com 1 1 4615 20180224112804
+47.29.117.132 1 8 155272 20180222075554
+49.44.86.36 1 1 0 20180212034556
+14-202-250-89.static.tpgi.com.au 1 1 4615 20180202090423
+47.29.102.173 2 9 155272 20180225010003
+248-138-15-51.rev.cloud.scaleway.com 1 1 4615 20180202225016
+rib.ribbedtee.com 1 1 4615 20180215161520
+a02-05-04.opera-mini.net 1 8 155272 20180205062913
+117.203.137.183 1 8 155272 20180212022352
+ip-95-221-55-3.bb.netbynet.ru 1 3 8271 20180215181229
+ec2-54-158-197-249.compute-1.amazonaws.com 1 1 4615 20180228001155
+103.215.95.11.reverse.charotarbroadband.in 1 8 155272 20180216025713
+ns352879.ip-91-121-88.eu 1 1 4615 20180221134952
+122.15.168.42 1 8 155272 20180212094614
+178-82-181-228.dynamic.hispeed.ch 1 8 155272 20180226090849
+106.193.239.44 1 8 155272 20180221013551
+ec2-34-232-53-124.compute-1.amazonaws.com 1 1 4615 20180209012333
+104.144.125.133 1 1 4615 20180225024906
+46-118-127-15.broadband.kyivstar.net 2 2 9230 20180202135626
+49.35.10.136 1 8 155272 20180212101320
+ec2-54-156-116-109.compute-1.amazonaws.com 1 1 4615 20180212063624
+123.123.219.61 1 1 4615 20180226114742
+ec2-52-22-209-17.compute-1.amazonaws.com 1 1 4615 20180206001153
+139.167.170.58 1 8 155272 20180227054434
+google-proxy-64-233-173-34.google.com 2 11 161503 20180226023526
+45.115.187.36 1 8 155272 20180207054304
+rcentral501.webserversystems.com 1 1 4615 20180209123147
+47.29.72.115 1 8 155272 20180220074041
+146.185.223.250 2 2 9230 20180212220711
+aus2286050.lnk.telstra.net 1 1 4615 20180221134912
+ec2-54-219-176-234.us-west-1.compute.amazonaws.com 1 1 4615 20180225182803
+106.76.78.216 2 9 155272 20180221103519
+broadband-188-255-119-127.moscow.rt.ru 1 4 36726 20180223221653
+183.36.114.104 1 8 155272 20180209092023
+106.79.131.168 0 1 2641 
+google-proxy-66-249-88-145.google.com 0 1 144143 
+uscentral412.accountservergroup.com 1 1 4615 20180209173528
+173.211.111.207.rdns.colocationamerica.com 1 1 4615 20180228105653
+121.245.85.220.cdma-delhi.vsnl.net.in 1 8 155272 20180215044405
+223.237.221.104 0 5 147273 
+google-proxy-66-102-7-221.google.com 0 1 1015 
+49.15.160.163 2 5 155775 20180214043904
+rate-limited-proxy-66-249-90-97.google.com 1 1 4615 20180207081113
+128.199.124.86 1 1 4281 20180212200811
+ec2-52-91-128-235.compute-1.amazonaws.com 1 1 4615 20180221100319
+178.171.31.247 1 1 4615 20180220034233
+45.116.232.20 1 8 155272 20180208011143
+google-proxy-66-102-7-144.google.com 0 5 5499 
+crawl-104-170-187-194.qwant.com 1 1 3645 20180210185705
+49.44.76.232 1 8 155272 20180216121030
+abts-mp-dynamic-30.169.57.27.airtelbroadband.in 1 1 4281 20180222214131
+sogouspider-106-38-241-189.crawl.sogou.com 1 1 4615 20180208101314
+49.35.117.181 1 8 155272 20180216080423
+google-proxy-66-249-88-45.google.com 1 1 4615 20180224034225
+seosemcms5.example.com 2 2 9230 20180217021836
+c-p140-u1995-06.webazilla.com 0 1 0 
+69.171.215.114 1 1 4615 20180208191356
+abts-mp-dynamic-127.160.57.27.airtelbroadband.in 2 2 8562 20180202222307
+49.35.103.49 1 1 4615 20180218110437
+euve223424.serverprofi24.com 1 1 4615 20180216075030
+137.97.68.99 1 8 155272 20180212091002
+139.59.42.246 1 1 4037 20180203095645
+1.187.242.155 0 1 718 
+nameless.gol.net.gy 0 1 8696 
+103.29.223.196 2 9 159887 20180211003535
+217.147.169.218 1 1 4615 20180206142423
+217.147.168.20 1 1 4615 20180221004726
+broadband.actcorp.in 1 8 155272 20180208060435
+43.231.57.31 1 8 155272 20180206072443
+fadeaway.dreamhost.com 1 1 4615 20180227024659
+103.206.104.6 1 8 155272 20180214104656
+abts-mp-dynamic-138.209.168.122.airtelbroadband.in 2 2 8562 20180226152516
+cl-78-158-28-10.fastlink.lt 1 1 4615 20180228211105
+google-proxy-66-102-8-212.google.com 0 1 144143 
+ec2-34-218-45-162.us-west-2.compute.amazonaws.com 1 1 4615 20180227185345
+125.63.125.157.reverse.spectranet.in 0 1 29033 
+104.200.67.53 1 1 0 20180203013321
+abts-north-dynamic-70.140.186.223.airtelbroadband.in 1 8 155272 20180213113217
+49.35.66.156 1 8 155272 20180215075102
+47.29.132.122 1 8 155272 20180208121253
+49.35.101.61 0 7 150657 
+192.243.53.51 2 2 9230 20180213141440
+google-proxy-66-249-82-113.google.com 0 5 3938 
+ppp-58-11-57-50.revip2.asianet.co.th 1 1 860 20180221135327
+abts-mp-dynamic-171.167.57.27.airtelbroadband.in 1 8 155272 20180228072333
+static-208-80-194-30.as13448.com 1 1 6700 20180213133803
+223.184.115.116 1 1 4281 20180221022717
+aspen.nocdirect.com 0 39 2912 
+abts-mp-dynamic-243.141.57.27.airtelbroadband.in 2 2 8562 20180212200008
+199.249.223.74 2 2 9230 20180203080844
+abts-mp-dynamic-11.168.57.27.airtelbroadband.in 1 1 4281 20180215233619
+49.33.188.106 1 8 155272 20180215071752
+host.myfb-apps.com 1 1 4615 20180226225048
+abts-mp-dynamic-202.33.168.122.airtelbroadband.in 1 1 4281 20180228121731
+ec2-54-85-74-248.compute-1.amazonaws.com 1 1 4615 20180222170409
+124.124.14.93 1 1 4615 20180205074823
+google-proxy-66-102-6-193.google.com 0 1 666 
+185.165.169.55 2 2 9230 20180204132911
+google-proxy-66-102-6-221.google.com 1 5 150950 20180208140311
+google-proxy-66-102-7-146.google.com 0 1 731 
+abts-mp-dynamic-65.189.57.27.airtelbroadband.in 2 2 8562 20180221131751
+ns310333.ip-188-165-192.eu 1 1 4615 20180215180206
+204.79.180.3 0 2 3656 
+112.196.181.9 0 1 29033 
+google-proxy-66-249-88-144.google.com 1 1 4615 20180228092328
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20180201 17 38 530414 10
+20180202 8 22 337566 7
+20180203 11 34 516768 7
+20180204 5 13 202765 4
+20180205 4 32 621088 4
+20180206 7 24 332660 7
+20180207 6 20 329004 6
+20180208 8 43 785590 8
+20180209 11 28 391502 9
+20180210 9 33 906505 8
+20180211 5 61 327532 3
+20180212 12 40 652391 11
+20180213 13 29 433210 7
+20180214 10 52 940648 8
+20180215 10 40 652100 10
+20180216 13 48 808973 11
+20180217 16 23 229100 9
+20180218 22 43 592333 6
+20180219 4 18 319774 4
+20180220 29 87 1411037 10
+20180221 31 52 594737 14
+20180222 4 18 319440 4
+20180223 23 40 448643 7
+20180224 4 11 169117 4
+20180225 5 12 168783 4
+20180226 9 38 778742 7
+20180227 7 21 329004 7
+20180228 7 29 492638 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+15mn-30mn 3
+5mn-15mn 4
+2mn-5mn 4
+30mn-1h 1
+30s-2mn 3
+0s-30s 188
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 18
+/ 205 858390 176 165
+/_wiki/index.php 16 68496 16 16
+/resume.html 11 40095 1 4
+/recognition.html 10 40370 3 5
+/FAQ.html 7 37597 1 1
+/project.html 7 42483 0 1
+/whatsnew.html 7 45297 1 1
+/credit.html 7 46900 1 2
+/ToDo.html 5 26345 0 0
+/LearningCurve.html 5 24360 0 1
+/link.html 5 39105 2 0
+/project_perl.html 5 21475 0 1
+/artwork.html 5 24785 1 1
+/oracle9i_application_server.html 4 17796 0 0
+/Bad_decisions_in_Liips.html 4 23440 0 2
+/oracle11iEbusiness_Suite.html 4 20008 0 0
+/career.html 2 6960 0 2
+/index.php 1 860 1 1
+END_SIDER

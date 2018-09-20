@@ -1,0 +1,1447 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201803 will be lost/reset.
+# Last config file used to build this data file was /home/onelife/tmp/awstats/awstats.onelife.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2689                
+POS_VISITOR 17771               
+POS_DAY 59997               
+POS_DOMAIN 3541                
+POS_LOGIN 4233                
+POS_ROBOT 4388                
+POS_WORMS 6068                
+POS_EMAILSENDER 6199                
+POS_EMAILRECEIVER 6342                
+POS_SESSION 60787               
+POS_SIDER 61000               
+POS_FILETYPES 6477                
+POS_DOWNLOADS 6722                
+POS_OS 6981                
+POS_BROWSER 7334                
+POS_SCREENSIZE 9782                
+POS_UNKNOWNREFERER 9856                
+POS_UNKNOWNREFERERBROWSER 10673               
+POS_ORIGIN 11235               
+POS_SEREFERRALS 11376               
+POS_PAGEREFS 11662               
+POS_SEARCHWORDS 11833               
+POS_KEYWORDS 11985               
+POS_MISC 2351                
+POS_ERRORS 12044               
+POS_CLUSTER 4089                
+POS_SIDER_404 12164               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180401000932 136 20560 9562309966871
+FirstTime 20180301071705
+LastTime 20180331234811
+LastUpdate 20180401094652 136 0 135 0 0
+TotalVisits 825                 
+TotalUnique 718                 
+MonthHostsKnown 608                 
+MonthHostsUnknown 132                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 151 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 25 46 508572 43 86 1849536
+1 43 94 1263986 39 141 1477803
+2 58 97 1080517 48 116 990609
+3 18 47 808343 91 175 1390870
+4 20 44 577020 65 155 969199
+5 24 73 1166598 43 107 390969
+6 24 55 641059 48 158 482167
+7 46 96 1233246 67 142 1322420
+8 78 109 817481 49 105 1397280
+9 74 125 1801952 45 103 668292
+10 86 101 479013 43 101 275374
+11 94 104 360127 70 139 740531
+12 97 119 690234 63 145 178526
+13 67 75 446047 51 126 471591
+14 57 71 465849 96 154 366528
+15 46 69 573402 63 118 1788503
+16 72 93 712440 48 79 252324
+17 40 43 111853 76 118 508636
+18 79 86 491653 46 106 745379
+19 50 68 516102 105 140 688628
+20 29 43 214099 41 83 329276
+21 60 82 733851 49 99 1048932
+22 62 69 125824 74 134 501949
+23 95 102 345914 57 150 383289
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 35
+us 1153 1336 6809878
+in 63 301 5540307
+ru 18 38 230605
+eg 13 27 319100
+ng 12 14 160821
+fr 10 10 79081
+ua 9 9 30746
+de 6 6 21010
+gb 5 6 48837
+mn 5 26 174672
+uy 5 5 6738
+pl 5 6 153618
+kz 4 32 621088
+cn 3 18 344192
+ca 2 9 156610
+il 2 2 9230
+no 2 2 9230
+br 2 2 2698
+ro 2 9 189103
+th 2 16 310544
+vn 2 3 542983
+au 2 2 10106
+dm 2 2 9230
+nl 2 2 9230
+jp 2 3 11380
+at 1 8 155272
+tw 1 1 4615
+mx 1 1 1338
+be 1 1 1346
+bd 1 8 155272
+my 1 1 36279
+mk 1 1 1362
+ge 1 1 1346
+ie 2 2 2700
+kr 1 1 4615
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 40
+crawl 294 1404010 20180331214802 24
+bingbot/ 208 5179152 20180331182045 54
+DotBot/ 111 3070289 20180329204841 38
+AhrefsBot/ 85 1454512 20180331235353 23
+bot[\s_+:,\.\;\/\\-] 73 310468 20180329080814 0
+Googlebot/ 65 194184 20180331205203 17
+YandexBot/ 64 134949 20180331202639 38
+Baiduspider/ 62 2409727 20180331135747 0
+bingpreview 58 1064158 20180331182046 0
+MJ12bot/ 56 176761 20180319030254 21
+SeznamBot/ 54 105104 20180331233721 25
+SemrushBot/ 51 177314 20180330135617 20
+unknown 50 15200 20180320013731 50
+Mail\.RU_Bot/ 42 1879292 20180317134116 18
+(firefox/)([0-9]\.|[0-1][0]\.) 35 93948 20180330083207 11
+link 33 148442 20180328193101 6
+GarlikCrawler/ 21 337466 20180301064137 1
+spbot/ 18 87832 20180313075008 1
+360Spider 16 60907 20180330113254 3
+CCBot/ 15 47704 20180322115551 3
+no_user_agent 10 41839 20180316163218 1
+YandexImages/ 8 40432 20180331202643 0
+Google[\x20]Web[\x20]Preview 8 155272 20180329075551 0
+SiteExplorer/ 6 21003 20180317104128 3
+BLEXBot/ 5 28195 20180321000405 0
+Yahoo![\x20]Slurp 3 2980 20180313192301 1
+archive\.org_bot 2 608 20180319000614 2
+checker 2 2676 20180313155247 0
+curl 4 0 20180313064335 0
+Gluten[\x20]Free[\x20]Crawler/ 1 4615 20180303135554 0
+nutch\-1\.4/ 2 4919 20180307082741 1
+Googlebot\-Image/ 1 9146 20180331201137 0
+Xenu[\x20]Link[\x20]Sleuth 1 4615 20180320055028 0
+PhantomJS 1 2641 20180330171221 0
+oBot/ 2 4599 20180306114417 1
+Exabot/ 2 6373 20180331084443 1
+MojeekBot/ 2 4919 20180306015622 1
+Applebot/ 4 14149 20180330220434 1
+Dalvik/ 1 1338 20180313124540 0
+robot 1 304 20180312160409 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+txt 1 26 0 0
+pdf 1 126826 0 0
+zip 1 11906 0 0
+css 85 224485 0 0
+php 21 162715 0 0
+gif 78 10522439 0 0
+js 84 85260 0 0
+Unknown 2 67677 0 0
+html 1321 3875870 0 0
+jpg 317 1087978 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 7
+/one.pdf 12 0 1418316
+/SunilChoudhary.pdf 10 0 1268260
+/Sunil_Choudhary9325614450.pdf 2 0 253652
+/StepsForEJBOn9ias.doc 1 0 127999
+/Wai/alibaba.zip 1 0 11906
+/Wai/aliexpress/robot.txt 1 0 26
+/Wai.zip 1 0 295809
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+macosx5 2 2
+ios_ipad 129 114
+win2003 11 10
+ios_iphone 269 255
+win8.1 49 27
+macosx10 24 17
+win8 47 17
+macosx12 26 24
+winxp 40 26
+winlong 4 4
+macosx11 5 5
+linuxandroid 298 90
+macosx6 1 1
+macosx 21 21
+linux 122 71
+unix 3 3
+Unknown 393 387
+win7 273 145
+win10 184 115
+macosx9 8 8
+macosx8 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 119
+chrome57.0.2987.108 8 1
+chrome67.0.3383.0 8 1
+mozilla 17 16
+chrome67.0.3371.0 10 3
+chrome51.0.2704.103 5 5
+firefox12.0 1 0
+chrome40.0.2214.85 2 2
+chrome57.0.2987.110 1 1
+chrome23.0.1271.64 28 28
+msie6.0 1 1
+chrome67.0.3374.0 3 3
+chrome58.0.3014.0 8 1
+chrome63.0.3239.84 2 2
+chrome38.0.1025.166 16 2
+firefox26.0 5 5
+chrome28.0.1500.94 8 1
+chrome60.0.3112.78 8 1
+chrome67.0.3379.0 1 1
+firefox50.0 3 1
+firefox36.0 1 1
+chrome41.0.2228.0 4 3
+chrome49.0.2623.112 20 6
+chrome58.0.3029.110 4 4
+chrome60.0.3112.116 9 2
+msie11.0 32 30
+opera7.02 1 1
+safari5.0.6 2 2
+chrome65.0.3325.162 30 7
+safari11.0.3 19 19
+firefox31.0 3 3
+chrome40.0.2214.115 2 1
+firefox59.0 20 5
+firefox13.0.1 2 2
+safari10.1.2 12 5
+msie9.0 4 4
+Unknown 369 368
+chrome49.0.2623.75 8 8
+firefox52.0 5 5
+chrome34.0.1847.116 1 1
+safari7.0.3 3 3
+safari5.1 1 1
+safari11.0 301 294
+firefox53.0 2 2
+safari8.0 10 3
+msie8.0 16 14
+chrome60.0.3112.90 1 1
+safari11.0.2 1 1
+firefox60.0 17 3
+iphone 1 1
+chrome30.0.1599.101 1 1
+chrome63.0.3239.132 43 15
+edge16 36 29
+safari5.0.2 19 5
+safari 8 1
+safari9.1.3 3 3
+chrome49.0.2623.221 1 0
+chrome65.0.3325.181 34 11
+chrome64.0.3282.140 1 1
+chrome58.0.3029.145 1 1
+chrome37.0.0.0 8 1
+chrome60.0.3112.107 1 1
+msie7.0 12 11
+chrome44.0.2403.133 8 1
+chrome63.0.3239.111 9 2
+chrome42.0.2311.152 5 5
+chrome64.0.3282.186 193 86
+safari5.1.9 1 1
+opera37.0.2192.112031 8 1
+firefox46.0 2 2
+chrome67.0.3376.0 8 1
+chrome22.0.1216.0 1 1
+chrome62.0.3202.94 1 1
+safari8.0.8 1 1
+chrome54.0.2840.85 9 2
+wap 8 3
+chrome54.0.2840.87 6 2
+chrome56.0.2924.87 35 14
+chrome58.0.3029.83 8 1
+firefox47.0 5 5
+chrome65.0.3325.109 49 26
+chrome61.0.3163.100 9 9
+chrome45.0.2454.94 1 1
+firefox32.0 3 3
+chrome55.0.2883.91 1 0
+chrome31.0.1650.57 1 1
+chrome64.0.3282.137 85 27
+edge15 3 3
+chrome67.0.3369.0 13 13
+firefox51.0 1 1
+chrome54.0.2840.99 4 1
+firefox58.0 38 36
+chrome63.0.3239.116 1 1
+edge14 2 2
+safari9.0 29 29
+chrome53.0.2785.124 8 1
+chrome64.0.3282.167 3 3
+chrome59.0.3071.125 8 1
+chrome24.0.1312.70 2 2
+safari10.0.3 1 1
+chrome26.0.1410.65 1 1
+chrome57.0.2987.98 2 2
+chrome52.0.2743.116 2 2
+chrome57.0.2987.133 2 2
+chrome62.0.3202.84 8 1
+chrome67.0.3373.0 1 1
+firefox42.0 1 1
+opera12.16 8 1
+firefox33.0 4 4
+chrome62.0.3202.89 9 2
+firefox43.0 8 1
+chrome67.0.3380.0 18 18
+chrome49.0.2623.105 10 3
+chrome55.0.2883.95 2 2
+chrome44.0.2403.89 1 1
+safari10.0 37 37
+msie10.0 4 2
+chrome65.0.3325.146 16 15
+chrome64.0.3282.190 2 2
+opera12.01 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 15
+ltx71_-_(http://ltx71.com/) 20180315114043
+Mozilla/5.0_(compatible;_Qwantify/2.4w;__https://www.qwant.com/)/2.4w 20180309034737
+null 20180318051449
+Mnogosearch-3.1.21 20180330004843
+python-requests/2.18.4 20180315131444
+Mozilla/5.0_(compatible;_ips-agent) 20180320013743
+BUbiNG_(_http://law.di.unimi.it/BUbiNG.html#wc) 20180317123708
+G-i-g-a-b-o-t 20180302215310
+SEMrushBot 20180308031343
+U; 20180301071705
+NYU_Internet_Census_(https://scan.lol;_research@scan.lol) 20180328143342
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180305053351
+Go-http-client/1.1 20180310113805
+Chromeless_1.3.0 20180313155943
+LAVA_Spark_Vibe/MIDP-2.0_Configuration/CLDC-1.1/Screen-240x320__Dorado_WAP-Browser 20180315051849
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 12
+com.google.GoogleMobile/44.0.0_iPad/11.2.6_hw/iPad5_4 20180309172831
+Go-http-client/1.1 20180310113805
+Chromeless_1.3.0 20180313155943
+SEMrushBot 20180308031343
+NYU_Internet_Census_(https://scan.lol;_research@scan.lol) 20180328143342
+U; 20180301071705
+G-i-g-a-b-o-t 20180302215310
+BUbiNG_(_http://law.di.unimi.it/BUbiNG.html#wc) 20180317123708
+Mnogosearch-3.1.21 20180330004843
+null 20180318051449
+python-requests/2.18.4 20180315131444
+ltx71_-_(http://ltx71.com/) 20180315114043
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1288 1302
+From1 9 9
+From2 22 35
+From3 1 1
+From4 24 564
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 8
+google_com 5 5
+www_google_mn 3 3
+yandexru 2 2
+www_google_com_vn 0 1
+google_translate 3 10
+www_google_co_th 1 1
+bing 1 2
+www_google_co_in 7 11
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://github.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+301 3 716
+500 6 612
+404 1296 0
+206 9 254491
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 147
+/apple-touch-icon-72x72-precomposed.png 1 -
+/guns/ 1 -
+/blog/xmlrpc.php 1 -
+/wp-content/plugins/accesspress-anonymous-post-pro/js/admin-extra.js 5 -
+/personal.html 1 -
+/artwork.html 3 -
+/Wai/ 1 -
+/index.html 8 -
+/Resume_SunilChoudhary.rtf 32 -
+/ 201 -
+/wp-content/themes/u-design/style.css 1 http://www.onelife.in/wp-content/themes/u-design/style.css
+/browserconfig.xml 5 -
+/modules/mod_bookmark/tmpl/default.php 1 -
+/pandit.jpg 5 -
+/edliiper2.jpg 1 -
+/modules/pk_vertflexmenu/config.xml 5 -
+/wp-content/plugins/cardoza-facebook-like-box/admin_cardozafacebook.css 5 -
+/cgi-Bin/ 2 -
+/camel.gif 2 -
+/.vscode/ftp-sync.json 1 -
+/LearningCurve.html 5 -
+/RPC2 1 -
+/Resume_SunilChoudhary.zip 2 -
+/apple-touch-icon-72x72.png 1 -
+/libraries/joomla/session/session.php 1 -
+/javap.xls 1 -
+/netfreedom/ 1 -
+/_wiki/index.php 25 -
+/Bad_decisions_in_Liips.html 4 -
+/liiper.jpg 1 -
+/link.html 10 -
+/wp/wp-includes/wlwmanifest.xml 2 -
+/tmp/.jindex.php 1 -
+/media/system/js/core.js 3 -
+/jm-ajax/upload_file/ 2 http://www.onelife.in/jm-ajax/upload_file/
+/sitemap.xml 2 -
+/alibaba/login.alibaba.com/index.html 1 -
+/modules/homepageadvertise2/config.xml 5 -
+/blog//wp-login.php 2 -
+/wp-content/plugins/dzs-videogallery/admin/admin_global.js 5 -
+/modules/mod_bookmark/helper.php 1 -
+/wp/wp-admin/ 1 -
+/components/com_b2jcontact/css/b2jcontact.css 4 -
+/_image/mine.gif 3 -
+/site/wp-includes/wlwmanifest.xml 2 -
+/software.html 1 -
+/keith.jpg 2 -
+/admin 1 -
+/project_perl.html 2 -
+/project.html 8 -
+/readme.html 1 http://onelife.in/readme.html
+/old/wp-admin/ 1 -
+/www.codezoo.net 35 -
+/wp-content/themes/satoshi/upload-file.php 1 http://www.onelife.in/wp-content/themes/satoshi/upload-file.php
+/www.oracle.com 39 -
+/wp//wp-login.php 2 -
+/bw.gif 1 -
+//wp-content/plugins/xaisyndicate/idx.php 1 -
+/writings/taoup/ 2 -
+/wp-login.php 8 https://google.com
+/recognition.html 5 -
+/apple-touch-icon-152x152-precomposed.png 82 -
+/FAQ.html 8 -
+/wp-content/plugins/real3d-flipbook/js/share.min.js 5 -
+/wp-content/plugins/woocommerce-catalog-enquiry/assets/frontend/css/frontend.css 5 -
+/Resume_SunilChoudhary.txt 36 -
+/log.php 1 -
+/blog/ 5 -
+/wp-content/plugins/php-event-calendar/js/file-uploader/app.js 5 -
+/pink_glasses.jpg 1 -
+/wp-content/plugins/cherry-plugin/README.md 1 http://www.onelife.in/wp-content/plugins/cherry-plugin/README.md
+/license.php 4 -
+/components/com_sexycontactform/assets/js/index.html 5 -
+/license.txt 3 -
+/Wai/alibaba/login.alibaba.com/index.html 1 -
+/delme.html 1 -
+/test/wp-admin/ 1 -
+/wp-content/plugins/advanced-ajax-page-loader/reload_code.js 5 -
+/apple-touch-icon-152x152.png 82 -
+/xmlrpc.php 2 -
+/_wiki 1 -
+/js/admin.js 3 -
+/apple-touch-icon-120x120-precomposed.png 3 -
+/theme/assets/global/plugins/jquery-file-upload/server/php/ 1 http://www.onelife.in/theme/assets/global/plugins/jquery-file-upload/server/php/
+/one.pdf 5 -
+/wp-admin/admin-ajax.php 6 -
+/edliiper1.jpg 1 -
+/index.php 3 http://www.onelife.in/index.php
+/wp-content/plugins/mailpress/mp-includes/js/mp_thickbox.js 5 -
+/.git/config 1 -
+/cgi-bin/ 1 -
+/oracle9i_application_server.html 3 -
+/.c.html 8 -
+/fdp/ 1 -
+/writings/ 1 -
+/valid-xhtml10.png 2 -
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/wp-content/plugins/cherry-plugin/admin/css/cherry-admin-plugin.css 4 -
+/apple-touch-icon.png 89 -
+/Wai/alibaba 2 -
+/credit.html 5 -
+/logo.jpg 5 -
+/components/com_adsmanager/js/fullnoconflict.js 3 -
+//modules/mod_simplefileuploadv1.3/elements/udd.php 2 -
+/accident.jpg 1 -
+/CHANGELOG.txt 3 -
+/wp-includes/wlwmanifest.xml 7 -
+/liips-IND.jpg 1 -
+/apple-touch-icon-precomposed.png 83 -
+/wp-content/plugins/formidable/css/frm_fonts.css 5 -
+/wp-admin/ 1 -
+/cms/wp-includes/wlwmanifest.xml 2 -
+/career.html 5 -
+/wp-content/plugins/cherry-plugin/admin/js/cherry-admin-plugin.js 7 -
+/Resume_SunilChoudhary.pdf 3 -
+/blog/wp-includes/wlwmanifest.xml 6 -
+/ckupload/ckupload.php 1 -
+/core/CHANGELOG.txt 3 -
+/wordpress//wp-login.php 2 -
+/who-is-ESR.html 1 -
+/user/register 1 -
+/faqs/ 1 -
+/wp-content/plugins/wp-front-end-repository/js/uploadify/uploadify.css 3 http://www.onelife.in/wp-content/plugins/wp-front-end-repository/js/uploadify/uploadify.css
+/resume.html 5 -
+/.well-known/security.txt 1 -
+/upload.php 1 -
+/wp-content/plugins/formcraft/file-upload/server/php/upload.php 2 http://www.onelife.in/wp-content/plugins/formcraft/file-upload/server/php/upload.php
+//wp-login.php 5 -
+/www.nucleussoftware.com 39 -
+/wp-content/plugins/wp-support-plus-responsive-ticket-system/asset/js/admin.js 5 -
+/focus.gif 1 -
+/assets/modules/evogallery/js/uploadify/uploadify.css 1 http://onelife.in/assets/modules/evogallery/js/uploadify/uploadify.css
+/modules/fieldvmegamenu/config.xml 5 -
+/wp-content/plugins/fluid_forms/file-upload/server/php/ 2 http://onelife.in/wp-content/plugins/fluid_forms/file-upload/server/php/
+/README.txt 6 -
+/wp-content/plugins/wpstorecart/readme.txt 1 http://onelife.in/wp-content/plugins/wpstorecart/readme.txt
+/.remote-sync.json 1 -
+/language/en-GB/x991upx.php 1 -
+/mine.gif 2 -
+/administrator/components/com_simplephotogallery/lib/uploadFile.php 2 http://www.onelife.in/administrator/components/com_simplephotogallery/lib/uploadFile.php
+/modules/pk_flexmenu/config.xml 5 -
+/aifacs.jpg 5 -
+/apple-touch-icon-120x120.png 3 -
+/faq.html 9 http://onelife.in
+/robots.txt 160 -
+/wordpress/wp-admin/ 1 -
+/oracle11iEbusiness_Suite.html 9 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 740
+ec2-34-204-95-225.compute-1.amazonaws.com 34 34 178395 20180313154955
+ec2-34-207-156-230.compute-1.amazonaws.com 34 34 175056 20180309163041
+ec2-107-23-110-30.compute-1.amazonaws.com 34 34 175056 20180317123708
+ec2-54-209-136-97.compute-1.amazonaws.com 34 34 175056 20180315125630
+ec2-52-91-117-226.compute-1.amazonaws.com 33 33 171576 20180313183513
+ec2-54-83-52-76.compute-1.amazonaws.com 28 28 37828 20180313110454
+ec2-34-207-64-74.compute-1.amazonaws.com 18 18 92143 20180306195423
+ec2-34-229-186-175.compute-1.amazonaws.com 17 17 87528 20180309141649
+ec2-52-201-228-143.compute-1.amazonaws.com 17 17 87528 20180306220652
+ec2-54-236-12-150.compute-1.amazonaws.com 17 17 87528 20180315024628
+ec2-34-234-204-243.compute-1.amazonaws.com 17 17 87528 20180315085827
+ec2-35-153-79-5.compute-1.amazonaws.com 17 17 87528 20180315180951
+ec2-54-144-82-148.compute-1.amazonaws.com 17 17 87528 20180304025312
+ec2-34-239-207-50.compute-1.amazonaws.com 17 17 87528 20180311075003
+ec2-54-161-236-221.compute-1.amazonaws.com 17 17 87528 20180308201134
+ec2-54-174-231-76.compute-1.amazonaws.com 14 14 73739 20180314223731
+ec2-35-153-17-203.compute-1.amazonaws.com 14 14 73739 20180314045301
+197.211.61.176 11 13 159483 20180320131358
+38.100.21.68 10 11 54319 20180315081103
+69.58.178.58 10 10 54216 20180320013743
+ec2-54-67-59-131.us-west-1.compute.amazonaws.com 9 9 41535 20180331145516
+68-189-151-102.dhcp.ahvl.nc.charter.com 7 7 5360 20180323223825
+cache.google.com 7 7 9406 20180313105821
+abts-mp-dynamic-072.205.70.182.airtelbroadband.in 7 9 89567 20180330022742
+97-86-185-72.dhcp.mrqt.mi.charter.com 6 6 6712 20180313163113
+24-151-48-75.static.nwtn.ct.charter.com 1 1 1344 20180313102753
+ool-44c53f47.dyn.optonline.net 1 1 1336 20180313083625
+ec2-35-171-85-62.compute-1.amazonaws.com 1 1 1338 20180323111831
+68-119-117-159.dhcp.jcsn.tn.charter.com 1 1 1338 20180319180841
+71-10-230-213.dhcp.oxfr.ma.charter.com 1 1 1338 20180313173830
+99-203-29-122.pools.spcsdns.net 1 1 1338 20180313161212
+94.23.75.60 1 1 4615 20180318174956
+85.159.95.254 1 1 4615 20180316092142
+96-40-215-168.dhcp.stls.mo.charter.com 1 1 1346 20180313105858
+41.68.215.141 2 9 155740 20180317090722
+ec2-52-27-2-86.us-west-2.compute.amazonaws.com 5 5 13244 20180315113840
+119.30.38.111 1 8 155272 20180331023021
+google-proxy-64-233-172-242.google.com 1 1 4615 20180303035255
+24-196-24-165.dhcp.leds.al.charter.com 1 1 1362 20180312230452
+173.209.212.145 1 1 1338 20180313135656
+75-128-51-19.static.mtpk.ca.charter.com 1 1 1336 20180313094913
+71-93-48-36.static.snlo.ca.charter.com 1 1 1338 20180313124708
+broadband-188-32-240-48.moscow.rt.ru 1 8 155272 20180308212935
+129.82.222.0 1 1 1346 20180313110456
+106.207.123.67 1 8 155272 20180306053637
+71-82-98-177.dhcp.bycy.mi.charter.com 1 1 1338 20180315110710
+68-188-227-186.dhcp.bycy.mi.charter.com 1 1 1338 20180317084506
+93.159.230.87 1 3 8271 20180313195206
+97-83-247-121.dhcp.stpt.wi.charter.com 2 2 2708 20180313000407
+194.44.247.218 1 1 4615 20180315111452
+104.156.231.254.vultr.com 0 1 2641 
+251.sub-174-230-4.myvzw.com 1 1 1344 20180313102249
+67-5-120-156.spok.qwest.net 1 1 1346 20180313113447
+c-73-91-16-175.hsd1.fl.comcast.net 1 1 1338 20180313133156
+ec2-18-232-68-179.compute-1.amazonaws.com 1 1 4615 20180314043228
+5.188.203.40 1 1 0 20180328143342
+ec2-52-73-21-169.compute-1.amazonaws.com 3 3 4014 20180323111854
+172-223-029-120.dhcp.chtrptr.net 1 1 1362 20180312223805
+24-151-39-107.dhcp.nwtn.ct.charter.com 1 1 1362 20180312230513
+63.105.171.70 1 1 1346 20180313110314
+24-158-133-119.dhcp.kgpt.tn.charter.com 1 1 1362 20180312230041
+77.237.228.222 1 1 1338 20180313170509
+68-115-223-132.static.spbg.sc.charter.com 2 2 2672 20180313094439
+71-12-86-91.dhcp.spbg.sc.charter.com 1 1 1338 20180314085242
+71-12-82-232.dhcp.spbg.sc.charter.com 1 1 1338 20180313164730
+68-191-185-183.dhcp.fdul.wi.charter.com 1 1 1362 20180312231027
+71-82-163-179.dhcp.mdsn.wi.charter.com 1 1 1338 20180313153130
+47-36-13-249.dhcp.sghl.ga.charter.com 2 2 1346 20180313045730
+71-9-170-165.dhcp.jcsn.tn.charter.com 1 1 1346 20180313104546
+24.sub-174-218-17.myvzw.com 1 1 1338 20180314152706
+175.sub-174-234-131.myvzw.com 2 2 2676 20180314125727
+138.147-pool-xdsl-mi.sccoast.net 1 1 1338 20180314135732
+66-188-200-42.dhcp.roch.mn.charter.com 1 1 1338 20180318223311
+jobqueue-listener.jobqueue.netcraft.com-u3dcbc8fffc35464eab89445c6ace94ecu-digitalocean-2gb 1 1 4615 20180305053351
+172-222-113-078.dhcp.chtrptr.net 2 2 2672 20180313083031
+ec2-54-144-94-155.compute-1.amazonaws.com 1 1 1338 20180318210154
+64.19.80.90 1 1 1338 20180313123545
+1.47.2.176 1 8 155272 20180315102521
+google-proxy-66-249-93-39.google.com 1 1 4615 20180303035130
+ec2-34-229-113-51.compute-1.amazonaws.com 1 1 1338 20180314103224
+71-94-104-175.dhcp.ftbg.wi.charter.com 2 2 2676 20180313141637
+google-proxy-66-102-6-150.google.com 0 3 145552 
+103.245.198.226 2 9 189118 20180328092151
+68-117-1-166.dhcp.fdul.wi.charter.com 1 1 1338 20180313225034
+210.sub-174-235-142.myvzw.com 1 1 1336 20180313091558
+75-132-68-90.dhcp.stls.mo.charter.com 1 1 1338 20180314203731
+google-proxy-66-102-6-152.google.com 0 1 1015 
+93.sub-174-212-0.myvzw.com 1 1 1338 20180313120422
+45.32.130.87.vultr.com 1 1 4615 20180311082413
+68-116-166-229.dhcp.oxfr.ma.charter.com 4 4 5350 20180315232457
+c-73-131-103-5.hsd1.sc.comcast.net 1 1 1346 20180313114049
+mail0.ess.barracuda.com 2 2 2724 20180312224759
+host-41.237.99.5.tedata.net 1 1 1362 20180312225151
+71-84-190-175.dhcp.mdfd.or.charter.com 1 1 1346 20180313111711
+174-080-132-209.dhcp.chtrptr.net 2 2 1338 20180313155515
+45.sub-174-195-135.myvzw.com 2 2 2676 20180314101806
+adsl-065-081-088-191.sip.cha.bellsouth.net 1 1 1346 20180313104558
+71-87-101-63.dhcp.eucl.wi.charter.com 2 2 2706 20180313102041
+broadband.time.net.my 1 1 36279 20180320112227
+ip98-167-57-18.lv.lv.cox.net 1 1 1338 20180314161400
+104.226.2.153 1 1 1346 20180313104424
+46-118-155-165.broadband.kyivstar.net 2 2 9230 20180304112644
+155-186-222-159.dhcp.chtrptr.net 1 1 1338 20180313181807
+11.sub-174-255-134.myvzw.com 1 1 1338 20180313145947
+24-107-127-65.dhcp.stls.mo.charter.com 1 1 1362 20180312232603
+66-214-85-131.dhcp.malb.ca.charter.com 1 1 1338 20180313200513
+snipster38.go.mail.ru 1 1 1362 20180312225138
+host-104-128-168-28.jenolt6.epbfi.com 2 2 2676 20180313132530
+radius1.day.695online.com 1 1 1344 20180313103552
+148.163.128.145 3 3 7291 20180313155812
+65.sub-174-230-20.myvzw.com 1 1 1338 20180313162324
+97-82-110-223.dhcp.mdfd.or.charter.com 1 1 1338 20180317175436
+65.132.59.34 1 1 4615 20180302215310
+168.235.198.154 1 8 155272 20180312050237
+75-131-47-62.dhcp.kgpt.tn.charter.com 1 1 1338 20180326170823
+193.sub-174-224-5.myvzw.com 1 1 0 20180316022817
+google-proxy-64-233-173-139.google.com 2 14 302842 20180312030949
+c-69-137-110-70.hsd1.tn.comcast.net 1 1 1346 20180312235030
+153.145.dynamic.pppoe.fregat.ua 1 1 4615 20180315105329
+96-32-83-196.dhcp.gwnt.ga.charter.com 3 3 1336 20180313094241
+192.sub-174-222-4.myvzw.com 1 1 1338 20180314172857
+47.31.92.173 1 8 155272 20180314054017
+59.sub-174-218-143.myvzw.com 1 1 1346 20180313053906
+66-87-153-148.pools.spcsdns.net 1 1 1346 20180313104957
+host-41.237.78.130.tedata.net 2 2 2690 20180313104926
+90-192-119-111.mysipl.com 1 8 155272 20180311093351
+24-177-234-17.dhcp.gnvl.sc.charter.com 1 1 1338 20180313190952
+68-188-187-237.dhcp.bycy.mi.charter.com 1 1 1336 20180313095516
+2.132.80.113.megaline.telecom.kz 1 8 155272 20180318092824
+google-proxy-66-102-9-150.google.com 2 2 9230 20180329075550
+68-117-73-177.dhcp.roch.mn.charter.com 1 1 1362 20180312231249
+75-135-221-94.dhcp.krny.ne.charter.com 1 1 1338 20180313133745
+49.44.87.105 1 8 155272 20180313211922
+66-214-70-220.dhcp.gvrb.ca.charter.com 1 1 1338 20180313145523
+ec2-54-172-8-55.compute-1.amazonaws.com 1 1 1336 20180313100022
+43.231.56.178 1 8 155272 20180313051336
+47-42-36-201.dhcp.unas.mo.charter.com 1 1 1362 20180312225040
+96-41-243-132.dhcp.eucl.wi.charter.com 1 1 1338 20180313203647
+172-222-102-004.dhcp.chtrptr.net 1 1 1336 20180313084940
+96-32-59-188.dhcp.nwtn.ct.charter.com 1 1 1336 20180313094756
+75-134-90-248.dhcp.oxfr.ma.charter.com 1 1 1338 20180315123026
+96-41-132-172.dhcp.mdfd.or.charter.com 1 1 1338 20180315014158
+abts-mp-dynamic-x-135.181.60.171.airtelbroadband.in 1 1 0 20180315013711
+adf4d95b.setaptr.net 1 1 1338 20180313131138
+96-37-234-211.dhcp.leds.al.charter.com 1 1 1338 20180314122437
+96-39-182-243.dhcp.mdfd.or.charter.com 1 1 1338 20180313133034
+97-83-27-24.dhcp.aldl.mi.charter.com 1 1 1338 20180314231114
+97-83-247-158.dhcp.stpt.wi.charter.com 1 1 1338 20180321024720
+ec2-52-91-254-16.compute-1.amazonaws.com 1 8 155272 20180319155016
+mail14.ess.barracuda.com 2 2 2698 20180313080233
+195-154-177-103.rev.poneytelecom.eu 1 1 31712 20180331013931
+98-117-201-123.static.youbroadband.in 1 5 152873 20180315061827
+77.237.228.234 1 1 1346 20180313110715
+ec2-107-23-243-165.compute-1.amazonaws.com 1 8 155272 20180314141552
+75-138-148-205.dhcp.spbg.sc.charter.com 2 2 2676 20180313172350
+mobile-166-137-248-132.mycingular.net 1 1 1336 20180313072111
+24-158-140-9.dhcp.kgpt.tn.charter.com 1 1 1338 20180313202130
+c-98-250-202-196.hsd1.mi.comcast.net 1 1 1338 20180314203218
+oc-130-162-75-170.compute.oraclecloud.com 1 1 1346 20180312234959
+157.48.4.26 1 8 155272 20180314180430
+ec2-54-147-214-208.compute-1.amazonaws.com 2 2 2676 20180323111810
+174-087-217-193.dhcp.chtrptr.net 1 1 1346 20180313110302
+ec2-54-82-180-53.compute-1.amazonaws.com 1 1 1338 20180317150729
+97-84-200-213.dhcp.bycy.mi.charter.com 1 1 1338 20180313140802
+68-191-13-232.dhcp.plbg.ny.charter.com 1 1 1336 20180313090339
+97-93-211-254.dhcp.ftwo.tx.charter.com 1 1 1338 20180315122543
+bzq-84-111-37-171.cablep.bezeqint.net 2 2 9230 20180318051449
+uscentral401.accountservergroup.com 1 1 4615 20180303031239
+google-proxy-64-233-173-34.google.com 0 14 163348 
+h154.178.30.71.dynamic.ip.windstream.net 1 1 1338 20180313205703
+77.237.228.82 1 1 1338 20180319150253
+14.sub-174-196-140.myvzw.com 1 1 1336 20180313091424
+49.32.107.112 1 8 155272 20180315133011
+75-133-238-180.dhcp.aldl.mi.charter.com 1 1 1346 20180313110825
+50-204-208-202-static.hfc.comcastbusiness.net 1 1 1346 20180313113403
+c-98-219-145-146.hsd1.oh.comcast.net 1 1 1338 20180313191146
+ec2-54-213-94-63.us-west-2.compute.amazonaws.com 1 1 1338 20180314160008
+71-94-49-110.dhcp.snlo.ca.charter.com 4 4 1338 20180313150036
+68-117-50-163.dhcp.roch.mn.charter.com 1 1 1336 20180313101218
+cmcust1a-68.39.nulinkdigital.com 3 3 1338 20180314130717
+65.sub-174-230-158.myvzw.com 1 1 1346 20180313105752
+71-89-107-156.dhcp.stpt.wi.charter.com 1 1 1338 20180313225107
+c-76-118-210-135.hsd1.ma.comcast.net 2 2 2692 20180313105712
+ec2-52-91-65-115.compute-1.amazonaws.com 1 1 1346 20180313000026
+abts-mp-dynamic-176.148.57.27.airtelbroadband.in 2 16 306533 20180316010105
+112.196.47.34 1 8 155272 20180306020437
+ec2-34-210-68-145.us-west-2.compute.amazonaws.com 1 1 4615 20180328110725
+24-177-150-52.dhcp.mrqt.mi.charter.com 1 1 1346 20180313110722
+71-14-104-179.dhcp.gnvl.sc.charter.com 4 4 0 20180313172439
+178.33.54.161 1 1 4615 20180313174604
+c-73-150-113-14.hsd1.nj.comcast.net 2 2 2692 20180313041520
+75-133-211-160.dhcp.aldl.mi.charter.com 1 1 1362 20180312233224
+24-183-73-253.dhcp.eucl.wi.charter.com 1 1 1344 20180313102844
+172.56.22.101 1 1 1338 20180315173149
+24-247-190-78.dhcp.aldl.mi.charter.com 1 1 1336 20180313084245
+71-11-77-232.dhcp.mdfd.or.charter.com 1 1 1338 20180313155058
+10-67-182-166.mobile.uscc.net 1 1 1336 20180313100150
+70-40-55-140.arvig.net 1 1 1338 20180313130615
+96-33-15-240.dhcp.jcsn.tn.charter.com 1 1 1344 20180313103104
+68-115-85-27.dhcp.roch.mn.charter.com 1 1 1336 20180313085533
+abts-mp-dynamic-028.197.70.182.airtelbroadband.in 3 3 12843 20180304033611
+174-081-146-063.dhcp.chtrptr.net 1 1 1338 20180313155643
+176.116.6.24 1 1 4615 20180316094833
+75-143-174-253.dhcp.gnvl.sc.charter.com 1 1 1346 20180313113932
+nsg-static-118.132.72.182.airtel.in 1 8 155272 20180315190939
+c-67-160-255-0.hsd1.ca.comcast.net 1 1 1362 20180312232701
+c-73-142-176-123.hsd1.nh.comcast.net 1 1 1338 20180313140258
+97-92-123-231.dhcp.mrqt.mi.charter.com 1 1 1338 20180314121353
+24.231.117.2 2 2 1336 20180313091147
+ec2-54-165-242-94.compute-1.amazonaws.com 1 1 1338 20180317150912
+120.sub-174-255-2.myvzw.com 1 1 1346 20180313105226
+96-39-199-106.dhcp.mdfd.or.charter.com 1 1 1346 20180313004152
+182.74.22.82 1 8 155272 20180307075645
+abts-mp-dynamic-x-253.135.60.171.airtelbroadband.in 2 2 8562 20180302123801
+75-134-78-244.dhcp.oxfr.ma.charter.com 2 2 1362 20180312233103
+61.1.153.187 1 8 155272 20180306051745
+google-proxy-66-249-82-89.google.com 0 1 144143 
+sh-chi-us-gp1-wk114.internet-census.org 1 1 4615 20180315214634
+107.77.64.113 2 2 2676 20180314075108
+dynamic-202.71.31.59.rk-infratel.com 1 8 155272 20180311074834
+47-32-220-222.dhcp.ftwo.tx.charter.com 1 1 1338 20180313134939
+zz217.113.119-89.tlt.ru 1 1 4037 20180331234811
+75-143-170-60.dhcp.gnvl.sc.charter.com 2 2 2682 20180313201257
+24-181-233-84.dhcp.oxfr.ma.charter.com 1 1 1338 20180313171432
+24-241-81-42.dhcp.krny.ne.charter.com 1 1 1338 20180313125251
+google-proxy-66-102-9-148.google.com 1 1 4615 20180318121747
+117.226.153.198 2 7 156987 20180315051712
+24-180-149-221.dhcp.aldl.mi.charter.com 2 2 1344 20180313103019
+ctel-31-3-94-70.cabletel.com.mk 1 1 1362 20180312231507
+197.sub-174-222-131.myvzw.com 1 1 1338 20180314002054
+204.44.126.199 1 1 4615 20180307115437
+97-80-100-168.dhcp.oxfr.ma.charter.com 2 2 2672 20180313081935
+173.205.33.23 1 1 1338 20180323135629
+71-80-3-92.dhcp.sffl.va.charter.com 1 1 1338 20180314160106
+71-84-139-196.dhcp.knwc.wa.charter.com 1 1 1338 20180314222226
+94.23.171.176 1 1 4615 20180302042803
+47-40-72-87.dhcp.knwc.wa.charter.com 3 3 4014 20180313131826
+089-101-097014.ntlworld.ie 1 1 1338 20180313201239
+ec2-34-223-224-165.us-west-2.compute.amazonaws.com 1 1 1338 20180314165817
+176.116.7.23 1 1 4615 20180328232300
+197.210.44.226 1 1 1338 20180313125807
+ec2-34-207-158-68.compute-1.amazonaws.com 1 1 1338 20180313130017
+99-203-29-63.pools.spcsdns.net 1 1 1346 20180313112014
+97-87-171-7.dhcp.stls.mo.charter.com 1 1 1336 20180313091954
+47-33-207-89.dhcp.sgnw.mi.charter.com 1 1 1338 20180315200835
+174-087-134-011.dhcp.chtrptr.net 1 1 1346 20180313002400
+24-179-205-251.dhcp.stcd.mn.charter.com 1 1 1338 20180313214156
+mobile-166-137-139-027.mycingular.net 1 1 1338 20180314211914
+68-191-167-9.dhcp.stpt.wi.charter.com 1 1 1338 20180313120549
+75-135-107-113.dhcp.nwtw.ct.charter.com 1 1 4615 20180319164441
+164.sub-174-196-147.myvzw.com 1 1 1338 20180313152451
+sh-chi-us-gp1-wk102.internet-census.org 1 1 4615 20180316224903
+ec2-54-210-60-7.compute-1.amazonaws.com 1 1 1338 20180323111917
+ec2-34-229-141-138.compute-1.amazonaws.com 1 1 1346 20180313010018
+c-73-42-53-77.hsd1.fl.comcast.net 2 2 1338 20180317092754
+ec2-54-188-4-3.us-west-2.compute.amazonaws.com 1 1 4615 20180307162827
+93.159.230.28 2 6 16542 20180314195640
+107.sub-174-195-132.myvzw.com 1 1 1344 20180313103515
+188.165.2.183 1 1 4615 20180328173821
+66-168-197-134.dhcp.gsvl.ga.charter.com 1 1 1338 20180314091654
+66-191-155-115.dhcp.mtgm.al.charter.com 1 1 1346 20180313110848
+static.229.90.201.195.clients.your-server.de 1 2 5630 20180310113911
+68-115-217-106.static.spbg.sc.charter.com 2 2 2672 20180313064219
+104.245.34.116 1 1 1362 20180312230126
+75-129-163-108.dhcp.buvl.tn.charter.com 2 2 2690 20180313111813
+75-130-39-113.dhcp.buvl.tn.charter.com 1 1 1338 20180317092113
+71-10-109-107.dhcp.stcd.mn.charter.com 1 1 1338 20180315100520
+47-40-147-32.dhcp.unas.mo.charter.com 1 1 1346 20180313002114
+97-86-249-134.dhcp.roch.mn.charter.com 2 2 2672 20180313085832
+97-84-73-239.dhcp.snlo.ca.charter.com 2 2 2684 20180314011422
+209-30-115-204.lightspeed.nsvltn.sbcglobal.net 1 1 1346 20180312235832
+census12.shodan.io 1 1 4615 20180304020017
+63.97.65.194 1 1 1338 20180315092236
+dynamic-24-42-243-246.knology.net 1 1 1338 20180313171412
+173-21-130-239.client.mchsi.com 1 1 1362 20180312224830
+71-81-114-129.dhcp.spbg.sc.charter.com 2 2 2672 20180313085932
+c-68-57-254-13.hsd1.in.comcast.net 1 1 1338 20180313122812
+12.198.151.124 1 1 1336 20180313084858
+1.1.194.35.bc.googleusercontent.com 1 1 4615 20180315114043
+ec2-50-112-194-65.us-west-2.compute.amazonaws.com 2 2 5961 20180315113839
+174-080-055-067.dhcp.chtrptr.net 1 1 1338 20180313201331
+240.sub-174-216-11.myvzw.com 1 1 1338 20180313185314
+66-215-66-94.dhcp.wsco.ca.charter.com 1 1 1338 20180313155533
+97-90-154-250.static.mtpk.ca.charter.com 1 1 1362 20180312225453
+71-95-121-55.dhcp.mdfd.or.charter.com 1 1 1338 20180313150729
+71-89-251-155.dhcp.aldl.mi.charter.com 1 1 1362 20180312231859
+ec2-50-19-154-226.compute-1.amazonaws.com 1 1 4615 20180315113805
+172-221-162-137.dhcp.chtrptr.net 2 2 1336 20180313094448
+42-109-19-155.live.vodafone.in 1 8 155272 20180311045755
+pool-108-18-197-109.washdc.fios.verizon.net 2 2 2724 20180312232217
+97-94-68-164.dhcp.aldl.mi.charter.com 1 1 1346 20180313054523
+96-32-64-179.dhcp.gwnt.ga.charter.com 1 1 1338 20180314215051
+c-69-137-87-47.hsd1.tn.comcast.net 1 1 1338 20180313124648
+c-73-67-7-191.hsd1.mo.comcast.net 1 1 1362 20180312232349
+75-141-212-143.dhcp.reno.nv.charter.com 1 1 1362 20180312232736
+71-87-48-200.dhcp.eucl.wi.charter.com 1 1 1336 20180313083950
+96-37-238-77.dhcp.leds.al.charter.com 1 1 1338 20180313140628
+ec2-35-162-178-2.us-west-2.compute.amazonaws.com 1 1 1338 20180314160859
+46.218.85.101 2 2 15642 20180309133642
+95.sub-174-223-24.myvzw.com 2 2 2674 20180313160008
+128.199.124.86 2 2 9230 20180306051748
+68-184-29-218.dhcp.unas.ma.charter.com 1 1 1338 20180313144345
+ec2-34-239-81-230.compute-1.amazonaws.com 1 1 4615 20180307103143
+24-183-239-126.dhcp.kgpt.tn.charter.com 1 1 1336 20180313080813
+c-75-68-205-139.hsd1.ma.comcast.net 1 1 1338 20180319122346
+71-89-185-204.dhcp.trcy.mi.charter.com 2 2 1338 20180313221518
+24-159-49-30.dhcp.jcsn.tn.charter.com 1 1 1336 20180313070740
+c-67-188-98-0.hsd1.ca.comcast.net 1 1 1346 20180313004336
+121.46.86.238 0 1 718 
+24-176-117-242.dhcp.jcsn.tn.charter.com 1 1 1338 20180313120416
+66-87-138-14.pools.spcsdns.net 1 1 1346 20180313000811
+c-73-107-13-137.hsd1.fl.comcast.net 2 2 2682 20180313085118
+google-proxy-64-233-173-37.google.com 3 18 173201 20180319041937
+mobile-166-137-125-109.mycingular.net 1 1 1338 20180313191705
+71-90-176-241.dhcp.slid.la.charter.com 1 1 1362 20180312224657
+103.70.98.106 2 9 155272 20180313005500
+107.77.94.28 1 1 1346 20180313112852
+horleadyl.com 2 2 9230 20180303035044
+ec2-107-23-92-28.compute-1.amazonaws.com 1 1 1338 20180323111853
+key.keywebgrip.com 1 1 4615 20180301220235
+66.181.160.107 1 8 155272 20180306022610
+24-179-34-248.dhcp.leds.al.charter.com 2 2 2676 20180313131559
+209.210.86.242 1 1 1346 20180313113921
+71-15-35-124.dhcp.thbd.la.charter.com 1 1 1336 20180313064856
+75-134-226-28.dhcp.oxfr.ma.charter.com 1 1 1336 20180313084118
+122.201.21.240 1 8 11129 20180331221444
+ach11.ashlandfiber.net 1 1 0 20180313220211
+static-acs-24-154-55-114.zoominternet.net 1 1 1336 20180313094113
+42-106-19-11.live.vodafone.in 0 1 29033 
+93.159.230.89 1 3 8271 20180318151345
+117.227.17.224 1 1 4615 20180315051849
+107.77.90.115 1 1 1346 20180313114019
+c-76-126-245-133.hsd1.ca.comcast.net 2 2 2708 20180312234342
+host-41.237.87.167.tedata.net 2 2 1336 20180313074957
+172-223-248-194.dhcp.chtrptr.net 1 1 1338 20180313221619
+24-177-249-22.dhcp.nwtn.ct.charter.com 2 2 2690 20180313110302
+104-58-16-97.lightspeed.irvnca.sbcglobal.net 1 1 1362 20180312222139
+107.77.94.57 1 1 1344 20180313104019
+116.72.134.220 2 16 310544 20180319123758
+google-proxy-66-249-83-78.google.com 0 1 743 
+157.48.234.221 2 9 155272 20180309015557
+75-143-145-163.dhcp.jcsn.tn.charter.com 1 1 1346 20180313110036
+ec2-34-229-53-150.compute-1.amazonaws.com 1 1 1338 20180316160025
+71-95-94-1.dhcp.ftbg.wi.charter.com 1 1 1346 20180313041749
+75-129-147-132.dhcp.fdul.wi.charter.com 1 1 1338 20180324073645
+75-136-211-8.dhcp.kgpt.tn.charter.com 1 1 1338 20180313121758
+ec2-52-207-64-101.compute-1.amazonaws.com 2 2 2676 20180323111752
+mobile-166-137-248-019.mycingular.net 1 1 1338 20180313120907
+google-proxy-66-102-7-146.google.com 0 1 2641 
+ec2-54-205-21-143.compute-1.amazonaws.com 1 1 1338 20180323111720
+pool-71-187-190-78.nwrknj.ftas.verizon.net 1 1 1336 20180313091708
+47-42-44-202.dhcp.unas.mo.charter.com 1 1 1344 20180313101959
+75-128-156-185.dhcp.bycy.mi.charter.com 1 1 1338 20180313173150
+71-94-196-153.dhcp.reno.nv.charter.com 1 1 1346 20180313110803
+c-73-156-201-130.hsd1.fl.comcast.net 1 1 1338 20180314131808
+227.sub-174-195-136.myvzw.com 1 1 1338 20180318230027
+99-203-23-230.pools.spcsdns.net 1 1 1338 20180314083032
+71-85-195-200.dhcp.stls.mo.charter.com 1 1 1338 20180313132744
+c-73-111-106-62.hsd1.il.comcast.net 1 1 1362 20180312231949
+mobile-166-137-248-032.mycingular.net 1 1 1336 20180313093508
+75-134-166-143.dhcp.bycy.mi.charter.com 1 1 1338 20180314101006
+71-86-158-114.dhcp.stls.mo.charter.com 1 1 1338 20180313120602
+c-71-202-5-106.hsd1.ca.comcast.net 1 1 1362 20180312225529
+ec2-54-237-205-236.compute-1.amazonaws.com 1 1 1338 20180323111924
+106.121.60.19 0 1 29033 
+97-93-113-154.static.mtpk.ca.charter.com 2 2 2676 20180315154912
+24-178-84-195.static.leds.al.charter.com 1 1 1346 20180313112122
+64.113.173.18 1 1 1338 20180313145700
+crawl-129-170-187-194.qwant.com 1 2 131441 20180309034737
+abts-mp-dynamic-x-255.170.60.171.airtelbroadband.in 1 1 4281 20180307044546
+mail.elabram.com 1 1 1338 20180313141345
+ec2-34-207-101-18.compute-1.amazonaws.com 1 1 4615 20180315204901
+99-203-11-142.pools.spcsdns.net 2 2 2676 20180313163336
+host-41.237.120.117.tedata.net 2 2 0 20180312232240
+ec2-52-206-82-226.compute-1.amazonaws.com 1 1 1338 20180323111538
+71-85-23-35.dhcp.knwc.wa.charter.com 6 6 8018 20180313204158
+143.59.150.192 1 1 1338 20180320122249
+141-126-043-158.dhcp.chtrptr.net 1 1 1346 20180313110201
+ec2-52-91-94-56.compute-1.amazonaws.com 1 1 1346 20180313105128
+107.77.97.130 1 1 1338 20180314100336
+75-139-121-5.static.mant.nc.charter.com 1 1 1338 20180323235030
+172-222-224-135.dhcp.chtrptr.net 1 1 1346 20180313023457
+96-38-110-5.dhcp.jcsn.tn.charter.com 1 1 1338 20180315103601
+71-90-196-252.dhcp.stls.mo.charter.com 4 4 1346 20180312234833
+174-087-153-094.dhcp.chtrptr.net 1 1 1338 20180313185958
+114.143.104.202 3 8 81094 20180315062426
+251.sub-174-199-66.myvzw.com 1 1 1338 20180315191748
+96-91-21-233-static.hfc.comcastbusiness.net 1 1 1338 20180314142920
+cpe-67-11-22-93.satx.res.rr.com 1 1 1362 20180312225908
+24-151-96-152.dhcp.nwtn.ct.charter.com 1 1 1338 20180313160018
+71-93-55-101.static.snlo.ca.charter.com 1 1 1346 20180313114821
+68-118-215-96.dhcp.knwc.wa.charter.com 1 1 1362 20180312231323
+host-41.239.41.253.tedata.net 1 8 155272 20180306165056
+24-217-129-157.dhcp.stls.mo.charter.com 1 1 1336 20180313083348
+139.59.42.246 2 2 10106 20180330022742
+71-80-83-240.dhcp.kgpt.tn.charter.com 1 1 1336 20180313084426
+96-38-114-227.dhcp.jcsn.tn.charter.com 1 1 1338 20180313131928
+97-89-164-134.dhcp.gnvl.sc.charter.com 1 1 1362 20180312223335
+107.77.105.65 1 1 1338 20180313131029
+pool-100-11-103-9.phlapa.fios.verizon.net 1 1 1336 20180313095958
+68-116-114-57.dhcp.thdl.or.charter.com 1 1 1336 20180313090121
+131.95.1.138 1 1 1338 20180316120850
+172-222-219-232.dhcp.chtrptr.net 1 1 1346 20180313033114
+c-73-1-184-177.hsd1.fl.comcast.net 2 2 2680 20180313101932
+32.211.124.201 1 1 1338 20180314174748
+24-181-129-58.dhcp.knwc.wa.charter.com 2 2 2672 20180313100827
+68-119-109-130.dhcp.jcsn.tn.charter.com 1 1 1338 20180313170034
+089144208199.atnat0017.highway.a1.net 1 8 155272 20180302082741
+24-196-161-184.dhcp.ahvl.nc.charter.com 1 1 1338 20180314145436
+host-184-167-93-12.shr-wy.client.bresnan.net 1 1 1338 20180313123549
+75-131-157-223.dhcp.spbg.sc.charter.com 2 2 1336 20180313100116
+24-177-203-85.dhcp.ftbg.wi.charter.com 1 1 1362 20180312231047
+google-proxy-64-233-173-39.google.com 4 19 598739 20180318115157
+96-40-203-244.dhcp.stls.mo.charter.com 1 1 1338 20180316231514
+71-10-232-74.dhcp.oxfr.ma.charter.com 1 1 1338 20180318082434
+66-190-5-6.dhcp.stpt.wi.charter.com 1 1 1338 20180313173007
+a28-01-08.opera-mini.net 1 8 155272 20180328125445
+ec2-52-11-252-156.us-west-2.compute.amazonaws.com 1 1 1338 20180314161227
+65.sub-174-230-21.myvzw.com 1 1 1338 20180313150103
+c-73-14-90-241.hsd1.co.comcast.net 1 1 1338 20180313144315
+97-89-214-34.static.slid.la.charter.com 1 1 1336 20180313094325
+71-10-229-15.dhcp.oxfr.ma.charter.com 1 1 1336 20180313074339
+68-190-155-153.dhcp.eucl.wi.charter.com 1 1 1338 20180313204452
+182.77.110.0 1 8 155272 20180320060152
+71-85-1-42.dhcp.buft.sc.charter.com 1 1 1362 20180312232518
+206.225.134.130 1 1 1338 20180316085049
+host-72-175-69-62.static.bresnan.net 1 1 1338 20180313164215
+2.132.235.48 1 8 155272 20180319001541
+ip-99-240-239-173.midwest.us.northamericancoax.com 3 3 4014 20180313181133
+d-173-44-75-198.cpe.metrocast.net 1 1 1362 20180312231615
+145.255.170.88 1 8 155272 20180306084206
+68-114-55-52.dhcp.davl.vt.charter.com 1 1 1344 20180313103009
+107.77.90.94 1 1 1338 20180314180549
+google-proxy-66-102-7-144.google.com 0 2 1681 
+76-233-192-139.lightspeed.esclca.sbcglobal.net 1 1 1338 20180313142204
+c-68-63-63-129.hsd1.fl.comcast.net 1 1 1346 20180313113015
+google-proxy-66-249-83-17.google.com 1 1 1338 20180314144133
+66-214-195-205.dhcp.gvrb.ca.charter.com 1 1 1338 20180319155747
+108.61.96.231.vultr.com 1 1 6700 20180330165633
+66-189-64-17.dhcp.oxfr.ma.charter.com 1 1 1338 20180313161454
+c-75-67-48-75.hsd1.nh.comcast.net 2 2 2676 20180314145350
+71-95-39-202.dhcp.rvsd.ca.charter.com 1 1 1346 20180313111646
+24-176-47-133.dhcp.klmz.mi.charter.com 1 1 1338 20180314093639
+nat-service2.aws.kontera.com 1 1 1338 20180313145831
+96-41-203-80.dhcp.elbg.wa.charter.com 1 1 1346 20180313112342
+75-120-253-145.dyn.centurytel.net 1 1 1338 20180313211019
+24-247-103-44.dhcp.aldl.mi.charter.com 1 1 1338 20180313192607
+47-40-116-98.dhcp.knwc.wa.charter.com 1 1 1362 20180312232312
+97-81-149-51.dhcp.gwnt.ga.charter.com 3 3 0 20180313112221
+68-188-47-55.static.stls.mo.charter.com 1 1 1338 20180313124358
+ec2-52-201-143-252.compute-1.amazonaws.com 1 1 1346 20180313000158
+157.119.81.118 0 1 8696 
+66-214-216-151.static.reno.nv.charter.com 1 1 1344 20180313102810
+71-94-2-103.dhcp.reno.nv.charter.com 1 1 1338 20180313161025
+107.77.72.59 1 1 1338 20180313131608
+c-98-214-33-100.hsd1.il.comcast.net 1 1 1336 20180313094648
+google-proxy-64-233-173-138.google.com 5 18 180475 20180316085754
+71-89-2-177.dhcp.oxfr.ma.charter.com 2 2 2684 20180313115325
+134.119.213.82 2 2 9230 20180316105330
+174.138.63.96 1 1 4037 20180308184602
+96-37-122-210.dhcp.stcd.mn.charter.com 1 1 1336 20180313080012
+12.127.136.146 1 1 1338 20180313152058
+66-191-206-199.dhcp.spbg.sc.charter.com 1 1 1346 20180313054615
+71-84-146-74.dhcp.ftwo.tx.charter.com 1 1 1338 20180313213107
+mobile-166-170-015-088.mycingular.net 1 1 1338 20180313125331
+68-118-233-44.dhcp.oxfr.ma.charter.com 1 1 1336 20180313094123
+host-174-45-233-240.bln-mt.client.bresnan.net 1 1 1346 20180313005409
+c-69-250-216-18.hsd1.md.comcast.net 1 1 1346 20180312234006
+24-107-128-81.dhcp.stls.mo.charter.com 1 1 1338 20180314085513
+ec2-54-197-7-131.compute-1.amazonaws.com 1 1 1338 20180323111803
+c-98-228-140-255.hsd1.il.comcast.net 1 1 1336 20180313090930
+ec2-34-207-233-83.compute-1.amazonaws.com 1 1 1338 20180313125146
+snipster35.go.mail.ru 2 2 2724 20180312225138
+97-95-224-208.dhcp.sffl.va.charter.com 1 1 1344 20180313104112
+66-87-143-59.pools.spcsdns.net 1 1 1338 20180313174304
+24-179-151-128.dhcp.stcd.mn.charter.com 2 2 2674 20180313160731
+205-64-87-183.mysipl.com 1 8 155272 20180304012152
+nsg-static-222.6.71.182.airtel.in 0 1 29033 
+173.205.33.21 2 2 2700 20180320111853
+48.sub-174-195-142.myvzw.com 1 1 1338 20180313121817
+47.sub-174-222-128.myvzw.com 1 1 1338 20180313214154
+117.215.4.57 1 8 155272 20180315034431
+97-94-240-11.dhcp.lncy.or.charter.com 1 1 1336 20180313081307
+150-70-188-172.trendmicro.com 1 1 1338 20180313171524
+157.32.73.97 0 2 1474 
+96-32-169-138.dhcp.gwnt.ga.charter.com 1 1 1338 20180313124831
+035-132-196-207.dhcp.chtrptr.net 2 2 2676 20180314003853
+rice-lake-27-17.dsl.chibardun.net 3 3 4018 20180313150954
+106.76.195.112 2 9 161743 20180328092425
+97-81-208-131.dhcp.hckr.nc.charter.com 1 1 1338 20180315213159
+ec2-34-217-104-228.us-west-2.compute.amazonaws.com 1 1 1338 20180314160147
+157.42.63.223 1 8 155272 20180304025023
+107.77.94.45 1 1 1338 20180314101112
+66-188-254-254.dhcp.eucl.wi.charter.com 1 1 1338 20180313184315
+97-82-207-203.dhcp.hckr.nc.charter.com 1 1 1346 20180313104438
+66-189-253-29.dhcp.reno.nv.charter.com 6 6 8028 20180314121734
+125.19.132.51 0 1 29033 
+96-39-183-141.dhcp.mdfd.or.charter.com 1 1 1338 20180314202017
+ec2-34-207-212-41.compute-1.amazonaws.com 3 3 13845 20180315002309
+c-98-231-56-225.hsd1.fl.comcast.net 1 1 1336 20180313095648
+174-083-111-166.dhcp.chtrptr.net 1 1 1346 20180313114628
+97-86-123-117.dhcp.eucl.wi.charter.com 2 2 2676 20180314210354
+136.62.255.48 1 1 1362 20180312225601
+140.sub-174-211-2.myvzw.com 2 2 1362 20180312231704
+24-151-114-80.dhcp.nwtn.ct.charter.com 1 1 1346 20180313112321
+71-8-164-7.dhcp.knwc.wa.charter.com 1 1 1338 20180313175516
+173-9-59-189-newengland.hfc.comcastbusiness.net 1 1 1336 20180313085756
+75-135-20-194.dhcp.krny.ne.charter.com 6 6 4022 20180313150931
+75-142-74-229.dhcp.knwc.wa.charter.com 1 1 1338 20180313145526
+96.36.27.3 1 1 1344 20180313103412
+lh27492.voxility.net 2 9 189103 20180320040854
+24-158-38-106.dhcp.hckr.nc.charter.com 1 1 1336 20180313092525
+68-189-117-245.static.snlo.ca.charter.com 3 3 2682 20180313155028
+71-94-218-64.static.knwc.wa.charter.com 1 1 1346 20180313110824
+ec2-52-23-177-129.compute-1.amazonaws.com 1 8 155272 20180328203014
+97-80-168-12.dhcp.gwnt.ga.charter.com 1 1 1338 20180314122253
+71-85-246-244.dhcp.stls.mo.charter.com 1 1 1336 20180313093035
+103.67.178.175 1 8 155272 20180320030304
+68-187-113-37.dhcp.waus.wi.charter.com 3 3 1362 20180312225538
+c-174-50-121-103.hsd1.ga.comcast.net 1 1 1346 20180313060526
+sh-phx-us-gp1-wk106.internet-census.org 1 1 4615 20180329130218
+24-217-168-175.dhcp.stls.mo.charter.com 1 1 1336 20180313080733
+97-86-25-172.dhcp.stls.mo.charter.com 1 1 1338 20180313195025
+c-68-82-253-73.hsd1.pa.comcast.net 1 1 1336 20180313090745
+24-177-87-209.dhcp.nwtn.ct.charter.com 1 1 1338 20180314050231
+118.sub-174-255-130.myvzw.com 1 1 1338 20180313115540
+97-85-214-237.static.stls.mo.charter.com 1 1 1336 20180313083243
+ec2-52-87-235-52.compute-1.amazonaws.com 1 1 1338 20180313120020
+23.229.91.58 1 1 6700 20180330170241
+64.119.16.211 1 8 155272 20180331071532
+ec2-54-89-115-57.compute-1.amazonaws.com 1 1 3645 20180303190313
+abts-north-static-116.47.246.61.airtelbroadband.in 0 1 29033 
+68-114-130-76.dhcp.jcsn.tn.charter.com 1 1 1336 20180313101424
+71-12-227-117.dhcp.slid.la.charter.com 1 1 1338 20180313134447
+24-183-182-3.dhcp.oxfr.ma.charter.com 1 1 1346 20180313113658
+c-73-23-27-239.hsd1.fl.comcast.net 1 1 1338 20180313133250
+75-130-224-60.dhcp.oxfr.ma.charter.com 2 2 1338 20180313211432
+c-73-11-162-30.hsd1.wa.comcast.net 1 1 1344 20180313103427
+42-111-228-57.live.vodafone.in 1 8 155272 20180302211351
+138-229-143-174.dhcp.rvsd.ca.charter.com 1 1 1338 20180313171822
+118.219.252.193 1 1 4615 20180315131444
+host-41.237.84.243.tedata.net 1 1 0 20180312224020
+ec2-34-232-77-151.compute-1.amazonaws.com 1 1 1336 20180313100021
+75-134-188-147.dhcp.bycy.mi.charter.com 1 1 1346 20180313050815
+71-85-22-38.dhcp.knwc.wa.charter.com 1 1 1338 20180314004246
+223.237.161.234 0 1 29033 
+47-42-188-213.dhcp.unas.mo.charter.com 1 1 1346 20180313110618
+66-227-196-124.dhcp.bycy.mi.charter.com 1 1 1338 20180313181140
+66-168-247-128.dhcp.mtgm.al.charter.com 2 2 2676 20180313132136
+94.23.83.80 1 1 4615 20180308131102
+97-83-37-9.dhcp.trcy.mi.charter.com 1 1 1338 20180313124403
+c-68-56-93-166.hsd1.mi.comcast.net 1 1 1336 20180313084106
+24-179-114-30.dhcp.oxfr.ma.charter.com 2 2 2676 20180313154530
+97-94-15-56.dhcp.eucl.wi.charter.com 2 2 2672 20180313090258
+pxn-dalton.servers.pixan.io 1 1 4615 20180304142644
+192.243.53.51 2 2 9230 20180308031343
+71-84-172-65.dhcp.mdfd.or.charter.com 2 2 2676 20180316004634
+h183.192.142.40.ip.windstream.net 1 1 1338 20180320173035
+121.46.86.226 1 7 154554 20180308090624
+97-84-227-37.dhcp.sgnw.mi.charter.com 1 8 155272 20180314080050
+97-89-7-238.dhcp.gwnt.ga.charter.com 1 1 1338 20180313143502
+fl-207-30-52-254.dyn.embarqhsd.net 1 1 1338 20180315221246
+199.30.228.151 0 5 147285 
+141-126-241-107.dhcp.chtrptr.net 1 1 1338 20180313123821
+47-33-30-17.dhcp.reno.nv.charter.com 1 1 1338 20180321203449
+75-129-174-163.dhcp.buvl.tn.charter.com 1 1 1338 20180313220852
+173.205.33.29 1 1 1338 20180317075832
+google-proxy-66-102-7-148.google.com 0 2 146784 
+71-94-62-200.dhcp.snlo.ca.charter.com 1 1 1346 20180313112348
+96-35-77-187.dhcp.bycy.mi.charter.com 1 1 1338 20180322180359
+216.74.106.145 1 1 4615 20180308094139
+141-126-195-031.dhcp.chtrptr.net 1 1 1338 20180313125423
+195-154-185-239.rev.poneytelecom.eu 2 2 8652 20180320035739
+97-95-32-92.dhcp.bycy.mi.charter.com 2 2 2708 20180313004333
+google-proxy-66-249-83-77.google.com 0 2 1449 
+71-81-215-48.dhcp.spbg.sc.charter.com 1 1 1338 20180313153324
+47-42-235-187.dhcp.unas.mo.charter.com 2 2 2676 20180313185655
+47-36-177-203.dhcp.mdfd.or.charter.com 1 1 1338 20180314120732
+75-139-47-171.dhcp.leds.al.charter.com 4 4 2676 20180313173401
+46.101.9.216 1 1 4615 20180330214725
+abts-mp-dynamic-x-217.168.60.171.airtelbroadband.in 1 1 4281 20180307010324
+71-12-81-222.dhcp.spbg.sc.charter.com 1 1 1338 20180314161754
+snipster33.go.mail.ru 1 1 1362 20180312225138
+24-240-22-224.dhcp.athn.ga.charter.com 1 1 1336 20180313095316
+162.243.53.47 1 1 4615 20180301071705
+ec2-35-153-161-158.compute-1.amazonaws.com 1 1 1336 20180313100022
+106.210.11.231 1 8 155272 20180319073702
+host-190-112-203-253.nwstack.com 1 1 1338 20180313170342
+97-91-224-22.dhcp.stls.mo.charter.com 2 2 2676 20180313121017
+71-80-252-165.dhcp.rvsd.ca.charter.com 1 1 1338 20180313125733
+mx-ll-27.130.225-103.dynamic.3bb.co.th 1 8 155272 20180319000550
+97-90-117-26.dhcp.mdfd.or.charter.com 2 2 2676 20180320134209
+71-15-190-235.dhcp.nwtn.ct.charter.com 2 2 2724 20180312232231
+71-88-178-37.dhcp.jcsn.tn.charter.com 1 1 1338 20180313125425
+google-proxy-66-249-83-79.google.com 2 4 10679 20180313160406
+68-184-143-188.dhcp.stbr.ga.charter.com 1 1 1338 20180313162132
+97-88-223-30.dhcp.stls.mo.charter.com 1 1 1336 20180313083744
+66-190-199-28.dhcp.rnrp.nc.charter.com 1 1 1346 20180312234449
+71-86-183-67.dhcp.mrqt.mi.charter.com 1 1 1346 20180313112455
+222.sub-174-224-37.myvzw.com 1 1 1338 20180313121256
+24-151-85-216.dhcp.nwtn.ct.charter.com 2 2 2676 20180313202549
+75-140-251-60.dhcp.ftwo.tx.charter.com 1 1 1338 20180314181320
+68-185-70-27.dhcp.trlk.ca.charter.com 1 1 1338 20180313201918
+crawl-127-170-187-194.qwant.com 4 4 22177 20180305102708
+24-183-213-238.dhcp.jcsn.tn.charter.com 1 1 1338 20180313173354
+110.163.251.7 1 1 1346 20180313110207
+8.sub-70-195-128.myvzw.com 1 1 1336 20180313084354
+36.255.20.209 1 8 155272 20180306024735
+68-115-219-130.static.spbg.sc.charter.com 1 1 1338 20180315084655
+97-93-10-157.dhcp.snlo.ca.charter.com 2 2 1338 20180314141541
+71-223-139-175.phnx.qwest.net 1 1 1338 20180313191353
+google-proxy-66-102-9-146.google.com 2 2 9607 20180328100729
+115.78.10.20 0 1 533753 
+96-41-182-142.dhcp.mdfd.or.charter.com 1 1 1346 20180313002031
+12.91.232.66 1 1 1346 20180313111555
+shuilinchi.com 2 2 9230 20180317164257
+host-190-112-195-175.nwstack.com 1 1 1338 20180313172416
+71-80-223-164.static.reno.nv.charter.com 1 1 1362 20180312225103
+24-216-212-254.dhcp.stls.mo.charter.com 1 1 1338 20180314095527
+c-73-13-200-73.hsd1.pa.comcast.net 1 1 1336 20180313073441
+201.143.145.146.dsl.dyn.telnor.net 1 1 1338 20180313120034
+96-42-0-222.dhcp.stpt.wi.charter.com 1 1 1338 20180313183538
+ec2-52-88-196-7.us-west-2.compute.amazonaws.com 1 1 1338 20180323151557
+snipster34.go.mail.ru 1 1 1362 20180312225138
+106.206.73.18 1 8 155272 20180314070432
+61-216-28-103.hinet-ip.hinet.net 1 1 4615 20180320094504
+mobile-107-77-173-1.mobile.att.net 1 1 1346 20180312235458
+ec2-54-210-105-158.compute-1.amazonaws.com 1 1 1338 20180314104033
+97-91-235-155.dhcp.stls.mo.charter.com 2 2 2676 20180314183232
+23-114-236-145.lightspeed.nworla.sbcglobal.net 1 1 1346 20180313111040
+49.44.83.68 1 8 155272 20180316010345
+20.sub-174-226-37.myvzw.com 2 2 2676 20180314125327
+107.181.65.93 1 1 4615 20180309051701
+24-247-69-92.dhcp.trcy.mi.charter.com 2 2 2676 20180313131455
+206-51-118-110-zeb.up.net 1 1 1344 20180313102958
+47-39-62-190.dhcp.unas.mo.charter.com 1 1 1338 20180316013734
+93.159.230.88 1 3 8271 20180316040635
+96-40-194-55.dhcp.stls.mo.charter.com 1 1 1362 20180312231028
+c-73-87-174-86.hsd1.md.comcast.net 1 1 1346 20180313061542
+host86-183-165-231.range86-183.btcentralplus.com 0 1 29033 
+host-190-112-200-187.nwstack.com 1 1 1362 20180312224817
+185.108.128.32 1 1 1362 20180312233007
+5.188.9.80 1 1 0 20180325203654
+138-229-230-230.dhcp.mtpk.ca.charter.com 1 1 1338 20180314205716
+172.58.83.193 1 1 1338 20180313115924
+google-proxy-64-233-172-240.google.com 1 1 4615 20180301155904
+68-184-136-95.dhcp.stbr.ga.charter.com 1 1 1336 20180313093440
+96-42-38-52.dhcp.ftbg.wi.charter.com 1 1 1338 20180313124143
+199.116.169.254 1 1 1338 20180321203449
+24-231-250-151.dhcp.aldl.mi.charter.com 1 1 1338 20180314081653
+71-208-210-142.ftmy.qwest.net 4 4 4014 20180313205641
+97-82-78-73.dhcp.leds.al.charter.com 1 1 1338 20180314145338
+ec2-52-200-221-20.compute-1.amazonaws.com 1 1 1338 20180313235202
+68-117-106-114.static.eucl.wi.charter.com 1 1 1338 20180313124958
+97-80-132-126.dhcp.gwnt.ga.charter.com 2 2 2676 20180314122413
+c-76-124-3-35.hsd1.pa.comcast.net 1 1 1338 20180313163019
+static.vnpt.vn 2 2 9230 20180318215631
+71-95-106-211.dhcp.knwc.wa.charter.com 2 2 1338 20180313133031
+75-133-125-193.dhcp.oxfr.ma.charter.com 1 1 1346 20180313111437
+108-194-160-47.lightspeed.renonv.sbcglobal.net 1 1 1346 20180312235451
+223.227.96.230 2 16 310544 20180317032619
+24-177-114-153.dhcp.mdsn.wi.charter.com 1 1 1362 20180312232214
+c-65-34-251-109.hsd1.fl.comcast.net 1 1 1336 20180313090348
+75-136-78-103.dhcp.wrcs.ma.charter.com 2 2 2676 20180313123913
+host-200-35-155-140.nwstack.com 1 1 1338 20180313150607
+047-135-113-197.dhcp.chtrptr.net 1 1 1338 20180318225358
+204.113.49.178 1 1 1346 20180313104630
+24-182-65-190.dhcp.hckr.nc.charter.com 1 1 1346 20180313113450
+199.30.228.134 1 3 7987 20180307142827
+8.subnet103-212-43.unand.ac.id 1 1 4615 20180302144916
+104-13-196-70.lightspeed.fyvlar.sbcglobal.net 1 1 1336 20180313093257
+66.181.160.99 1 8 11129 20180307065904
+ec2-35-171-26-224.compute-1.amazonaws.com 1 1 1338 20180322133258
+static-173-49-24-118.phlapa.fios.verizon.net 1 1 4615 20180330004843
+172-221-138-193.dhcp.chtrptr.net 1 1 1338 20180319234309
+75-130-249-120.dhcp.nwtn.ct.charter.com 1 1 1338 20180313193718
+host-41.237.67.251.tedata.net 1 1 1362 20180312220517
+179.sub-174-222-140.myvzw.com 2 2 1346 20180313114344
+ec2-34-204-95-116.compute-1.amazonaws.com 3 3 4014 20180323111911
+162-235-25-17.lightspeed.nworla.sbcglobal.net 1 1 1346 20180313012153
+aip-139.trustwave.com 1 3 8271 20180315113513
+96-37-150-26.static.leds.al.charter.com 1 1 1338 20180313124903
+77.237.228.37 1 1 1346 20180313105926
+otwbsc13.hicv.net 2 2 2692 20180313020830
+71-87-192-176.dhcp.kgpt.tn.charter.com 2 2 2672 20180313084044
+47-41-201-69.dhcp.unas.mo.charter.com 1 1 1338 20180313124531
+106.206.83.52 1 8 155272 20180310052401
+c-73-214-242-177.hsd1.pa.comcast.net 1 1 1338 20180314144330
+96-33-84-211.dhcp.ahvl.nc.charter.com 1 1 1338 20180313212423
+178-87-181-166.mobile.uscc.net 1 1 1336 20180313083121
+24-177-2-74.dhcp.nwtn.ct.charter.com 1 1 1338 20180313164839
+google-proxy-64-233-173-140.google.com 3 5 10614 20180320090036
+66-87-135-32.pools.spcsdns.net 1 1 1338 20180315165432
+71-91-74-97.dhcp.leds.al.charter.com 2 2 2672 20180313065549
+abts-mp-dynamic-x-126.136.60.171.airtelbroadband.in 6 6 25686 20180305230655
+66.86.34.192 2 2 2672 20180313083838
+ec2-54-91-153-11.compute-1.amazonaws.com 1 1 1338 20180323190016
+51-209-15-51.rev.cloud.scaleway.com 1 1 4615 20180310113805
+static.69.132.76.144.clients.your-server.de 2 2 15642 20180310085758
+11-211-187-203.static.youbroadband.in 2 16 310544 20180314073138
+75-138-252-195.dhcp.jcsn.tn.charter.com 1 1 1338 20180313134307
+83.sub-174-196-146.myvzw.com 1 1 1346 20180313113418
+24-179-112-73.dhcp.oxfr.ma.charter.com 1 1 1362 20180312231546
+178.sub-174-193-130.myvzw.com 2 2 1338 20180313124726
+97-83-246-54.dhcp.stpt.wi.charter.com 1 1 1362 20180312231559
+wsip-24-252-175-98.ph.ph.cox.net 1 1 1338 20180313125654
+99-203-1-110.pools.spcsdns.net 1 1 1336 20180313093727
+ec2-34-233-136-112.compute-1.amazonaws.com 1 1 1346 20180313000027
+199.116.174.62 1 1 1338 20180313120156
+75-134-0-37.dhcp.oxfr.ma.charter.com 1 1 1338 20180313132003
+174-081-140-011.dhcp.chtrptr.net 1 1 1346 20180313114648
+96-38-133-4.dhcp.reno.nv.charter.com 3 3 4086 20180312232051
+46.229.170.197 1 1 4615 20180317164632
+96-36-86-135.dhcp.hckr.nc.charter.com 1 1 1336 20180313080954
+ec2-54-165-70-241.compute-1.amazonaws.com 1 1 1336 20180313100031
+65.132.33.228 1 1 1346 20180313105813
+c-174-63-175-75.hsd1.fl.comcast.net 1 1 1346 20180313023406
+66-191-228-13.dhcp.kgpt.tn.charter.com 1 1 1338 20180314165043
+host-41.237.83.121.tedata.net 1 1 1338 20180313114929
+97-89-164-184.dhcp.gnvl.sc.charter.com 2 2 2692 20180313053952
+71-92-116-255.dhcp.knwc.wa.charter.com 5 5 5352 20180315122900
+36.255.91.18 1 1 4615 20180312010659
+103.26.194.174 4 18 163543 20180329231600
+107.77.85.109 1 1 1346 20180313104647
+99-187-155-150.lightspeed.gnvlsc.sbcglobal.net 1 1 1338 20180313192343
+8.28.16.254 1 1 1338 20180313120156
+71-45-14-87.res.bhn.net 1 1 1336 20180313071424
+99-203-29-163.pools.spcsdns.net 1 1 1338 20180313211220
+66-214-216-252.static.reno.nv.charter.com 1 1 1346 20180313110921
+2.132.234.253 1 8 155272 20180305232434
+24-158-203-83.dhcp.kgpt.tn.charter.com 1 1 1338 20180314124012
+97-85-92-227.dhcp.trcy.mi.charter.com 1 1 1336 20180313092655
+85.30.248.119 1 3 8271 20180305023639
+c-73-70-105-224.hsd1.ca.comcast.net 1 1 1346 20180313044738
+wsip-24-248-219-174.ks.ks.cox.net 1 1 1346 20180313112328
+c-67-168-191-134.hsd1.wa.comcast.net 1 1 1346 20180313010637
+host-200-35-155-171.nwstack.com 1 1 1362 20180312224802
+ec2-54-191-83-149.us-west-2.compute.amazonaws.com 1 1 1338 20180313155943
+71-80-7-40.dhcp.sffl.va.charter.com 4 4 5376 20180313115616
+lanren0115.com 2 2 1720 20180306130952
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20180301 4 5 47159 4
+20180302 6 20 328670 6
+20180303 9 16 190888 8
+20180304 27 49 580366 10
+20180305 14 23 220636 11
+20180306 47 97 1277525 15
+20180307 9 39 1041801 9
+20180308 25 39 425184 8
+20180309 58 74 753859 8
+20180310 8 24 374694 8
+20180311 23 52 720487 9
+20180312 127 143 569469 76
+20180313 538 571 1520064 398
+20180314 125 176 1411454 84
+20180315 126 172 1546429 48
+20180316 36 66 753209 17
+20180317 32 53 580300 15
+20180318 13 29 348580 12
+20180319 14 63 1102824 13
+20180320 36 66 933123 15
+20180321 3 3 4014 3
+20180322 2 2 2676 2
+20180323 22 22 29436 16
+20180324 1 1 1338 1
+20180325 1 1 0 1
+20180326 1 1 1338 1
+20180327 1 1 0 1
+20180328 12 40 684480 10
+20180329 6 21 201806 4
+20180330 12 15 151336 6
+20180331 6 27 362037 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 19
+5mn-15mn 20
+0s-30s 719
+15mn-30mn 22
+30s-2mn 20
+1h+ 15
+2mn-5mn 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 33
+/.c.html 733 913914 592 594
+/ 230 1015677 192 160
+/recognition.html 31 125147 2 6
+/project.html 28 169932 4 0
+/whatsnew.html 28 168246 2 4
+/credit.html 27 180900 2 2
+/FAQ.html 27 145017 2 4
+/resume.html 26 94770 1 5
+/link.html 26 203346 5 4
+/LearningCurve.html 21 102312 0 1
+/project_perl.html 21 90195 2 1
+/oracle11iEbusiness_Suite.html 20 100040 0 2
+/ToDo.html 20 105380 0 0
+/artwork.html 20 99140 0 3
+/Bad_decisions_in_Liips.html 19 111340 0 2
+/oracle9i_application_server.html 18 80082 1 0
+/career.html 17 59160 2 17
+/_wiki/index.php 13 55653 12 12
+/Wai/alibaba/ 3 2406 0 0
+/index.php 2 1720 2 2
+/Wai/alibaba/login.alibaba.com/ 2 36700 1 0
+/_joomla/ 1 604 1 0
+/Wai/aliexpress/login.php 1 393 0 0
+/cpanel 1 33846 0 1
+/Wai/aliexpress/mail.php 1 38 0 0
+/Wai/aliexpress/ 1 3571 0 0
+/Wai/aliexpress/finish.php 1 1116 0 0
+/whm 1 33831 0 1
+/Wai/aliexpress/post.php 1 1039 0 0
+/readme.html 1 31712 1 1
+/send.php 1 468 0 1
+/Wai/aliexpress/security.php 1 102288 0 1
+/snc/qoqdoc/ 1 36279 1 1
+END_SIDER

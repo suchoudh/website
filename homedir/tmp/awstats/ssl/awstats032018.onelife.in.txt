@@ -1,0 +1,406 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201803 will be lost/reset.
+# Last config file used to build this data file was /home/onelife/tmp/awstats/ssl/awstats.onelife.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2676                
+POS_VISITOR 8033                
+POS_DAY 10694               
+POS_DOMAIN 3388                
+POS_LOGIN 3740                
+POS_ROBOT 3895                
+POS_WORMS 4177                
+POS_EMAILSENDER 4308                
+POS_EMAILRECEIVER 4451                
+POS_SESSION 11332               
+POS_SIDER 11500               
+POS_FILETYPES 4586                
+POS_DOWNLOADS 4844                
+POS_OS 4968                
+POS_BROWSER 5129                
+POS_SCREENSIZE 5577                
+POS_UNKNOWNREFERER 5651                
+POS_UNKNOWNREFERERBROWSER 5887                
+POS_ORIGIN 6105                
+POS_SEREFERRALS 6242                
+POS_PAGEREFS 6386                
+POS_SEARCHWORDS 7047                
+POS_KEYWORDS 7199                
+POS_MISC 2339                
+POS_ERRORS 7258                
+POS_CLUSTER 3596                
+POS_SIDER_404 7392                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180401020527 18 3491 17976144193332
+FirstTime 0
+LastTime 20180330194332
+LastUpdate 20180401094713 18 0 17 0 0
+TotalVisits 49                  
+TotalUnique 34                  
+MonthHostsKnown 45                  
+MonthHostsUnknown 7                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 17 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 5 14823 6 48 11689
+1 0 7 133505 6 40 20575
+2 0 4 10208 7 9 21821
+3 2 5 7656 5 7 3890
+4 1 4 7656 3 5 15023
+5 0 4 10208 4 8 133468
+6 2 12 167543 4 7 7106
+7 1 7 19927 5 6 24120
+8 3 7 18883 15 19 27405
+9 0 3 7656 3 5 4919
+10 4 15 171073 16 20 94924
+11 25 91 1291293 21 46 54856
+12 4 6 6178 10 18 38026
+13 2 6 10208 8 50 14823
+14 8 34 256915 12 55 48776
+15 17 62 495966 15 62 69831
+16 18 71 657372 13 57 68839
+17 1 4 12271 4 46 152633
+18 4 18 130300 8 49 22247
+19 2 5 16886 6 46 12979
+20 5 19 131719 14 61 55403
+21 0 4 10208 4 48 18213
+22 16 63 501070 9 50 56143
+23 0 3 7656 7 49 16887
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 74 334 2333407
+ng 12 44 716528
+de 11 11 0
+my 7 7 108837
+ru 6 36 459780
+cn 2 9 159887
+in 1 8 155272
+ip 1 1 3582
+ca 1 1 4615
+eg 1 8 155272
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+bingbot/ 116 558920 20180331193616 28
+bingpreview 13 24577 20180331145244 0
+no_user_agent 7 32305 20180318140802 0
+Googlebot/ 6 1824 20180331230609 6
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 39 469591 0 0
+txt 91 232232 0 0
+svg 26 60057 0 0
+html 48 419296 0 0
+php 4 5901 0 0
+jpg 21 241923 0 0
+woff 64 1468224 0 0
+js 5 33583 0 0
+pdf 1 118193 0 0
+gif 3 432429 0 0
+png 157 615751 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/keybase.txt 91 0 232232
+/one.pdf 2 0 236386
+/SunilChoudhary.pdf 1 0 126826
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+win8.1 46 14
+win8 36 6
+Unknown 89 2
+win7 30 16
+macosx12 5 5
+win10 15 8
+linux 237 65
+winlong 1 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 19
+firefox58.0 6 6
+Unknown 91 0
+chrome61.0.3163.100 5 5
+chrome67.0.3375.0 15 4
+msie9.0 1 0
+firefox59.0 2 2
+netscape5.0 1 1
+chrome40.0.2214.85 11 11
+chrome64.0.3282.186 53 14
+chrome50.0.2661.102 8 1
+chrome67.0.3371.0 29 8
+chrome67.0.3383.0 14 4
+opera51.0.2830.55 1 1
+mozilla 1 1
+chrome65.0.3325.146 10 3
+chrome67.0.3378.0 160 44
+chrome34.0.1847.137 1 1
+chrome67.0.3376.0 14 4
+chrome51.0.2704.103 36 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+keybase-proofs/2.1.29 20180331223140
+Mozilla/5.0 20180316065341
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180309102208
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+linux:Keybase_CLI_(go1.9.2):1.0.40 20180302075239
+keybase-proofs/2.1.29 20180331223140
+linux:Keybase_CLI_(go1.10):1.0.45 20180329014922
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 47 169
+From1 0 0
+From2 0 0
+From3 64 232
+From4 5 58
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+https://webmail.onelife.in/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 32 32
+https://cpanel.onelife.in/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 32 32
+https://webmail.onelife.in/cPanel_magic_revision_1509944791/unprotected/cpanel/style_v2_optimized.css 0 56
+https://cpanel.onelife.in/cPanel_magic_revision_1509944791/unprotected/cpanel/style_v2_optimized.css 0 64
+https://webmail.onelife.in 0 24
+https://cpanel.onelife.in 0 24
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+400 25 1144
+404 554 0
+421 2 644
+301 20 4775
+401 44 341757
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 16
+/ 15 -
+/keybase.txt 505 -
+/.well-known/apple-app-site-association 8 -
+/events/ 1 -
+/Reupp/@@@&&/ 1 -
+/recognition.html 3 -
+/resume.html 3 -
+/robots.txt 8 -
+/event 1 -
+/snc/qoqdoc 2 -
+/Wai/ 1 -
+/aliexpress 1 -
+/events 1 -
+/Auth/gd%20new/gd/results.php 1 https://onelife.in/Auth/gd%20new/gd/
+/LearningCurve.html 1 -
+/credit.html 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 52
+planetlab19.net.in.tum.de 11 11 0 20180330134256
+41.203.72.10 10 42 712468 20180320111407
+ec2-54-173-3-53.compute-1.amazonaws.com 8 28 243022 20180321165134
+broadband.time.net.my 7 7 108837 20180320113022
+ec2-54-183-165-74.us-west-1.compute.amazonaws.com 5 5 23075 20180330194332
+ec2-34-204-44-232.compute-1.amazonaws.com 4 14 121511 20180321225710
+ec2-54-172-156-7.compute-1.amazonaws.com 4 14 121511 20180321221650
+ec2-52-205-97-151.compute-1.amazonaws.com 4 15 122644 20180321165241
+ec2-52-55-149-147.compute-1.amazonaws.com 4 14 121511 20180319155033
+ec2-52-23-239-208.compute-1.amazonaws.com 4 15 122644 20180314141558
+ec2-54-91-239-168.compute-1.amazonaws.com 4 15 122644 20180321180601
+ec2-54-144-61-92.compute-1.amazonaws.com 4 15 122644 20180319155321
+ec2-54-89-109-83.compute-1.amazonaws.com 4 15 122644 20180321164148
+ec2-52-23-181-153.compute-1.amazonaws.com 4 14 121511 20180321164330
+ec2-34-207-154-81.compute-1.amazonaws.com 4 15 122644 20180321221636
+ec2-52-23-177-129.compute-1.amazonaws.com 4 14 121511 20180328203039
+ec2-34-201-100-210.compute-1.amazonaws.com 4 15 122644 20180321151557
+ec2-54-173-24-35.compute-1.amazonaws.com 4 15 122644 20180321225737
+ec2-52-86-243-77.compute-1.amazonaws.com 4 14 121511 20180314141559
+129.56.12.107 2 2 1074 20180307125434
+41.86.128.127 2 2 4060 20180321080423
+121.33.202.146 2 9 159887 20180316065344
+104-136-72-123.res.bhn.net 2 2 978 20180321105512
+secured-by.zenmate.com 1 1 3582 20180320160607
+snipster38.go.mail.ru 1 2 62926 20180320112529
+snipster24.go.mail.ru 0 2 2349 
+snipster28.go.mail.ru 0 2 13351 
+ec2-52-87-165-37.compute-1.amazonaws.com 0 1 2552 
+snipster34.go.mail.ru 0 2 11310 
+snipster32.go.mail.ru 0 2 13351 
+ec2-54-172-139-113.compute-1.amazonaws.com 0 87 222024 
+snipster36.go.mail.ru 0 1 154 
+snipster23.go.mail.ru 0 2 353 
+host-41.239.41.253.tedata.net 1 8 155272 20180306165100
+snipster31.go.mail.ru 1 2 36433 20180320112529
+204.79.180.15 0 1 118193 
+snipster26.go.mail.ru 0 1 199 
+snipster30.go.mail.ru 1 3 63125 20180320112529
+snipster40.go.mail.ru 1 3 74082 20180320112528
+snipster39.go.mail.ru 0 1 26647 
+ec2-52-54-164-93.compute-1.amazonaws.com 0 1 2552 
+secscan03.i.smailru.net 0 1 154 
+snipster25.go.mail.ru 0 2 13351 
+census8.shodan.io 1 1 4615 20180306000402
+159.89.43.41 1 1 4615 20180309102208
+ec2-35-170-69-15.compute-1.amazonaws.com 0 1 2552 
+snipster22.go.mail.ru 1 4 74281 20180320112528
+ec2-54-145-48-184.compute-1.amazonaws.com 0 1 2552 
+snipster35.go.mail.ru 0 2 2394 
+220.227.130.213 1 8 155272 20180312100536
+snipster37.go.mail.ru 1 3 65121 20180320112529
+snipster33.go.mail.ru 0 1 199 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20180301 2 6 10208 2
+20180302 0 6 15312 0
+20180303 0 4 10208 0
+20180304 1 5 14823 1
+20180305 0 4 10208 0
+20180306 2 13 170095 2
+20180307 2 5 8730 1
+20180308 4 8 14823 4
+20180309 1 5 14823 1
+20180310 0 4 10208 0
+20180311 0 4 10208 0
+20180312 1 12 165480 1
+20180313 2 5 12271 2
+20180314 10 35 254363 4
+20180315 0 4 10208 0
+20180316 2 13 170095 1
+20180317 1 5 14823 1
+20180318 0 4 10208 0
+20180319 8 33 370004 2
+20180320 24 88 1289771 9
+20180321 48 164 1348457 13
+20180322 1 1 0 1
+20180323 1 1 0 1
+20180328 4 14 121511 1
+20180329 0 6 15312 0
+20180330 2 6 14823 2
+20180331 0 4 10208 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+5mn-15mn 2
+2mn-5mn 3
+0s-30s 44
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 19
+/ 22 50765 21 21
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 16 358912 2 4
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-SemiboldItalic-webfont.woff 16 380224 0 11
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 16 362560 11 1
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 16 366528 3 0
+/snc/qoqdoc/ 12 290232 7 6
+/cgi-Bin/ 4 1956 0 1
+/cgi-Bin/zzzz/0007ic/office.php 2 1548 0 0
+/events/ 2 978 1 1
+/Auth/gd%20new/gd/ 1 4730 1 0
+/cgi-Bin/zzzz/L7l153/livelive.php 1 771 0 1
+/fdp/qoqdoc/ 1 36279 0 1
+/Wai/aliexpress/ 1 3571 1 0
+/Wai/aliexpress/adobe.php 1 3582 1 1
+/Reupp/@@@@/ 1 537 0 1
+/Reupp/@@@&&/ 1 537 1 0
+/cgi-Bin/zzzz/0007ic/ 1 13174 0 0
+/cgi-Bin/zzzz/L7l153/ 1 13073 0 0
+/cgi-Bin/zzzz/ 1 3464 0 0
+END_SIDER

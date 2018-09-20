@@ -1,0 +1,113 @@
+/* ------------------------------------------------------------------------
+    Specific CSS styles for Internet Explorer 5.5
+    Brothers in art
+    http://www.brothersinart.net
+-------------------------------------------------------------------------*/
+
+/*  BODY AND PAGE CONTAINERS
+-------------------------------------------------------------------------*/
+
+body TD     { font-family: Arial, Verdana, sans-serif;font-size: 12px;line-height: 18px;}
+#main       { float:left;width: 700px;margin: 4px 0 0 4px;}
+#side       { float: right;width: 214px;margin: 4px 7px 0 0;}
+
+/*  GENERAL STYLES
+-------------------------------------------------------------------------*/
+
+/*  FORM STYLES
+-----------------------*/
+
+.form_input {
+  padding: 2px 0 0 2px;
+  height: 20px;
+}
+
+/*  BUTTON BASE STYLES
+-----------------------*/
+
+.button, .buttonDark {
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 11px;
+  float: left;
+  text-align: center;
+  display: block;
+  white-space: nowrap;
+  margin: 2px 5px 0 0;
+}
+.button A, .buttonDark A {
+  display: block; 
+  color: #46455C;
+  height: 20px;
+  padding: 1px 4px 0 4px;
+}
+
+/*  IMAGE STYLES
+-------------------------------------------------------------------------*/
+
+IMG.icon {
+  border: 0px;
+  vertical-align: middle;
+  margin-bottom: 0px;
+}
+
+/*  MEMBERBAR
+-------------------------------------------------------------------------*/
+
+#memberbar {
+  position: relative;
+  background: url(http://images.gfxartist.com/gfx/memberbar.gif) no-repeat;
+  background-color: #7C84A7;
+  font-size: 11px;
+  width: 977px;
+  height: 44px;
+  margin: 0px auto 0px auto;
+  padding: 8px 10px 0 10px;
+}
+
+#memberbar .beats {
+  float: left;
+  width: 75px;
+  height: 30px;
+  padding: 2px 0 0 0;
+}
+#memberbar .beats .button {
+  margin: 3px 0 0 0;
+  background: url(http://images.gfxartist.com/gfx/but_bg_clock.gif) no-repeat right;
+}
+#memberbar .beats .button A {
+  background: url(http://images.gfxartist.com/gfx/but_side_clock.gif) no-repeat left;
+  padding: 1px 7px 0 7px;
+  color: #000;
+}
+
+/*  WINDOWS
+-------------------------------------------------------------------------*/
+
+.window {
+  width: auto;
+}
+.window .topleft {
+  margin: 0 3px 3px -3px;
+}
+.window .topright {
+  margin: 0 -3px 0px 3px;
+}
+.window .body, .window .sidebody {
+  width: 728px;
+}
+.window .sidebody {
+  width: 214px;
+}
+.window .sidebody TD{
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 11px;
+}
+.moreheadlines .body, .moreforumtopics .body {
+  width: 359px;
+}
+.window .botleft {
+  margin: 0 3px 3px -3px;
+}
+.window .botright {
+  margin: 0 -3px 0px 3px;
+}

@@ -1,0 +1,42 @@
+#memberbar,
+#statusbar,
+#side,
+#navigation,
+#footer,
+.window .top,
+.window .bottom,
+.generalnewsitem .relatednews,
+.comments .controls,
+.newcomment,
+.ad,
+.sitesearch {
+	display: none;
+	}
+
+body { background: white; }
+#container, 
+#main,
+.window .body
+{
+	width: auto;
+	background: transparent;
+	padding: 0;
+	border: 0;
+}
+
+td, tr { background: transparent; }
+
+.generalnewsitem .leftcolumn
+{
+	background: transparent !important;
+}
+	
+#wrapper, #content {
+	width: auto; 
+	margin: 0 5%;
+	padding: 0; 
+	border: 0;
+	float: none !important;
+	color: black; 
+	background: transparent;
+	}

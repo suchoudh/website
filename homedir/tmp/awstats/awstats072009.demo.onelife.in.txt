@@ -1,0 +1,293 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 200907 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2536                
+POS_VISITOR 5743                
+POS_DAY 5907                
+POS_DOMAIN 3052                
+POS_LOGIN 3283                
+POS_ROBOT 3438                
+POS_WORMS 3570                
+POS_EMAILSENDER 3701                
+POS_EMAILRECEIVER 3844                
+POS_SESSION 6108                
+POS_SIDER 6270                
+POS_FILETYPES 3979                
+POS_OS 4194                
+POS_BROWSER 4265                
+POS_SCREENSIZE 4355                
+POS_UNKNOWNREFERER 4429                
+POS_UNKNOWNREFERERBROWSER 4557                
+POS_ORIGIN 4639                
+POS_SEREFERRALS 4775                
+POS_PAGEREFS 4919                
+POS_SEARCHWORDS 5067                
+POS_KEYWORDS 5219                
+POS_MISC 2200                
+POS_ERRORS 5278                
+POS_CLUSTER 3139                
+POS_SIDER_404 5372                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20090908103516 1 0 13276494348742
+FirstTime 20090708130029
+LastTime 20090723120513
+LastUpdate 20090909044943 1 0 0 0 0
+TotalVisits 5                   
+TotalUnique 2                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 2                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 20 132 20806990 3 3 1488
+2 34 74 551902 0 0 0
+3 4 7 4 0 0 0
+4 0 0 0 0 0 0
+5 0 3 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 3 0 0 0 0
+9 0 0 0 0 0 0
+10 0 1 0 0 0 0
+11 1 1 6990 0 0 0
+12 1 4 6990 0 0 0
+13 103 516 2939653 5 5 0
+14 1 4 6990 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 3 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+in 164 748 24319519
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 89 208459 0 0
+tar 1 19568640 0 0
+php 3 21165 0 0
+png 46 69119 0 0
+html 49 959441 0 0
+js 300 2723643 0 0
+jpg 14 261783 0 0
+Unknown 111 419526 0 0
+gif 135 87743 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 3
+macosx 519
+winxp 193
+Unknown 36
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 3
+firefox3.0.11 193
+mozilla 36
+safari 519
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/4.0_(compatible;) 20090714102656
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 13 59
+From1 0 0
+From2 0 0
+From3 0 0
+From4 151 689
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+302 6 0
+404 2 1488
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 2
+/SilverStripe-v2.3.2/sunil-name/ 1 -
+/silverStripe-v2.3.2 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 2
+219.64.201.89 106 519 2960623 20090723120513
+123.242.248.130 58 229 21358896 20090709030635
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20090708 104 514 2946643 2
+20090709 58 219 21358896 1
+20090710 0 6 0 0
+20090712 0 3 0 0
+20090713 1 1 6990 1
+20090714 0 1 0 0
+20090723 1 4 6990 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+1h+ 1
+0s-30s 3
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 49
+/SilverStripe-v2.3.2/Security/ping 29 29 0 2
+/SilverStripe-v2.3.2/ 13 90216 3 3
+/SilverStripe-v2.3.2/page/ 9 104266 0 0
+/SilverStripe-v2.3.2/admin/EditorToolbar/ImageForm 7 2831 0 0
+/SilverStripe-v2.3.2/admin/assets/uploadiframe/0 7 34867 0 0
+/SilverStripe-v2.3.2/admin/EditForm 7 46249 0 0
+/SilverStripe-v2.3.2/admin/ 7 369053 0 0
+/SilverStripe-v2.3.2/admin/getitem 6 81772 0 0
+/SilverStripe-v2.3.2/admin/EditorToolbar/ImageForm/field/FolderID/gettree 5 480 0 0
+/SilverStripe-v2.3.2/admin/assets/ 5 229503 0 0
+/ 4 1912 2 0
+/SilverStripe-v2.3.2/admin/security/getitem 4 45059 0 0
+/SilverStripe-v2.3.2/admin/security/autocomplete/Email 3 142 0 0
+/SilverStripe-v2.3.2/contact-us/ 3 18396 0 0
+/SilverStripe-v2.3.2/about-us/ 3 18378 0 0
+/SilverStripe-v2.3.2/admin/assets/getitem 3 40948 0 0
+/SilverStripe-v2.3.2/Security/login 3 28208 0 0
+/SilverStripe-v2.3.2/install.php 3 21165 0 0
+/SilverStripe-v2.3.2/home/successfullyinstalled 2 13948 0 0
+/SilverStripe-v2.3.2/admin/assets/uploadiframe/1 2 8846 0 0
+/SilverStripe-v2.3.2/admin/security/ 2 77736 0 0
+/SilverStripe-v2.3.2/admin/AddPageOptionsForm 2 692 0 0
+/SilverStripe-v2.3.2/admin/assets/EditForm/field/Files 2 8050 0 0
+/SilverStripe-v2.3.2/admin/security/EditForm 2 16299 0 0
+/SilverStripe-v2.3.2/admin/security/autocomplete/Surname 2 286 0 0
+/SilverStripe-v2.3.2/admin/comments/ 1 33369 0 0
+/SilverStripe-v2.3.2/admin/security/autocomplete/FirstName 1 0 0 0
+/SilverStripe-v2.3.2/admin/assets/EditForm/field/Files/item/3/edit 1 9628 0 0
+/SilverStripe-v2.3.2/admin/getfilteredsubtree 1 96 0 0
+/SilverStripe-v2.3.2/admin/assets/getsubtree 1 0 0 0
+/SilverStripe-v2.3.2/admin/batchactions/unpublish 1 165 0 0
+/SilverStripe-v2.3.2/sunil-name/ 1 15104 0 0
+/SilverStripe-v2.3.2/admin/assets/EditForm/field/Files/item/4/edit 1 9583 0 0
+/SilverStripe-v2.3.2/sunil-name/PageComments/PostCommentForm 1 455 0 0
+/SilverStripe-v2.3.2/home/deleteinstallfiles 1 6343 0 0
+/SilverStripe-v2.3.2/admin/getshowdeletedsubtree 1 730 0 0
+/SilverStripe-v2.3.2/admin/sidereport/SideReport_ToDo 1 56 0 0
+/SilverStripe-v2.3.2/admin 1 39664 0 0
+/SilverStripe-v2.3.2.tar 1 19568640 0 0
+/SilverStripe-v2.3.2/InstallerTest/testrewrite 1 2 0 0
+/SilverStripe-v2.3.2/admin/security/addgroup 1 307 0 0
+/SilverStripe-v2.3.2/admin/assets/UploadForm 2 780 0 0
+/SilverStripe-v2.3.2/admin/assets/EditForm/field/AssetList 1 0 0 0
+/SilverStripe-v2.3.2/admin/security/autocomplete/SetPassword 2 0 0 0
+/SilverStripe-v2.3.2/admin/cms/versions/5 2 2520 0 0
+/SilverStripe-v2.3.2/contact-us/SearchForm 2 13434 0 0
+/SilverStripe-v2.3.2/jsparty/greybox/undefined 1 6198 0 0
+/SilverStripe-v2.3.2/jsparty/greybox/loader_frame.html 1 1508 0 0
+/SilverStripe-v2.3.2/admin/EditForm/field/ParentID/gettree 2 859 0 0
+END_SIDER

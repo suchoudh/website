@@ -1,0 +1,954 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201606 will be lost/reset.
+# Last config file used to build this data file was /home/onelife/tmp/awstats/awstats.onelife.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2675                
+POS_VISITOR 20596               
+POS_DAY 28540               
+POS_DOMAIN 3465                
+POS_LOGIN 4047                
+POS_ROBOT 4202                
+POS_WORMS 4818                
+POS_EMAILSENDER 4949                
+POS_EMAILRECEIVER 5092                
+POS_SESSION 29280               
+POS_SIDER 29477               
+POS_FILETYPES 5227                
+POS_DOWNLOADS 5433                
+POS_OS 5534                
+POS_BROWSER 5822                
+POS_SCREENSIZE 7173                
+POS_UNKNOWNREFERER 7247                
+POS_UNKNOWNREFERERBROWSER 8074                
+POS_ORIGIN 8395                
+POS_SEREFERRALS 8534                
+POS_PAGEREFS 8720                
+POS_SEARCHWORDS 8974                
+POS_KEYWORDS 9193                
+POS_MISC 2338                
+POS_ERRORS 9323                
+POS_CLUSTER 3903                
+POS_SIDER_404 9431                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160701010407 136 26395 9205483992928
+FirstTime 0
+LastTime 20160630225823
+LastUpdate 20160701083754 136 0 135 0 0
+TotalVisits 171                 
+TotalUnique 143                 
+MonthHostsKnown 83                  
+MonthHostsUnknown 89                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 49 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 22 72510 47 78 202602
+1 8 37 91649 27 50 445851
+2 13 55 185759 47 90 487257
+3 32 152 518041 63 101 171235
+4 13 42 247725 54 94 380086
+5 21 38 211595 52 96 626544
+6 7 22 127539 55 94 577618
+7 6 14 43614 55 77 240556
+8 2 2 3800 92 124 158708
+9 7 8 39459 53 81 134019
+10 8 33 1101229 55 84 282730
+11 25 54 196815 41 73 331984
+12 22 36 112787 65 115 412604
+13 11 18 53241 32 54 209183
+14 23 49 144183 35 86 342855
+15 30 35 345409 39 76 340249
+16 2 4 69501 26 46 98828
+17 19 21 53477 39 69 350193
+18 4 5 18335 50 84 288481
+19 3 3 11158 32 61 358305
+20 12 12 22918 174 338 654201
+21 8 16 46194 86 119 124614
+22 10 33 108310 36 72 241840
+23 33 72 150679 27 46 79409
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 28
+us 102 196 1440234
+pl 68 71 504626
+in 60 348 1410887
+cn 30 50 234527
+de 18 18 49687
+ca 13 14 71030
+ru 8 29 45001
+gb 5 5 14958
+np 4 19 87478
+es 3 3 2493
+nl 3 3 11158
+se 2 2 3800
+ro 2 2 3800
+ua 2 2 6529
+ee 1 1 4629
+md 1 1 1900
+kr 1 1 1598
+id 1 8 27314
+fr 1 1 4629
+ch 1 1 1900
+pk 0 1 5579
+tr 0 1 5579
+ae 0 1 8696
+be 0 1 5579
+ph 0 1 5579
+za 0 1 5579
+eg 0 1 5579
+hk 0 1 5579
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+bot[\s_+:,\.\;\/\\-] 1229 3323006 20160630213632 407
+spider 122 3113223 20160630235232 4
+googlebot 98 221482 20160630210613 21
+robot 79 550885 20160630113113 26
+unknown 62 9568 20160630174613 62
+slurp 25 138484 20160629115203 11
+crawl 20 40651 20160627000157 2
+[\s_+:,\.\;\/\\-]bot 16 35245 20160630020714 1
+no_user_agent 9 41661 20160630200007 0
+googlebot\-image 3 20701 20160624144727 0
+bingpreview 3 2414 20160624160546 0
+curl 2 9258 20160626021439 0
+php 1 20701 20160615063438 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+html 298 812361 0 0
+php 28 73193 0 0
+css 71 88283 0 0
+pdf 4 467665 0 0
+jpg 193 1540286 0 0
+png 73 75485 0 0
+js 63 59151 0 0
+gif 53 859503 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/one.pdf 25 0 2811002
+/SunilChoudhary.pdf 7 0 849457
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+linux 71 35
+ios_iphone 6 4
+win8 5 5
+blackberry 1 1
+winxp 106 38
+macosx9 10 10
+winunknown 1 1
+Unknown 137 112
+winnt 47 13
+java 1 1
+macosx 7 5
+win2003 10 9
+win7 240 63
+linuxandroid 105 17
+win8.1 29 7
+macosx7 3 3
+winlong 4 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 69
+chrome53.0.2763.0 9 2
+firefox35.0 3 3
+firefox47.0 35 7
+chrome51.0.2704.103 33 4
+firefox13.0.1 1 1
+firefox2.0.0.11 1 1
+chrome49.0.2623.75 8 8
+chrome50.0.2661.102 14 2
+chrome50.0.2661.89 11 3
+safari9.0 6 5
+firefox37.0 1 1
+chrome39.0.2171.95 3 2
+safari5.0.4 33 11
+firefox24.0 1 1
+chrome45.0.2454.93 1 1
+msie11.0 4 1
+chrome49.0.2623.87 5 3
+firefox41.0 1 1
+chrome37.0.0.0 8 1
+safari 1 0
+chrome43.0.2357.93 16 2
+chrome38.0.1025.166 40 5
+chrome51.0.2704.84 27 3
+chrome47.0.2526.111 2 2
+chrome5.0.375.99 1 1
+msie8.0 24 3
+msie7.0 10 9
+chrome46.0.2486.0 11 3
+firefox45.0 1 1
+firefox3.6 1 1
+firefox3.0 14 14
+msie10.0 3 3
+chrome49.0.2623.91 1 0
+chrome41.0.2228.0 6 6
+firefox31.0 4 4
+chrome37.0.2062.120 7 7
+chrome38.0.2125.122 8 1
+blackberry 1 1
+chrome28.0.1500.71 1 1
+firefox46.0 198 35
+chrome40.0.2214.115 4 4
+msie 1 1
+firefox44.0 1 1
+opera8.50 2 2
+msie6.0 1 1
+android 4 2
+Unknown 10 10
+opera12.16 24 2
+chrome51.0.2704.81 9 1
+netscape 2 2
+firefox15.0.1 1 0
+chrome30.0.0.0 8 1
+mozilla 100 97
+firefox6.0.2 3 0
+firefox4.0.1 1 1
+chrome36.0.1985.125 9 9
+opera36.0.2130.32 1 1
+chrome17.0.1025.133 1 1
+firefox3.6.3 1 1
+chrome36.0.1985.135 7 1
+firefox23.0 1 1
+firefox14.0.1 9 9
+firefox40.1 6 6
+chrome45.0.2454.101 1 1
+firefox34.0 5 5
+chrome49.0.2623.112 8 1
+chrome48.0.2564.103 1 1
+msie9.0 6 3
+chrome18.0.1025.165 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Mozilla/5.0_(compatible;_Dataprovider/6.92;__https://www.dataprovider.com/) 20160623121519
+Whibse 20160629222445
+Micromax_X070/R2AE_SEMC-Browser/4.0.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20160613045004
+Mozilla 20160603025039
+nutch-1.4/Nutch-1.4 20160609214417
+Opera/9.80_(Android;_Opera_Mini/13.0.2036/37.8529;_U;_en)_Presto/2.12.423_Version/12.16 20160613023802
+Mozilla/5.0_Firefox/35.0 20160611180533
+Mozilla/5.0_(compatible;_SiteExplorer/1.0b;__http://siteexplorer.info/) 20160619075641
+Opera/9.80_(Android;_Opera_Mini/16.0.2168/37.8625;_U;_en)_Presto/2.12.423_Version/12.16 20160625101115
+\ 20160609221241
+ltx71_-_(http://ltx71.com/) 20160621123832
+Mozilla/5.0_(compatible;_Qwantify/2.2w;__https://www.qwant.com/)/* 20160630174613
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Java/1.8.0_91 20160604134303
+\ 20160609221241
+Whibse 20160629222445
+Micromax_X070/R2AE_SEMC-Browser/4.0.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20160613045004
+ltx71_-_(http://ltx71.com/) 20160621123832
+nutch-1.4/Nutch-1.4 20160609214417
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 262 275
+From1 2 2
+From2 17 32
+From3 7 7
+From4 38 467
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+yandex 3 3
+bing 1 2
+sogou 5 5
+google 8 22
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://pizza-tycoon.com 4 4
+http://hvd-store.com 1 1
+http://hundejo.com 1 1
+http://burger-imperia.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+www.onelife.en 2
+http+%2f%2fwww.onelife%2f 1
+panditji+caricature 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 5
+www.onelife.en 2
+%2f%2fwww.onelife%2f 1
+caricature 1
+http 1
+panditji 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+301 13 702
+404 472 0
+206 1 4629
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 333
+/wp-content/themes/felis/download.php 2 -
+/ycportal/js/wbTextBox/showimg.jsp 1 -
+/robots.txt.php 1 -
+/wp-content/themes/yakimabait/download.php 2 -
+/administrator/manifests/files/joomla.xml 1 -
+/customdir/images/english_logo.jpg 1 -
+/helpnew/faq/faq_simple_zh_CN.jsp 1 -
+/resume_sunilchoudhary.rtf 1 -
+/API/DW/Dwplugin/ThirdPartyTags/SiteFactory.xml 1 -
+/fckeditor/fckconfig.js 1 -
+/ids/admin/login.jsp 1 -
+/plugins/anchor/anchor.js 1 -
+/console/js/CWCMDialogHead.js 1 -
+/wp-content/themes/urbancity/lib/scripts/download.php 2 -
+/help/en/h_authenticate.html 1 -
+/Images/login/mainlogo.gif 1 -
+/wp-content/themes/parallelus-salutation/framework/utilities/download/getfile.php 2 -
+/media/com_hikashop/js/hikashop.js 1 -
+/skin/frontend/default/modern/css/styles.css 1 -
+/system/skins/default/system.login.htm 1 -
+/krd%2Etxt 1 -
+/fckeditor/editor/dtd/fck_dtd_test.html 1 -
+/test_404_page/ 1 -
+/wp-content/themes/NativeChurch/download/download.php 2 -
+/blog/wp-admin/ 1 -
+/fckeditor/editor/js/fckeditorcode_ie.js 1 -
+/Images/login/biaoti.jpg 1 -
+/wp-content/themes/lote27/download.php 2 -
+/tpl/user/tpl1/css/skins/blue.css 1 -
+/blog/robots.txt 1 -
+/User/Login.aspx 1 -
+/admin/ 1 -
+/lang/en.js 1 -
+/common/help/images/helplogo_zh.gif 1 -
+/admin/start/index.php 1 -
+/themes/graphics/horde-power1.png 1 -
+/ckeditor/ckfinder/install.txt 1 -
+/templates/jsn_glass_pro/ext/hikashop/jsn_ext_hikashop.css 1 -
+/www.codezoo.net 24 -
+/API/DW/Dwplugin/TemplateManage/login_site.htm 1 -
+/system/language/zh-cn.xml 1 -
+/rss.aspx 1 -
+/plus/rssmap.html 1 -
+/wp-content/plugins/i-dump-iphone-to-wordpress-photo-uploader/uploader.php 1 -
+/wp-content/themes/modular/lib/scripts/dl-skin.php 2 -
+/app/images/login/toplogo.gif 1 -
+/asp.net/README.txt 1 -
+/advfile/ad12.js 1 -
+/admin/login.asp 1 -
+/js/buttons.js 1 -
+/issmall/ 1 -
+/wp-content/themes/antioch/lib/scripts/download.php 2 -
+/kindeditor-min.js 1 -
+/static/hgicon.png 1 -
+/images/login/icon-up.gif 1 -
+/help/user/index.html 1 -
+/wordpress/ 1 -
+/images/default/post_bt.gif 1 -
+/Resume_SunilChoudhary.zip 5 -
+/plus/heightsearch.php 1 -
+/Site/Pages/WebResources.ashx/PoweredByKodakImage 1 -
+/wp-content/themes/epic/includes/download.php 2 -
+/Resume_SunilChoudhary.rtf 4 -
+/wp-content/plugins/revslider/js/settings.js 1 -
+/resume_sunilchoudhary.txt 1 -
+/index.cgi 1 -
+/extern.php 1 -
+/admin/login.php 1 -
+/tiki-calendar.php 1 -
+/wp-content/plugins/simple-ads-manager/sam-ajax-admin.php 1 -
+/member/space/company/info.txt 1 -
+/wp-content/themes/myriad/lib/scripts/dl-skin.php 2 -
+/was5/web/index.jsp 1 -
+/examples/index.html 1 -
+/uc_server/control/admin/db.php 1 -
+/wp-content/themes/tess/download.php 2 -
+/ids/admin/userhome/forgetPwd.jsp 1 -
+/inc/playerKinds.xml 1 -
+/CuteSoft_Client/CuteEditor/Images/log.gif 1 -
+/www.oracle.com 8 -
+/history.txt 1 -
+/base/login/login.php 1 -
+/e/master/login.aspx 1 -
+/login/Jeecms.do 1 -
+/images/logo-white.png 1 -
+/ckeditor/ckfinder/ckfinder.html 1 -
+/pub/guiedit/guiedit.js 1 -
+/weblog/ 1 -
+/phpmyadmin/docs.css 1 -
+/wp-content/themes/construct/lib/scripts/dl-skin.php 2 -
+/app/Tpl/fanwe_1/js/DD_belatedPNG_0.0.8a-min.js 1 -
+/components/com_jdownloads/jdownloads.js 1 -
+/wp/ 1 -
+/images/logo_product-cml.png 1 -
+/images/zh-CN/logo.ico 1 -
+/admin/SouthidcEditor/ewebeditor.asp 1 -
+/template/home.htm 1 -
+/style/default/hdwiki.css 1 -
+/Resume_SunilChoudhary.txt 8 -
+/master/login.aspx 1 -
+/%202 1 -
+/wp-content/plugins/tinymce-thumbnail-gallery/php/download-image.php 2 -
+/wp-content/themes/dejavu/lib/scripts/dl-skin.php 2 -
+/apps/admin/_static/image/login_box_bg.png 1 -
+/phpinfo1.php 1 -
+/include/install_ocx.aspx 1 -
+/was/help.jsp 1 -
+/wp-content/plugins/showbiz/js/admin.js 1 -
+/examples/readonly.html 1 -
+/wp-content/themes/awake/lib/scripts/dl-skin.php 2 -
+/licence.txt 1 -
+/wp-content/themes/fusion/lib/scripts/dl-skin.php 2 -
+/Ntalker/lawfirm.aspx 1 -
+/wp-content/themes/MichaelCanthony/download.php 2 -
+/app/home/skins/default/style.css 1 -
+/app/login.jsp 1 -
+/wp-cron.php 1 -
+/README.txt 1 -
+/Editor.js 1 -
+/bad_decisions_in_liips.html 1 -
+/wp-content/plugins/filedownload/download.php/ 2 -
+/www.nucleussoftware.com 17 -
+/js/ajax_x.js 1 -
+/admin/index.php 1 -
+/Include/EcsServerApi.js 1 -
+/images/login/eyoumail.gif 1 -
+/plug/publish 1 -
+/images/2_11.gif 1 -
+/whir_system/module/security/login.aspx 1 -
+/web2/login_template/1.files/Logo1.jpg 1 -
+/kindeditor.js 1 -
+/bbs/ 1 -
+/nobody/mobile.htm 1 -
+/wp-content/themes/persuasion/lib/scripts/dl-skin.php 2 -
+/wp/wp-admin/ 1 -
+/custom/SkinTemplate/skin/public/images/sys-logo-1caitong-180.jpg 1 -
+/jcms/index.jsp 1 -
+/forum.php 1 -
+/script/valid_formdata.js 1 -
+/archiver 1 -
+/help/ch_gb/images/help-title.gif 1 -
+/include/dedeajax2.js 1 -
+/pub/skins/pmwiki/pmwiki.css 1 -
+/wp-content/themes/ypo-theme/download.php 2 -
+/webbuilder/script/locale/wb-lang-zh_CN.js 1 -
+/Site/SystemThemes/7917A0869761B5458281E407AE0090F5/Images/ISBanner58px.jpg 1 -
+/Install/logo.gif 1 -
+/test/wp-admin/ 1 -
+/default/css/em_css.css 1 -
+/system/Login.aspx 1 -
+/inc/rsd.php 1 -
+/CuteSoft_Client/CuteEditor/Style/IE.css 1 -
+/app/js/source/wcmlib/WCMConstants.js 1 -
+/plugins/filemanager/filemanager/js 1 -
+/data/images/wap_logo.gif 1 -
+/maintlogin.jsp 1 -
+/wp-content/themes/linenity/functions/download.php 2 -
+/docs.css 1 -
+/Wiki 1 -
+/License.txt 1 -
+/CHANGELOG.txt 1 -
+/app/images/login/logo.png 1 -
+/faq.html 1 -
+/wp-content/plugins/simple-download-button-shortcode/simple-download-button_dl.php 2 -
+/archiver/ 1 -
+/console/auth/reg_newuser.jsp 1 -
+/wcm/ 1 -
+/examples/file-manager.html 1 -
+/wp-content/themes/u-design/scripts/script.js 1 -
+/phpmyadmin/themes/original/img/logo_right.png 1 -
+/coremail/common/help/images/helplogo_zh.gif 1 -
+/data/admin/ver.txt 1 -
+/archive/archive.css 1 -
+/API/DW/Dwplugin/TemplateManage/save_template.htm 1 -
+/list.php 1 -
+/docs/ 1 -
+/plus/download.php 1 -
+/back/scripts/jspxcms_choose.js 1 -
+/wp-content/themes/infocus/lib/scripts/dl-skin.php 2 -
+/adminsoft/templates/images/login_bg_top.jpg 1 -
+/themes/default/graphics/horde-power1.png 1 -
+/wp-includes/images/xit.gif 2 -
+/editor/js/fckeditorcode_ie.js 1 -
+/blog 1 http://onelife.in/blog
+/Wq_StranJF.js 1 -
+/forums/list.page 1 -
+/CuteSoft_Client/CuteEditor/Help/default.htm 1 -
+/wp-content/themes/churchope/lib/downloadlink.php 2 -
+/clientscript/vbulletin_ajax_htmlloader.js 1 -
+/Prompt/images/P_Wrong.gif 1 -
+/valid-xhtml10.png 4 -
+/admin/admin_login.php 1 -
+/ymail/images/index_r1_c4.jpg 1 -
+/oracle11iebusiness_suite.html 1 -
+/Error.aspx 1 -
+/siteserver/upgrade/default.aspx 1 -
+/tools/rss.aspx 1 -
+/includes/general.js 1 -
+/info.asp 1 -
+/plus/sitemap.html 1 -
+/phpmyadmin/ 1 -
+/forum/ 1 -
+/admin/SouthidcEditor/ButtonImage/standard/componentmenu.gif 1 -
+/%205 1 -
+/wp-content/themes/method/lib/scripts/dl-skin.php 2 -
+/wp-content/themes/jarida/download.php 2 -
+/logo/logo_jw.png 1 -
+/wp-admin/ 1 -
+/wp-content/themes/TheLoft/download.php 2 -
+/themes/default/default.css 1 -
+/wp-content/plugins/ajax-store-locator-wordpress_0/sl_file_download.php 2 -
+/Admin/Login.aspx 1 -
+/wp-content/themes/FR0_theme/down.php 2 -
+/ckeditor/ckeditor.js 1 -
+/max-templates/classic/styles/app.css 1 -
+/xmlrpc.php 3 http://www.oneLife.in/xmlrpc.php
+/admin/template/article_more/config.htm 1 -
+/Admin/Images/LoginImages/admin_top.gif 1 -
+/cgi/index.cgi 1 -
+/auth/login 1 -
+/Public/Admin/Images/login_main_bg.jpg 1 -
+/API/DW/Dwplugin/TemplateManage/manage_site.htm 1 -
+/public/about.html 1 -
+/tpl/login/user/images/login_bg_1.jpg 1 -
+/admin/login.aspx 1 -
+/UserCenter/css/admin/bgimg/admin_all_bg.png 1 -
+/images/login_Name.jpg 1 -
+/whir_system/login.aspx 1 -
+/wp-content/themes/infocus2/lib/scripts/dl-skin.php 2 -
+/wp-content/themes/acento/includes/view-pdf.php 2 -
+/joomla 1 -
+/wp-content/plugins/plugin-newsletter/preview.php 2 -
+/API/DW/Dwplugin/SystemLabel/SiteConfig.htm 1 -
+/_image/mine.gif 8 -
+/images/hwem.css 1 -
+/FCK/fckeditor.js 1 -
+/wp-content/themes/corporate_works/downloader.php 2 -
+/images/login/logo.gif 1 -
+/coremail/common/help/images/helplogo.gif 1 -
+/old/wp-admin/ 1 -
+/images/branding/logo.gif 1 -
+/wp-content/themes/authentic/includes/download.php 2 -
+/next/img/logo.gif 1 -
+/Admin/Common/HelpLinks.xml 1 -
+/changelog.txt 1 -
+/datacenter/downloadApp/showDownload.do 1 -
+/blog/ 2 -
+/siteserver/login.aspx 1 -
+/wp-content/themes/parallelus-mingle/framework/utilities/download/getfile.php 2 -
+/wp-content/themes/Newspapertimes_1/download.php 2 -
+/license.txt 1 -
+/include/dialog/config.php 1 -
+/extman/default/images/logo.gif 1 -
+/default/images/logo.gif 1 -
+/bencandy.php 1 -
+/fckeditor.js 1 -
+/script/login.js 1 -
+/jcms/index_jcms.jsp 1 -
+/wp-content/force-download.php 2 -
+/deptWebsiteAction.do 1 -
+/wp-content/themes/SMWF/inc/download.php 2 -
+/tmp/sfx.php 2 -
+/krd.txt 1 -
+/wp-content/themes/echelon/lib/scripts/dl-skin.php 2 -
+/images/Default_bg_002.gif 1 -
+/install 1 -
+/images/login9/login_33.jpg 1 -
+/img/pic/login/top-left.jpg 1 -
+/administrator/index.php 1 -
+/docs/DOCUMENTATION.txt 1 -
+/wp-content/themes/markant/download.php 2 -
+/learningcurve.html 1 -
+/wp-content/plugins/revslider/js/rev_admin.js 1 -
+/addons/theme/stv2/_static/ts2/layout.css 1 -
+/static/images/logo/webserver_small.gif 1 -
+/wp-content/plugins/pica-photo-gallery/picadownload.php 2 -
+/template/1/bluewise/_files/jspxcms.css 1 -
+/console/include/not_login.htm 1 -
+/business/images/index-gg1.jpg 1 -
+/stylesheet.css 1 -
+/new_gb/help/images/usage/3.3.gif 1 -
+/fckeditor/fckeditor.js 1 -
+/imagesschool/style1/flash2.jpg 1 -
+/wp-content/plugins/wp-filemanager/incl/libfile.php 2 -
+/admin 1 -
+/common/common.js 1 -
+/wordpress/wp-admin/ 1 -
+/Help 1 -
+/wp-content 1 -
+/wp-content/plugins/db-backup/download.php 2 -
+/common/help/images/helplogo.gif 1 -
+/system/Update.aspx 1 -
+/admin/js/IdSUtil.js 1 -
+/images/logo_88x31.gif 1 -
+/wp-content/plugins/google-mp3-audio-player/direct_download.php 2 -
+/ckfinder/install.txt 1 -
+/Admin/Images/LoginImages/admin_text.gif 1 -
+/CuteSoft_Client/CuteEditor/ImageEditor/listfiles.aspx 1 -
+/admin.php 3 -
+/admin/SouthidcEditor/Dialog/dialog.js 1 -
+/addons/theme/stv1/_static/ts2/layout.css 1 -
+/was/main.html 1 -
+/admin/inc/xml.xslt 1 -
+/eams/static/scripts/grade/course/input.js 1 -
+/wp-login.php 8 -
+/user 1 -
+/%2069 1 -
+/ckfinder/ckfinder.html 1 -
+/console/js/CTRSRequestParam.js 1 -
+/rss.php 1 -
+/api/api_user.xml 1 -
+/wp-admin/admin-ajax.php 6 -
+/wp-content/plugins/dukapress/lib/dp_image.php 2 -
+/jetspeed/index.jsp 1 -
+/doku.php 1 -
+/Resume_SunilChoudhary.pdf 4 -
+/feed.asp 1 -
+/Images/login/lefttu.jpg 1 -
+/Template/Default/Skin/user/images/login_back.jpg 1 -
+/plugin.php 1 -
+/inc/Templates/rss.xslt 1 -
+/todo.html 1 -
+/ks_inc/ajax.js 1 -
+/digg.php 1 -
+/fckeditor/license.txt 1 -
+/public/js/ipb.js 1 -
+/FCK/editor/js/fckeditorcode_ie.js 1 -
+/dialog/dialog.js 1 -
+/Search.html 1 -
+/wp-content/themes/elegance/lib/scripts/dl-skin.php 2 -
+/wp-content/themes/trinity/lib/scripts/download.php 2 -
+/Scripts/jquery/maticsoft.jquery.min.js 1 -
+/m 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 172
+182.74.72.38 29 147 371331 20160602052400
+194.187.170.204 14 14 32366 20160624150806
+malta2609.startdedicated.com 12 12 26542 20160626154832
+spider-10.lipperhey.com 12 12 60822 20160623121520
+64.74.215.50 11 33 45440 20160607233708
+55.e1.2bd0.ip4.static.sl-reverse.com 11 11 24185 20160619075641
+194.187.170.222 10 12 259777 20160629150303
+69.58.178.59 10 10 54116 20160613115019
+125.64.94.206 9 9 13929 20160629200513
+194.187.170.209 9 9 20543 20160628145754
+38.100.21.65 9 10 49333 20160609054725
+194.187.170.201 8 8 18320 20160623223325
+54.e1.2bd0.ip4.static.sl-reverse.com 7 7 16174 20160608175147
+194.187.170.212 5 5 13080 20160622124040
+104.238.180.234.vultr.com 4 4 18516 20160621052554
+45.32.129.200.vultr.com 4 4 18516 20160624103408
+194.187.170.205 3 3 7462 20160624215916
+27.34.49.176 3 11 60164 20160612012648
+82.223.14.176 3 3 2493 20160609221241
+194.187.170.213 3 3 6672 20160624122354
+91.215.199.155 3 24 27314 20160621013214
+google-proxy-66-102-6-216.google.com 3 8 9065 20160625110336
+static-202-65-140-116.pol.net.in 3 11 66943 20160606030637
+194.187.168.203 3 4 122414 20160606030957
+45.127.90.204 3 10 31674 20160625113049
+121.240.38.40.static-vsb.vsnl.net.in 0 1 29033 
+50-151.static-pnq.balasai.com 2 2 9258 20160603025039
+114.143.18.52 1 8 27314 20160619145053
+health.systemstatesend.com 1 1 1900 20160605020731
+ec2-54-160-53-199.compute-1.amazonaws.com 1 1 4629 20160617061406
+223.231.7.98 1 8 27314 20160623020151
+111.30.137.185 1 1 1900 20160617234703
+111.30.132.176 1 1 1900 20160617234703
+google-proxy-66-102-6-220.google.com 1 14 52143 20160625110331
+180.153.163.191 1 1 4629 20160617234734
+117.205.163.137 1 8 27314 20160613041520
+dns28.online.tj.cn 1 1 1900 20160617234703
+111.30.132.194 1 1 1900 20160617234703
+ec2-54-185-118-94.us-west-2.compute.amazonaws.com 1 1 1900 20160622081321
+194.187.168.204 1 1 2108 20160605131821
+112.65.193.14 1 2 5644 20160617234703
+google-proxy-66-249-80-24.google.com 1 1 1900 20160613000539
+google-proxy-66-249-84-173.google.com 1 1 1900 20160603024439
+nat-vlan550.las1.sco.cisco.com 2 2 9258 20160606173056
+194.187.170.206 2 2 3491 20160630174613
+106.77.101.242 1 8 27314 20160623102538
+116.203.255.204 1 8 27314 20160612143005
+72.5.65.215 1 1 1900 20160610204153
+111.30.132.212 1 1 1900 20160617234703
+google-proxy-64-233-173-128.google.com 0 2 1225 
+5.153.238.101 1 1 4629 20160607133617
+baiduspider-180-76-15-34.crawl.baidu.com 0 1 115438 
+host-197.41.47.34.tedata.net 0 1 5579 
+23.82.41.49.rdns.as15003.net 1 1 1900 20160605045440
+204.79.180.149 0 1 1296 
+115.245.144.81 0 1 8696 
+demur133.vds 1 1 1900 20160602190501
+seo987.heilink.com 1 1 1900 20160616030309
+tor-exit.hartvoorinternetvrijheid.nl 1 1 1900 20160623180249
+dns18.online.tj.cn 1 1 1900 20160617234703
+194.187.170.214 1 1 1591 20160630031507
+tor-exit1-readme.dfri.se 1 1 1900 20160623053145
+176-123-29-249.alexhost.md 1 1 1900 20160601114049
+117.246.18.198 1 7 6613 20160613120359
+59.89.192.150 1 8 27314 20160617122447
+192-154-110-226.static.gorillaservers.com 1 1 1900 20160622150605
+85.106.197.226.dynamic.ttnet.com.tr 0 1 5579 
+119.147.146.189 1 2 2459 20160617235020
+194.187.170.210 1 1 1900 20160621095213
+google-proxy-66-249-84-133.google.com 1 1 1900 20160603152953
+google-proxy-66-249-80-15.google.com 1 1 1900 20160625035315
+torrelay6.tomhek.net 1 1 1900 20160624112746
+86-122-228-97.rdsnet.ro 1 1 1900 20160622163211
+modemcable011.160-171.107.mc.videotron.ca 0 1 5579 
+google-proxy-66-249-93-234.google.com 1 1 1900 20160603153156
+myhost05.chatforyou.info 2 2 9258 20160611191105
+210.212.154.170 1 3 3927 20160617022941
+192.198.119.45 1 1 1900 20160625090810
+mta24.rosmail.co.in 2 2 9258 20160611180533
+triband-mum-59.183.51.242.mtnl.net.in 1 8 27314 20160602235948
+203.177.184.91 0 1 5579 
+192-154-111-98.static.gorillaservers.com 2 4 5655 20160622145230
+78-40-190-210.dynamic.mts-nn.ru 2 2 9258 20160611055059
+117.220.49.205 1 8 27314 20160611130956
+202.133.79.27 0 1 20701 
+ve211.venus.fastwebserver.de 1 1 4629 20160612140256
+lvps84-39-102-187.my-simplyroot.de 1 1 4629 20160625101420
+203.133.169.16 1 1 1598 20160625181512
+123.126.126.125 1 1 1900 20160617234703
+46.29.248.238 1 1 1900 20160623090905
+192.186.152.99 1 1 1900 20160613065215
+72.5.65.214 1 1 1900 20160609005254
+194.187.168.197 1 1 1900 20160602095755
+ec2-54-224-165-234.compute-1.amazonaws.com 1 1 1900 20160614121252
+google-proxy-64-233-173-133.google.com 1 4 24628 20160630225823
+1-39-39-76.live.vodafone.in 1 8 27314 20160630224558
+52.159.224.103-in-addr.arpa-lsfiber.net 0 1 57393 
+194.187.170.202 1 1 1900 20160615102000
+49.32.20.128 1 8 27314 20160628035607
+google-proxy-64-233-173-138.google.com 0 2 1461 
+baiduspider-123-125-71-56.crawl.baidu.com 0 1 2641 
+111.30.131.212 1 1 1900 20160617234703
+1-39-14-126.live.vodafone.in 1 1 1900 20160613045004
+ip-199-30-231-2.domaintools.com 1 1 1900 20160613000538
+153.19.206.49-ras.beamtele.net 0 1 57393 
+abts-north-dynamic-014.184.173.122.airtelbroadband.in 1 8 27314 20160618030544
+61.49.57.60 1 1 1900 20160617234703
+192.240.225.14 1 1 4629 20160630200008
+117.78.13.51 1 1 1900 20160609214417
+46.229.170.197 2 2 9258 20160630145730
+176.sub-70-197-205.myvzw.com 0 1 5579 
+ec2-52-40-54-57.us-west-2.compute.amazonaws.com 1 1 1900 20160610230538
+183.198.21.36 1 8 27314 20160611210228
+194.187.170.216 1 1 1900 20160628114119
+175.101.60.66 2 16 54628 20160613001241
+3.tor.exit.babylon.network 1 1 1900 20160623034553
+195-154-56-126.rev.poneytelecom.eu 1 1 4629 20160627040823
+194.187.170.219 1 1 1900 20160623123254
+lh28409.voxility.net 1 1 1900 20160623065332
+google-proxy-66-249-88-75.google.com 1 1 1900 20160603152949
+ec2-52-42-7-125.us-west-2.compute.amazonaws.com 1 1 1900 20160629222445
+101.226.33.238 1 2 5644 20160611210229
+no-data 2 2 3800 20160617234703
+23.236.131.75 1 1 1900 20160625015206
+pool-176-226-161-95.is74.ru 1 1 4629 20160608064711
+218.248.11.188 1 8 27314 20160630224203
+183.82.3.132 1 8 27314 20160612004159
+111.30.131.199 1 1 1900 20160617234703
+210.212.154.168 0 2 2039 
+a25-02-07.opera-mini.net 1 8 27314 20160613023801
+176.10.99.207 1 1 1900 20160603131319
+baiduspider-123-125-71-24.crawl.baidu.com 0 1 1015 
+115.178.253.173 1 8 27314 20160614145847
+123.151.42.57 1 8 27314 20160617234701
+194.187.170.220 2 2 4705 20160624075642
+111.30.137.187 1 1 1900 20160617234703
+ec2-52-3-127-144.compute-1.amazonaws.com 2 2 4688 20160621123832
+msnbot-157-55-39-52.search.msn.com 0 1 559 
+resultsmarine.com 1 8 27314 20160603025036
+google-proxy-66-102-6-224.google.com 1 18 75362 20160613060830
+169-0-89-78.ip.afrihost.co.za 0 1 5579 
+107.152.200.123 1 1 1900 20160625231913
+118.ip-167-114-233.eu 1 1 4629 20160610143735
+host-213-189-186-97.dynamic.voo.be 0 1 5579 
+sol-fttb.129.127.119.46.sovam.net.ua 1 1 4629 20160603180110
+92.99.254.16 0 1 8696 
+204.79.180.212 0 1 559 
+static.100.192.251.148.clients.your-server.de 1 1 0 20160622130636
+202.70.67.40 1 8 27314 20160616043129
+107-172-161-121-host.colocrossing.com 1 1 1900 20160603113052
+104.144.83.153 1 1 1900 20160626104739
+abts-ap-dynamic-079.145.169.122.airtelbroadband.in 0 1 57393 
+27.97.236.46 0 1 29033 
+webdefence.cluster-t.websense.net 0 1 5579 
+173.208.169.42 1 1 4629 20160615112015
+google-proxy-66-249-93-236.google.com 1 1 1900 20160603153156
+183.82.28.150 0 1 57393 
+204.79.180.203 1 1 1900 20160624143745
+static.12.98.9.176.clients.your-server.de 1 1 4629 20160622162505
+dns27.online.tj.cn 1 1 1900 20160617234703
+194.187.170.217 2 2 2597 20160625050239
+static.9.39.4.46.clients.your-server.de 2 2 9258 20160603152930
+210.212.154.186 2 19 75976 20160617072150
+104.227.208.222 1 1 1900 20160627152654
+117.195.153.232 2 9 29774 20160613063934
+a08-09-07.opera-mini.net 1 16 912409 20160625101101
+google-proxy-66-249-85-227.google.com 1 1 1900 20160603153025
+46.161.9.8 2 2 3800 20160630210139
+172.110.22.91 1 1 4629 20160604134303
+168.212.150.69 0 1 5579 
+59.103.197.144 0 1 5579 
+116.83.207.49-ras.beamtele.net 0 1 57393 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20160601 1 2 30933 1
+20160602 33 166 435338 6
+20160603 14 23 152085 12
+20160604 3 3 13887 2
+20160605 3 5 32188 3
+20160606 8 20 270283 4
+20160607 13 36 112091 3
+20160608 18 20 59388 4
+20160609 14 15 55626 4
+20160610 3 3 8429 3
+20160611 8 25 146389 6
+20160612 6 30 130579 4
+20160613 21 66 276469 11
+20160614 3 10 33843 3
+20160615 4 4 8429 4
+20160616 7 22 180167 6
+20160617 26 63 187236 25
+20160618 3 10 32743 2
+20160619 5 12 35230 3
+20160620 0 1 8696 0
+20160621 10 38 72934 7
+20160622 11 13 25947 8
+20160623 31 45 152707 11
+20160624 18 20 47760 8
+20160625 13 49 1015135 11
+20160626 14 14 30654 3
+20160627 2 2 6529 2
+20160628 10 19 50953 4
+20160629 16 18 266997 3
+20160630 8 29 96282 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 3
+30mn-1h 8
+0s-30s 149
+30s-2mn 6
+15mn-30mn 1
+5mn-15mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 22
+/ 173 445805 140 135
+/_joomla/index.php 17 63650 1 0
+/whatsnew.html 14 44027 2 3
+/project.html 13 46087 1 3
+/FAQ.html 12 38253 5 3
+/credit.html 11 44252 0 0
+/resume.html 10 22133 1 4
+/recognition.html 10 25530 0 2
+/project_perl.html 10 17766 7 2
+/index.php 8 4493 1 1
+/link.html 8 30340 1 1
+/ToDo.html 7 21893 2 4
+/LearningCurve.html 7 20804 2 3
+/artwork.html 6 12648 2 4
+/Bad_decisions_in_Liips.html 6 15582 3 3
+/career.html 5 7955 3 3
+/_joomla/administrator/index.php 3 5050 0 0
+/oracle11iEbusiness_Suite.html 2 4762 0 0
+/_joomla/ 1 4677 0 0
+/readme.html 1 6229 0 0
+/oracle9i_application_server.html 1 2029 0 0
+/_joomla/administrator/ 1 1589 0 0
+END_SIDER

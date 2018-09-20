@@ -1,0 +1,15 @@
+--- 
+documentroot: /home/onelife/public_html
+group: onelife
+homedir: /home/onelife
+ip: 69.73.181.211
+owner: sgdnet1
+phpopenbasedirprotect: 1
+port: 80
+serveradmin: webmaster@onelife.in
+serveralias: www.onelife.in mail.onelife.in
+servername: onelife.in
+ssl: 1
+usecanonicalname: 'Off'
+user: onelife
+userdirprotect: ''

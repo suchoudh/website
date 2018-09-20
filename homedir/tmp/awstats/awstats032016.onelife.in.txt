@@ -1,0 +1,432 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201603 will be lost/reset.
+# Last config file used to build this data file was /home/onelife/tmp/awstats/awstats.onelife.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2683                
+POS_VISITOR 8348                
+POS_DAY 11162               
+POS_DOMAIN 3407                
+POS_LOGIN 3903                
+POS_ROBOT 4058                
+POS_WORMS 4607                
+POS_EMAILSENDER 4738                
+POS_EMAILRECEIVER 4881                
+POS_SESSION 11502               
+POS_SIDER 11692               
+POS_FILETYPES 5016                
+POS_DOWNLOADS 5181                
+POS_OS 5282                
+POS_BROWSER 5551                
+POS_SCREENSIZE 6265                
+POS_UNKNOWNREFERER 6339                
+POS_UNKNOWNREFERERBROWSER 6616                
+POS_ORIGIN 6698                
+POS_SEREFERRALS 6832                
+POS_PAGEREFS 6988                
+POS_SEARCHWORDS 7136                
+POS_KEYWORDS 7288                
+POS_MISC 2347                
+POS_ERRORS 7347                
+POS_CLUSTER 3759                
+POS_SIDER_404 7436                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160401005748 46 7965 9945825972179
+FirstTime 20160317091313
+LastTime 20160331224824
+LastUpdate 20160401095007 46 0 45 0 0
+TotalVisits 49                  
+TotalUnique 41                  
+MonthHostsKnown 35                  
+MonthHostsUnknown 26                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 8 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 1 5579 30 38 68862
+1 0 0 0 12 16 27531
+2 0 0 0 22 35 167049
+3 1 3 13058 17 26 285167
+4 1 1 1900 24 51 249630
+5 1 3 8285 14 18 38586
+6 1 2 10208 28 35 184163
+7 2 3 17296 10 22 104858
+8 0 0 0 23 49 1027864
+9 7 23 76115 21 49 974669
+10 2 2 1900 6 13 370361
+11 2 17 60207 23 39 67753
+12 1 4 34319 12 37 154245
+13 20 32 231962 23 36 92479
+14 0 2 121017 19 30 285804
+15 2 2 8600 24 39 313780
+16 5 5 13187 28 49 337752
+17 3 4 12173 38 53 148277
+18 11 12 59822 24 42 483202
+19 14 14 67351 52 67 129098
+20 2 3 10208 7 18 27798
+21 1 2 7479 4 11 12708
+22 5 7 21130 12 26 277794
+23 4 4 18516 28 40 418797
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 22
+us 20 27 110480
+ca 13 13 65451
+cn 12 16 38978
+jp 11 11 48190
+pl 10 11 139941
+in 6 38 286639
+de 4 4 0
+kr 3 3 5700
+se 2 2 13400
+ru 1 1 4629
+fr 1 1 1900
+vg 1 1 1900
+ae 1 8 27314
+pt 0 1 5579
+il 0 1 5579
+ph 0 1 5579
+kg 0 1 5579
+ro 0 1 5579
+sg 0 2 11158
+it 0 1 5579
+be 0 1 5579
+mo 0 1 5579
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+bot[\s_+:,\.\;\/\\-] 504 3748402 20160331191412 144
+spider 73 1623762 20160331211917 15
+googlebot 51 52770 20160331183238 13
+crawl 35 77070 20160317192607 1
+slurp 27 156560 20160331082504 11
+robot 25 150221 20160331132945 8
+[\s_+:,\.\;\/\\-]bot 16 85824 20160331044551 4
+unknown 13 2192 20160331124906 13
+googlebot\-image 7 300338 20160328183531 0
+no_user_agent 4 15787 20160327145838 0
+php 1 20701 20160328170658 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 7 11762 0 0
+html 85 281781 0 0
+pdf 2 230876 0 0
+jpg 22 52019 0 0
+js 7 4825 0 0
+gif 23 219049 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/one.pdf 19 0 2054277
+/SunilChoudhary.pdf 9 0 944008
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+linuxandroid 21 7
+macintosh 1 1
+macosx6 1 1
+winxp 7 4
+ios_iphone 3 0
+winunknown 3 3
+win2003 11 10
+win8 12 11
+ios_ipad 1 1
+winnt 2 0
+linux 14 5
+win7 33 8
+macosx 2 1
+win8.1 13 12
+Unknown 21 20
+macosx8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 36
+chrome45.0.2454.85 1 0
+chrome 4 4
+firefox44.0 2 2
+chrome49.0.2623.110 1 0
+chrome48.0.2564.116 1 0
+chrome5.0.375.99 1 1
+firefox34.0 1 1
+firefox24.0 1 1
+msie8.0 2 1
+firefox6.0.2 2 0
+netscape7.0 1 1
+msie7.0 11 10
+firefox41.0 1 1
+safari8.0 1 1
+chrome49.0.2623.91 8 1
+chrome47.0.2526.83 8 1
+chrome45.0.2454.99 1 1
+chrome49.0.2623.87 17 2
+firefox46.0 12 3
+chrome28.0.1500.71 1 1
+chrome36.0.1985.97 1 1
+chrome49.0.2623.75 1 1
+firefox47.0 8 1
+firefox45.0 2 0
+msie11.0 10 10
+chrome18.0.1025.133 1 1
+mozilla 21 20
+chrome48.0.2564.109 2 0
+netscape5.0 11 11
+chrome16.0.912.77 1 1
+firefox37.0 1 1
+chrome39.0.2171.99 1 0
+opera8.50 2 2
+msie 3 3
+chrome11.0.696.71 1 1
+safari 3 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_Qwantify/2.2w;__https://www.qwant.com/)/* 20160331131025
+Mozilla/5.0_(compatible;_Lipperhey-Kaus-Australis/5.0;__https://www.lipperhey.com/en/about/) 20160329194935
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 70 74
+From1 5 5
+From2 1 18
+From3 0 0
+From4 9 49
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 18
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 75 10332
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 26
+/store//wp-login.php 1 -
+/blogs//wp-login.php 1 -
+/search/B00OICE9FI 1 -
+/wp//wp-login.php 1 -
+/www.oracle.com 5 -
+/Resume_SunilChoudhary.txt 5 -
+/Resume_SunilChoudhary.rtf 2 -
+/_image/mine.gif 2 -
+/old/wp-admin/ 5 -
+//wp-login.php 1 -
+/old//wp-login.php 1 -
+/www.codezoo.net 16 -
+/wordpress/wp-admin/ 3 -
+/blog/xmlrpc.php 1 -
+/test//wp-login.php 1 -
+/wp-admin/ 5 -
+/blog/wp-admin/ 5 -
+/wordpress//wp-login.php 1 -
+/Resume_SunilChoudhary.zip 1 -
+/xmlrpc.php 1 -
+/blog//wp-login.php 1 -
+/www.nucleussoftware.com 3 -
+/wp-login.php 1 -
+/test/wp-admin/ 5 -
+/Resume_SunilChoudhary.pdf 1 -
+/wp/wp-admin/ 5 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 61
+spider-13.lipperhey.com 12 12 60822 20160329194936
+58.20.65.38 11 11 24099 20160320130004
+38.100.21.78 10 11 55193 20160325180949
+v-27-120-94-160.ub-freebit.net 4 4 18516 20160321063024
+v-36-55-233-147.ub-freebit.net 4 4 18516 20160320183318
+m2912.contabo.host 4 4 0 20160320100203
+171.49.146.194 3 12 175300 20160324130416
+194.187.168.226 2 3 120334 20160320135710
+194.187.168.230 2 2 4188 20160320223952
+194.187.168.203 2 2 4961 20160331131025
+1-39-35-4.live.vodafone.in 1 8 27314 20160320111136
+ns7000412.ip-158-69-228.net 1 1 4629 20160318232132
+194.187.168.214 1 1 1900 20160319192537
+rate-limited-proxy-66-249-91-36.google.com 1 1 1900 20160317091406
+google-proxy-66-249-84-232.google.com 1 1 1900 20160317091313
+ns316491.ip-37-187-129.eu 1 1 1900 20160331224824
+pl108.nas817.p-tochigi.nttpc.ne.jp 1 1 1900 20160320035355
+194.187.168.211 1 1 2029 20160327164039
+203.133.168.102 1 1 1900 20160326074836
+95-54-12-72.dynamic.lenobl.dslavangard.ru 1 1 4629 20160329130015
+192.186.152.96 1 1 1900 20160319045509
+static-mum-120.63.246.18.mtnl.net.in 1 8 27314 20160331114635
+203.133.168.30 1 1 1900 20160328173021
+92.98.89.247 1 8 27314 20160326090016
+194.187.168.205 1 1 1900 20160331091903
+cpe-74-137-22-65.kya.res.rr.com 0 1 5579 
+212-2-240-2.citynet.kg 0 1 5579 
+111.26.30.243 0 1 5579 
+55.124.92.110.static.qala.com.sg 0 1 5579 
+baiduspider-123-125-71-57.crawl.baidu.com 0 1 2641 
+178-117-99-222.access.telenet.be 0 1 5579 
+host133-230-static.12-87-b.business.telecomitalia.it 0 1 5579 
+117.241.195.226 0 1 20701 
+cust74.telwestnet.net 0 1 5579 
+static-203.243.200.49-tataidc.co.in 0 1 8696 
+5-15-149-127.residential.rdsnet.ro 0 1 5579 
+baiduspider-123-125-71-25.crawl.baidu.com 0 1 1015 
+c-98-194-88-205.hsd1.tx.comcast.net 0 1 5579 
+203.133.168.12 1 1 1900 20160329101942
+c-178-73-219-81.ip4.frootvpn.com 1 1 6700 20160327070008
+65.19.167.132 1 1 1900 20160331224816
+pool-108-16-198-72.phlapa.fios.verizon.net 0 2 11158 
+106.211.37.185.rev.vodafone.pt 0 1 5579 
+v-27-120-109-20.ub-freebit.net 1 1 4629 20160317235812
+z66l30.static.ctm.net 0 1 5579 
+147.255.32.143.rdns.as15003.net 1 1 1900 20160319212232
+172-245-34-8-host.colocrossing.com 1 1 1984 20160321223314
+v-36-55-235-13.ub-freebit.net 1 1 4629 20160317235346
+74.91.26.114 1 1 1900 20160330153718
+users.peninsula.org 0 1 5579 
+166.121.37.18 0 1 5579 
+210.212.154.186 1 8 27314 20160321093133
+180.191.119.94 0 1 5579 
+23.101.213.136 1 1 1900 20160329133210
+c-46-246-83-172.ip4.frootvpn.com 1 1 6700 20160320154525
+031011133066.warszawa.vectranet.pl 1 1 4629 20160325094022
+103.31.200.249 1 2 5644 20160319173903
+87.70.26.80 0 1 5579 
+p3plcpnl0363.prod.phx3.secureserver.net 1 1 4629 20160331160553
+188.212.33.153 1 1 1900 20160330163937
+192.186.152.125 1 1 1900 20160321131601
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 13
+20160317 4 6 24216 4
+20160318 6 8 49425 6
+20160319 6 7 15973 6
+20160320 22 30 193793 9
+20160321 4 11 35827 4
+20160324 3 16 197616 1
+20160325 11 13 65401 2
+20160326 2 9 29214 2
+20160327 2 3 14308 2
+20160328 1 7 30989 1
+20160329 15 18 85988 4
+20160330 2 3 9379 2
+20160331 7 15 48183 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+0s-30s 44
+15mn-30mn 2
+30s-2mn 1
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 13
+/ 49 142893 43 40
+/credit.html 5 29819 2 2
+/resume.html 5 12092 0 0
+/recognition.html 5 13825 0 1
+/whatsnew.html 5 20181 0 2
+/project.html 4 17714 0 1
+/FAQ.html 4 15662 1 0
+/ToDo.html 2 10538 0 0
+/Bad_decisions_in_Liips.html 2 8457 0 2
+/career.html 1 1591 1 0
+/artwork.html 1 2108 1 0
+/oracle9i_application_server.html 1 2029 1 1
+/LearningCurve.html 1 4872 0 0
+END_SIDER

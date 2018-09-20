@@ -1,0 +1,84 @@
+INFO    |120404 07:39:06|--------------------------------------------------------------------------------
+INFO    |120404 07:39:06|JoomlaPack 2.4 (2009-12-05)
+INFO    |120404 07:39:06|Got backup?
+INFO    |120404 07:39:06|--------------------------------------------------------------------------------
+INFO    |120404 07:39:06|--- System Information ---
+INFO    |120404 07:39:06|PHP Version        :5.2.17
+INFO    |120404 07:39:06|OS Version         :Linux
+INFO    |120404 07:39:06|DB Version         :5.0.92-community
+INFO    |120404 07:39:06|DB Collation       :utf8_general_ci
+INFO    |120404 07:39:06|Web Server         :Apache
+INFO    |120404 07:39:06|PHP Interface      :cgi-fcgi
+INFO    |120404 07:39:06|Joomla! version    :Joomla! 1.5.11 Production/Stable [ Vea ] 03-June-2009 03:30 GMT
+INFO    |120404 07:39:06|Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19
+INFO    |120404 07:39:06|Safe mode          :
+INFO    |120404 07:39:06|Display errors     :1
+INFO    |120404 07:39:06|Error reporting    :E_ERROR | E_WARNING | E_PARSE | E_CORE_ERROR | E_CORE_WARNING | E_COMPILE_ERROR | E_COMPILE_WARNING | E_USER_ERROR | E_USER_WARNING | E_USER_NOTICE
+INFO    |120404 07:39:06|Disabled functions :ini_alter,system,passthru,shell_exec,leak,listen,chgrp,apache_setenv,define_syslog_variables,openlog,syslog,ftp_exec,posix_getpwuid,posix_getpwnam
+INFO    |120404 07:39:06|open_basedir restr.:/home:/tmp:/usr
+INFO    |120404 07:39:06|Max. exec. time    :30
+INFO    |120404 07:39:06|Memory limit       :32M
+INFO    |120404 07:39:06|Current mem. usage :5795024
+INFO    |120404 07:39:06|GZIP Compression   : available (good)
+INFO    |120404 07:39:06|JPATH_BASE         :<root>/administrator
+INFO    |120404 07:39:06|JPATH_SITE         :<root>
+INFO    |120404 07:39:06|JPATH_ROOT         :<root>
+INFO    |120404 07:39:06|JPATH_CACHE        :<root>/administrator/cache
+INFO    |120404 07:39:06|Output directory   :<root>/administrator/components/com_joomlapack/backup
+INFO    |120404 07:39:06|Temporary directory:/home/onelife/public_html/tmp
+INFO    |120404 07:39:06|BASE64 Encoding    :Available; will be used for temp vars
+INFO    |120404 07:39:06|CUBEObject Storage :Temporary file
+INFO    |120404 07:39:06|--------------------------------------------------------------------------------
+INFO    |120404 07:39:06|JoomlaPack has detected the following potential problems:
+INFO    |120404 07:39:06|- 203 Default output directory in use (medium)
+INFO    |120404 07:39:06|You probably do not have to worry about them, but you should be aware of them.
+INFO    |120404 07:39:06|--------------------------------------------------------------------------------
+INFO    |120404 07:39:06|Loading profile #1
+INFO    |120404 07:39:06|JoomlaPack is starting a new full site backup
+DEBUG   |120404 07:39:06|Creating packer engine of type jpa
+DEBUG   |120404 07:39:06|Trying to read engine setup data for packer
+DEBUG   |120404 07:39:06|Trying to include engine file engine.packer.jpa
+DEBUG   |120404 07:39:07|Instanciating JoomlapackPackerJPA
+DEBUG   |120404 07:39:07|Archive template name: site-[HOST]-[DATE]-[TIME]
+DEBUG   |120404 07:39:07|Expanded template name: site-www.onelife.in-20120404-123907
+DEBUG   |120404 07:39:07|Archive template name: site-[HOST]-[DATE]-[TIME]
+DEBUG   |120404 07:39:07|Expanded template name: site-www.onelife.in-20120404-123907
+DEBUG   |120404 07:39:07|Calculated archive absolute path: <root>/administrator/components/com_joomlapack/backup/site-www.onelife.in-20120404-123907.jpa
+DEBUG   |120404 07:39:07|Backup type is now set to 'full'
+DEBUG   |120404 07:39:07|Expanded archive file name: <root>/administrator/components/com_joomlapack/backup/site-www.onelife.in-20120404-123907.jpa
+DEBUG   |120404 07:39:07|Seeding archive with installer
+DEBUG   |120404 07:39:07|JoomlapackPackerJPA :: new instance - archive <root>/administrator/components/com_joomlapack/backup/site-www.onelife.in-20120404-123907.jpa
+DEBUG   |120404 07:39:07|JoomlapackPackerJPA :: Killing old archive
+DEBUG   |120404 07:39:07|Sleeping for 1733.38103294 msec, using usleep()
+DEBUG   |120404 07:39:08|Saving CUBEObject instance
+INFO    |120404 07:39:08|No CUBEObject storage file set; I will create a new one.
+INFO    |120404 07:39:08|Creating new CUBEObject storage file: /home/onelife/public_html/tmp/jp71m3r8
+DEBUG   |120404 07:39:09|JoomlapackCUBE::getInstance - Loading from database
+DEBUG   |120404 07:39:09| -- Loaded requirements
+DEBUG   |120404 07:39:09| -- Loaded instance
+DEBUG   |120404 07:39:09|JoomlapackCUBE::getInstance - Broken in database, creating new instance
+WARNING |120404 07:39:09|<br /> \n <b>Warning</b>:  file_put_contents() [<a href='function.file-put-contents'>function.file-put-contents</a>]: Only 0 of 2990 bytes written, possibly out of free disk space in <b><root>/administrator/components/com_joomlapack/classes/core/utility/tables.php</b> on line <b>279</b><br /> \n 
+DEBUG   |120404 07:39:09|Saving CUBEObject instance
+DEBUG   |120404 07:39:11|JoomlapackCUBE::getInstance - Loading from database
+DEBUG   |120404 07:39:11| -- Loaded requirements
+DEBUG   |120404 07:39:11| -- Loaded instance
+DEBUG   |120404 07:39:11|JoomlapackCUBE::getInstance - Broken in database, creating new instance
+WARNING |120404 07:39:11|<br /> \n <b>Warning</b>:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in <b><root>/administrator/components/com_joomlapack/classes/core/cube.php</b> on line <b>639</b><br /> \n <br /> \n <b>Warning</b>:  file_put_contents() [<a href='function.file-put-contents'>function.file-put-contents</a>]: Only 0 of 362 bytes written, possibly out of free disk space in <b><root>/administrator/components/com_joomlapack/classes/core/utility/tables.php</b> on line <b>279</b><br /> \n 
+DEBUG   |120404 07:39:11|Saving CUBEObject instance
+DEBUG   |120404 07:39:12|JoomlapackCUBE::getInstance - Loading from database
+DEBUG   |120404 07:39:12| -- Loaded requirements
+DEBUG   |120404 07:39:12| -- Loaded instance
+DEBUG   |120404 07:39:12|JoomlapackCUBE::getInstance - Broken in database, creating new instance
+WARNING |120404 07:39:12|<br /> \n <b>Warning</b>:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in <b><root>/administrator/components/com_joomlapack/classes/core/cube.php</b> on line <b>639</b><br /> \n <br /> \n <b>Warning</b>:  file_put_contents() [<a href='function.file-put-contents'>function.file-put-contents</a>]: Only 0 of 362 bytes written, possibly out of free disk space in <b><root>/administrator/components/com_joomlapack/classes/core/utility/tables.php</b> on line <b>279</b><br /> \n 
+DEBUG   |120404 07:39:12|Saving CUBEObject instance
+DEBUG   |120404 07:39:14|JoomlapackCUBE::getInstance - Loading from database
+DEBUG   |120404 07:39:14| -- Loaded requirements
+DEBUG   |120404 07:39:14| -- Loaded instance
+DEBUG   |120404 07:39:14|JoomlapackCUBE::getInstance - Broken in database, creating new instance
+WARNING |120404 07:39:14|<br /> \n <b>Warning</b>:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in <b><root>/administrator/components/com_joomlapack/classes/core/cube.php</b> on line <b>639</b><br /> \n <br /> \n <b>Warning</b>:  file_put_contents() [<a href='function.file-put-contents'>function.file-put-contents</a>]: Only 0 of 362 bytes written, possibly out of free disk space in <b><root>/administrator/components/com_joomlapack/classes/core/utility/tables.php</b> on line <b>279</b><br /> \n 
+DEBUG   |120404 07:39:14|Saving CUBEObject instance
+DEBUG   |120404 07:39:15|JoomlapackCUBE::getInstance - Loading from database
+DEBUG   |120404 07:39:15| -- Loaded requirements
+DEBUG   |120404 07:39:15| -- Loaded instance
+DEBUG   |120404 07:39:15|JoomlapackCUBE::getInstance - Broken in database, creating new instance
+WARNING |120404 07:39:15|<br /> \n <b>Warning</b>:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an a

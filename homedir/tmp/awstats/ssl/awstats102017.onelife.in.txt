@@ -1,0 +1,290 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201710 will be lost/reset.
+# Last config file used to build this data file was /home/onelife/tmp/awstats/ssl/awstats.onelife.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2672                
+POS_VISITOR 6748                
+POS_DAY 7362                
+POS_DOMAIN 3308                
+POS_LOGIN 3571                
+POS_ROBOT 3726                
+POS_WORMS 4014                
+POS_EMAILSENDER 4145                
+POS_EMAILRECEIVER 4288                
+POS_SESSION 7671                
+POS_SIDER 7850                
+POS_FILETYPES 4423                
+POS_DOWNLOADS 4568                
+POS_OS 4668                
+POS_BROWSER 4806                
+POS_SCREENSIZE 5010                
+POS_UNKNOWNREFERER 5084                
+POS_UNKNOWNREFERERBROWSER 5200                
+POS_ORIGIN 5311                
+POS_SEREFERRALS 5444                
+POS_PAGEREFS 5588                
+POS_SEARCHWORDS 5736                
+POS_KEYWORDS 5888                
+POS_MISC 2336                
+POS_ERRORS 5947                
+POS_CLUSTER 3427                
+POS_SIDER_404 6054                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171101003843 8 1527 17761271074512
+FirstTime 0
+LastTime 20171031030934
+LastUpdate 20171101110936 8 0 7 0 0
+TotalVisits 24                  
+TotalUnique 10                  
+MonthHostsKnown 7                   
+MonthHostsUnknown 3                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 4 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 0 7 19 29338
+1 1 1 0 14 28 183822
+2 1 1 0 6 8 271877
+3 1 1 4629 5 16 280266
+4 0 0 0 5 9 18845
+5 1 8 31844 1 8 157901
+6 3 17 31844 7 14 273833
+7 2 9 31844 15 20 41170
+8 1 1 0 3 8 11310
+9 1 1 0 7 7 22088
+10 2 2 4629 19 32 123222
+11 2 2 0 15 26 44132
+12 0 0 0 6 10 158345
+13 2 2 0 24 31 162961
+14 1 1 0 1 12 257769
+15 1 8 31844 11 19 51353
+16 1 1 0 4 7 23713
+17 0 0 0 5 9 45577
+18 2 2 9258 4 9 133296
+19 2 2 4629 11 13 12914
+20 1 1 0 13 17 30763
+21 0 0 0 7 10 27844
+22 1 1 0 2 7 129464
+23 1 1 0 8 16 29944
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+de 17 17 0
+us 8 22 54989
+in 2 16 63688
+ca 1 8 31844
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+bot[\s_+:,\.\;\/\\-] 234 2375061 20171031235236 53
+bingpreview 28 48934 20171031115745 0
+googlebot 5 1520 20171029230903 5
+netcraft 1 4629 20171011122825 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+jpg 20 11432 0 0
+gif 5 82804 0 0
+css 5 10564 0 0
+html 28 41661 0 0
+js 5 4060 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/SunilChoudhary.pdf 8 0 1014608
+/one.pdf 6 0 709158
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+linux 1 1
+Unknown 1 1
+win8.1 8 1
+macosx 3 3
+win7 25 18
+linuxandroid 25 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+chrome53.0.2785.146 17 3
+chrome57.0.2987.133 8 1
+Unknown 1 1
+chrome30.0.0.0 8 1
+chrome34.0.1847.137 1 1
+chrome61.0.3163.100 11 4
+chrome40.0.2214.85 17 17
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Magic_Browser 20171031030934
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Magic_Browser 20171031030934
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 28 28
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 35
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 75 0
+400 3 104
+401 5 84499
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 12
+/.well-known/ct/v1/sct-feedback 7 -
+/ct/v1/sct-feedback 7 -
+/.well-known/ct/v1/sct-gossip 7 -
+/recognition.htmlFrom 1 -
+/ct/v1/sct-gossip 7 -
+/ct/v1/sth-gossip 7 -
+/www.oracle.com 7 -
+/topleveldir/subdir/research-feedback 7 -
+/.well-known/apple-app-site-association 4 -
+/www.nucleussoftware.com 7 -
+/.well-known/ct/v1/collected-sct-feedback 7 -
+/.well-known/ct/v1/sth-pollination 7 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 10
+planetlab19.net.in.tum.de 10 10 0 20171013114625
+planetlab15.net.in.tum.de 7 7 0 20171005203626
+157.48.10.100 3 17 31844 20171010060848
+ec2-52-53-231-176.us-west-1.compute.amazonaws.com 2 2 9258 20171016183633
+ec2-54-219-178-100.us-west-1.compute.amazonaws.com 1 1 4629 20171021100433
+census8.shodan.io 1 1 4629 20171027190223
+47.9.14.185 1 8 31844 20171001154022
+180.179.139.65 1 8 31844 20171024074334
+38-112-109-203.static.youbroadband.in 1 8 31844 20171024051936
+ec2-35-162-70-167.us-west-2.compute.amazonaws.com 1 1 4629 20171031030934
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 13
+20171001 1 8 31844 1
+20171004 3 3 0 3
+20171005 10 10 0 8
+20171006 1 1 0 1
+20171010 3 17 31844 1
+20171012 1 1 0 1
+20171013 2 2 0 2
+20171014 1 1 4629 1
+20171016 1 1 4629 1
+20171021 1 1 4629 1
+20171024 2 16 63688 2
+20171027 1 1 4629 1
+20171031 1 1 4629 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+2mn-5mn 1
+0s-30s 21
+30mn-1h 1
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 28 41661 24 24
+END_SIDER

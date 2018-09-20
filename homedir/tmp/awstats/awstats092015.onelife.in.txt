@@ -1,0 +1,621 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201509 will be lost/reset.
+# Last config file used to build this data file was /home/onelife/tmp/awstats/awstats.onelife.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2684                
+POS_VISITOR 10363               
+POS_DAY 18273               
+POS_DOMAIN 3465                
+POS_LOGIN 4169                
+POS_ROBOT 4324                
+POS_WORMS 4892                
+POS_EMAILSENDER 5023                
+POS_EMAILRECEIVER 5166                
+POS_SESSION 18988               
+POS_SIDER 19179               
+POS_FILETYPES 5301                
+POS_DOWNLOADS 5513                
+POS_OS 5613                
+POS_BROWSER 5895                
+POS_SCREENSIZE 6750                
+POS_UNKNOWNREFERER 6824                
+POS_UNKNOWNREFERERBROWSER 7369                
+POS_ORIGIN 7589                
+POS_SEREFERRALS 7728                
+POS_PAGEREFS 7895                
+POS_SEARCHWORDS 8497                
+POS_KEYWORDS 8649                
+POS_MISC 2347                
+POS_ERRORS 8708                
+POS_CLUSTER 4025                
+POS_SIDER_404 8829                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20151001003023 51 9929 9592741246157
+FirstTime 20150901024508
+LastTime 20150930232727
+LastUpdate 20151001162824 51 0 50 0 0
+TotalVisits 141                 
+TotalUnique 126                 
+MonthHostsKnown 101                 
+MonthHostsUnknown 53                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 20 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 19 70699 47 60 126916
+1 2 9 27456 13 34 439401
+2 45 100 350683 18 34 87528
+3 6 20 68138 13 31 372561
+4 11 23 93410 16 28 299905
+5 1 2 13178 9 16 407434
+6 14 64 297436 21 38 214013
+7 12 73 260443 14 32 382403
+8 11 49 202363 19 40 105096
+9 27 79 289952 85 101 218667
+10 6 27 90639 19 29 189855
+11 9 24 100693 24 37 68492
+12 18 56 227794 29 40 76231
+13 7 28 95594 10 25 315749
+14 7 44 680580 31 42 142638
+15 8 50 168704 37 53 119934
+16 3 20 126924 12 22 45880
+17 10 39 129952 67 87 258803
+18 9 46 147129 21 44 317240
+19 1 8 27456 23 42 248786
+20 4 26 89931 67 85 345992
+21 6 21 66067 37 58 340983
+22 6 27 88320 60 82 337319
+23 15 29 120363 19 42 253734
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 37
+in 86 220 1471568
+us 57 88 378776
+br 36 269 913913
+hu 8 15 41344
+nl 6 13 42666
+ru 5 13 56400
+it 4 32 109824
+es 3 24 82368
+my 3 17 56896
+co 3 24 82368
+pt 2 11 31353
+jp 2 17 83945
+cn 2 2 3968
+fr 2 2 3968
+cz 2 9 29440
+de 2 2 0
+ne 1 3 3897
+ua 1 1 4629
+ph 1 10 38614
+mx 1 8 27456
+ma 1 8 27456
+id 1 9 37423
+hk 1 8 27456
+si 1 8 27456
+ie 1 8 27456
+st 1 8 27456
+fi 0 1 11520
+qa 1 8 27456
+cl 1 8 27456
+is 1 1 831
+ch 0 1 5579
+mu 1 8 27456
+vn 1 8 27456
+ca 0 2 11158
+zz 1 1 1984
+ar 1 8 27456
+ve 1 8 27456
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+bot[\s_+:,\.\;\/\\-] 579 2415710 20150930185933 159
+crawl 88 244902 20150928221157 4
+robot 75 875090 20150930224142 14
+spider 68 1352679 20150930074634 0
+googlebot 33 39342 20150930190640 9
+slurp 31 473645 20150928001915 13
+unknown 21 6384 20150930204154 21
+[\s_+:,\.\;\/\\-]bot 14 33238 20150927102634 6
+google[_+\s]web[_+\s]preview 8 27456 20150925030123 0
+bingpreview 7 25472 20150902234301 0
+no_user_agent 5 19090 20150930085633 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 98 157869 0 0
+png 7 11661 0 0
+php 58 149868 0 0
+html 174 448050 0 0
+js 98 95528 0 0
+jpg 339 1114540 0 0
+Unknown 9 93700 0 0
+gif 100 1762688 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/one.pdf 9 0 1063737
+/SunilChoudhary.pdf 6 0 760956
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+linuxsuse 1 1
+linuxandroid 19 3
+blackberry 2 2
+winlong 1 1
+winxp 9 6
+ios_iphone 24 7
+winphone 8 1
+win2003 2 1
+win8 16 2
+ios_ipad 9 2
+winnt 9 1
+linux 23 22
+win7 710 153
+macosx 4 4
+Unknown 41 32
+win8.1 3 2
+macosx8 2 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 43
+chrome44.0.2403.125 1 1
+msie6.0 3 3
+chrome45.0.2454.85 111 57
+chrome38.0.1025.166 1 0
+firefox4.0 1 1
+chrome19.0.1042.0 6 6
+msie8.0 23 13
+firefox2.0.0.9 2 2
+chrome45.0.2454.93 2 0
+chrome37.0.2062.120 4 4
+safari8.0 15 5
+wget 1 0
+msie9.0 1 0
+firefox27.0 1 0
+Unknown 20 19
+opera18.0.1284.49 8 1
+chrome30.0.0.0 1 0
+blackberry 2 2
+chrome45.0.2454.99 17 2
+safari8.0.8 4 4
+firefox40.0 11 2
+samsung 1 0
+firefox10.0.1 1 1
+safari6.0 9 2
+firefox30.0 2 2
+chrome28.0.1500.71 1 1
+chrome32.0.1700.107 96 12
+chrome44.0.2403.107 2 2
+msie11.0 12 3
+chrome36.0.1985.143 412 56
+safari9.0 9 2
+chrome18.0.1025.133 1 1
+chrome45.0.2454.101 16 2
+firefox1.0 1 1
+mozilla 20 13
+chrome44.0.2403.157 2 0
+chrome35.0.1916.153 33 5
+firefox14.0.1 8 8
+opera11.50 1 1
+firefox3.6.3 1 1
+chrome45.0.2454.84 16 2
+firefox36.0 3 3
+firefox3.6.8 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+SAMSUNG-GT-C3312/1.0_NetFront/4.2_Profile/MIDP-2.0_Configuration/CLDC-1.1 20150906142617
+Google_favicon 20150925030121
+Mozilla/5.0_PhantomJS_(compatible;_Seznam_screenshot-generator_2.1;__http://fulltext.sblog.cz/screenshot/_) 20150912155539
+nutch-1.4/Nutch-1.4 20150913224411
+MXT/Nutch-1.10 20150906050226
+ltx71_-_(http://ltx71.com/) 20150926103252
+Mozilla/5.0_(compatible;_Lipperhey-Kaus-Australis/5.0;__https://www.lipperhey.com/en/about/) 20150917230914
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Google_favicon 20150925030121
+nutch-1.4/Nutch-1.4 20150913224411
+MXT/Nutch-1.10 20150906050226
+ltx71_-_(http://ltx71.com/) 20150926103252
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 94 101
+From1 0 0
+From2 6 23
+From3 76 91
+From4 65 668
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 5 22
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 11
+http://success-seo.com/try.php 52 52
+http://buttons-for-website.com 14 14
+http://video--production.com 4 4
+http://pizza-imperia.com 1 1
+http://pizza-tycoon.com 1 1
+http://hvd-store.com 1 1
+http://justprofit.xyz 1 1
+http://burger-imperia.com 1 1
+http://marg/mwiki/index.php/%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF:Sunil 1 1
+http://laumasdi.misblogos.com/The-first-blog-b1-m2014006-15.htm 0 1
+http://translate.googleusercontent.com/translate_c 0 14
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 6 6834
+302 3 0
+404 138 158424
+301 6 2294
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 47
+/sitemap.xml 2 -
+/wordpress/ 2 -
+/apple-touch-icon.png 4 -
+/plugins/wp-login.php 2 -
+/admin.php 1 -
+/www.oracle.com 14 -
+/Resume_SunilChoudhary.rtf 2 -
+/_image/mine.gif 2 -
+/Resume_SunilChoudhary.txt 11 -
+/wp-login/ 2 -
+/wp-content/plugins/revslider/js/rev_admin.js 1 -
+/administrator/wp-login.php 2 -
+/wordpress/wp-login.php 2 -
+/templates/wp-login.php 2 -
+/wp-admin/admin-ajax.php 1 -
+/blog/ 1 -
+/license.txt 3 -
+/wp/ 1 -
+/cache/wp-login.php 2 -
+/images/wp-login.php 2 -
+/components/wp-login.php 2 -
+/xmlrpc.php 1 -
+/wp-admin/wp-login.php 2 -
+/admin/wp-login.php 2 -
+/www.nucleussoftware.com 14 -
+/wp/wp-login.php 2 -
+/Resume_SunilChoudhary.pdf 2 -
+/tmp/wp-login.php 2 -
+/section/wp-login.php 2 -
+/apple-touch-icon-precomposed.png 4 -
+/blog/robots.txt 1 -
+/installation/wp-login.php 2 -
+/modules/wp-login.php 2 -
+/magmi/web/magmi.php 1 -
+/cms/wp-login.php 2 -
+/wp-content/uploads/2015/08/info.php 1 http://onelife.in/wp-content/uploads/2015/08/info.php
+/www.codezoo.net 14 -
+/media/wp-login.php 2 -
+/administrator/ 1 -
+/blog/wp-login.php 2 -
+/language/wp-login.php 2 -
+/xmlrpc/wp-login.php 2 -
+/includes/wp-login.php 2 -
+/wp-login.php 7 -
+/apple-app-site-association 1 -
+/site/wp-login.php 2 -
+/libraries/wp-login.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 154
+210.212.154.186 65 119 444805 20150929074330
+spider-7.lipperhey.com 12 12 60822 20150917230915
+69.58.178.56 10 10 54116 20150912121229
+ec2-52-19-5-220.eu-west-1.compute.amazonaws.com 7 7 16911 20150906050226
+51b65507.dsl.pool.telekom.hu 6 6 11904 20150915172830
+abts-mp-dynamic-020.38.168.122.airtelbroadband.in 4 4 10803 20150925083124
+abts-mp-dynamic-238.40.168.122.airtelbroadband.in 4 4 10796 20150905112710
+google-proxy-64-233-173-177.google.com 3 5 7100 20150914070729
+182.74.57.178 2 16 54912 20150928070524
+46.229.170.197 2 2 9258 20150925033421
+ec2-54-209-56-214.compute-1.amazonaws.com 2 3 4216 20150926103252
+194.149.45.4 2 9 29440 20150903212313
+unknown6.189.204.74.defenderhosting.com 2 2 3972 20150921082842
+191-247-224-44.3g.claro.net.br 2 9 29440 20150915220824
+107.182.19.66 2 2 9258 20150928040557
+google-proxy-66-249-93-215.google.com 2 2 3968 20150922215128
+static.213-133-97-216.clients.your-server.de 2 2 0 20150921064135
+google-proxy-64-233-173-182.google.com 2 7 9133 20150911065500
+google-proxy-66-249-84-245.google.com 2 2 3968 20150922215120
+abts-mp-dynamic-048.37.168.122.airtelbroadband.in 2 9 30093 20150930123057
+relay1.tor.maximilian-jacobsen.com 1 1 1984 20150903033418
+ec2-52-0-89-236.compute-1.amazonaws.com 1 1 4629 20150924104039
+43.242.123.107 1 8 27456 20150917095345
+41.138.60.161 1 3 3897 20150929041336
+rate-limited-proxy-66-249-92-59.google.com 1 1 1984 20150924101024
+fl-71-51-162-149.dhcp.embarqhsd.net 0 1 5579 
+bl18-53-95.dsl.telepac.pt 1 3 3897 20150917180350
+117.248.186.119 0 1 29033 
+199.80.70.66 0 1 5579 
+179-192-123-122.user.veloxzone.com.br 1 8 27456 20150912131411
+google-proxy-66-249-85-230.google.com 1 1 1984 20150925030121
+201.56.123.242 1 8 27456 20150925110301
+79.108.116.123.dyn.user.ono.com 1 8 27456 20150906080433
+ec2-54-159-188-21.compute-1.amazonaws.com 1 1 4629 20150922130920
+190.253.29.46 1 8 27456 20150910170749
+177.40.163.229.static.host.gvt.net.br 1 8 27456 20150916074301
+dynamic-ip-cr1908230133.cable.net.co 1 8 27456 20150924174846
+victoria.static.gvt.net.br 1 8 27456 20150917091401
+194.197.48.141 0 1 11520 
+ns518193.ip-158-69-27.net 1 1 4629 20150908234959
+201-3-47-134.bsace705.dsl.brasiltelecom.net.br 1 8 27456 20150912145639
+82-169-249-194.ip.telfort.nl 1 8 27456 20150913072113
+189-10-74-99.les-go-a1k-01.dsl.brasiltelecom.net.br 1 8 27456 20150908161816
+200.192.252.146 1 8 27456 20150927191812
+abts-north-dynamic-107.121.64.182.airtelbroadband.in 0 1 5579 
+23.99.49.162 1 1 4629 20150917213303
+180.251.62.245 1 8 31844 20150929021329
+197.159.189.26 1 8 27456 20150920201512
+189-13-105-207.user.veloxzone.com.br 1 8 27456 20150918121002
+abts-mum-dynamic-165.25.70.182.airtelbroadband.in 1 8 27456 20150928013051
+dsl.49.149.79.222.pldt.net 0 1 5579 
+177-94-221-224.dsl.telesp.net.br 1 8 27456 20150911183734
+clientes.cmt.net.br 1 8 27456 20150924073430
+dynamicip-94-180-159-120.pppoe.kzn.ertelecom.ru 1 8 27456 20150911113318
+186-95-229-161.genericrev.cantv.net 1 8 27456 20150930232727
+96-93-107-189-static.hfc.comcastbusiness.net 0 1 5579 
+google-proxy-66-249-84-187.google.com 1 1 1984 20150908041121
+ridid116.vds 1 1 1984 20150911161644
+177.65.17.224 1 8 27456 20150918151243
+ec2-52-18-72-83.eu-west-1.compute.amazonaws.com 1 1 1984 20150905181258
+as28165-177-184-200-82.wcs.net.br 1 8 27456 20150921080518
+screenshotgenerator-77-75-77-174.seznam.cz 1 6 6037 20150912155538
+bfb9742b.virtua.com.br 1 8 27456 20150916164536
+120.95.62.188.dynamic.wline.res.cust.swisscom.ch 0 1 5579 
+59.97.208.250 0 1 20701 
+177-179-103-252.user.veloxzone.com.br 1 8 27456 20150907174415
+abts-tn-dynamic-118.42.164.122.airtelbroadband.in 1 8 27456 20150907023316
+106.77.50.218 0 1 533753 
+45.32.244.164.vultr.com 1 1 4629 20150914171831
+google-proxy-66-102-6-164.google.com 0 1 29033 
+179-236-8-101.user.veloxzone.com.br 1 8 27456 20150903230729
+cpe-76-85-182-3.neb.res.rr.com 0 1 5579 
+5.45.71.133 1 1 0 20150916012308
+msnbot-157-55-39-13.search.msn.com 0 1 574 
+static-202.154.99.14-tataidc.co.in 0 1 29033 
+static-ip-18614773244.cable.net.co 1 8 27456 20150923122901
+210.212.154.173 0 2 2070 
+triband-mum-120.63.50.147.mtnl.net.in 1 8 27456 20150924003432
+screenshotgenerator-77-75-77-200.seznam.cz 1 2 2702 20150912155536
+n058153004053.netvigator.com 1 8 27456 20150926005037
+104.45.233.190 1 1 1984 20150914171851
+b39a761f.virtua.com.br 1 8 27456 20150902151315
+36.84.70.202 0 1 5579 
+google-proxy-64-233-173-172.google.com 0 2 1913 
+google-proxy-66-102-9-48.google.com 1 1 1984 20150912131148
+62.212.73.49 1 1 1984 20150929113431
+109.78.203.226 1 8 27456 20150911155838
+189-10-89-45.e.pmjce700.brasiltelecom.net.br 1 8 27456 20150925101836
+113.210.128.249 1 1 1984 20150930064109
+google-proxy-66-102-9-26.google.com 1 1 1984 20150912131148
+103.231.45.122 0 1 29033 
+177-10-44-254.rev.dtctelecom.com.br 1 8 27456 20150912103648
+168.63.139.43 0 7 25472 
+117.199.29.223 0 1 29033 
+32.218.87.141 1 8 27456 20150918204735
+201-1-105-179.dsl.telesp.net.br 1 8 27456 20150906183908
+189-105-169-241.user.veloxzone.com.br 1 8 27456 20150918220035
+exitnode1.fr.alenan.org 1 1 1984 20150924171246
+175.141.168.251 1 8 27456 20150917075153
+ppp-201-59.31-151.wind.it 1 8 27456 20150909100640
+b3e9f7e5.virtua.com.br 1 1 1984 20150923183342
+44.198.78.125.broad.pt.fj.dynamic.163data.com.cn 1 1 1984 20150922171205
+net-2-34-67-173.cust.vodafonedsl.it 1 8 27456 20150920133205
+14.169.19.139 1 8 27456 20150902061442
+210.212.154.161 1 1 18715 20150910093539
+122.175.219.53 0 1 29033 
+ec2-52-22-74-21.compute-1.amazonaws.com 0 1 58870 
+183.171.164.133 1 8 27456 20150929125501
+187-94-149-084.sapea301.wss.visaonet.com.br 1 3 3897 20150929122949
+89-212-224-59.dynamic.t-2.net 1 8 27456 20150929091803
+93.102.8.111.rev.optimus.pt 1 8 27456 20150915123339
+ec2-52-69-141-253.ap-northeast-1.compute.amazonaws.com 1 1 4629 20150910024345
+202.153.34.185 1 8 27456 20150901024508
+host190.5.46.7.dynamic.pacificonet.cl 1 8 27456 20150904185623
+69.157.109.155 0 1 5579 
+179236227231.user.veloxzone.com.br 1 8 27456 20150910154049
+51.97-broadband.acttv.in 1 8 27456 20150909092800
+200-103-7-179.cbace702.dsl.brasiltelecom.net.br 1 8 27456 20150905154228
+179.181.76.87.dynamic.adsl.gvt.net.br 1 8 27456 20150924061417
+sol-fttb.216.155.118.46.sovam.net.ua 1 1 4629 20150914031814
+177-75-214-194.dynamic.starweb.net.br 1 8 27456 20150912181707
+82.221.105.64 1 1 831 20150926122333
+bd06bf70.virtua.com.br 1 8 27456 20150908204608
+117.199.31.178 1 8 27456 20150918071450
+abts-mp-dynamic-155.246.70.182.airtelbroadband.in 0 1 29033 
+relay-j.tor-exit.network 1 1 1984 20150903072726
+ip-176-193-153-191.bb.netbynet.ru 0 1 22992 
+201-87-233-124.doublenettelecom.com.br 1 8 27456 20150904061204
+91.232.70.213 1 1 1984 20150917205751
+201-25-89-178.pvoce701.dsl.brasiltelecom.net.br 1 8 27456 20150927181840
+93.49.96.227 1 8 27456 20150903020612
+politkovskaja.torservers.net 1 1 1984 20150902071430
+41.249.208.119 1 8 27456 20150915093206
+179.106.149.136 1 8 27456 20150908210701
+93-38-41-97.ip68.fastwebnet.it 1 8 27456 20150902042426
+181-26-214-212.speedy.com.ar 1 8 27456 20150928225237
+187.54.65.239 1 8 27456 20150922144149
+80.31.190.236 1 8 27456 20150901085158
+27.60.49.144 1 1 1984 20150909142511
+103.225.94.8 1 8 27456 20150923140218
+117.78.13.55 1 1 1984 20150913224411
+107.70.232.180.dsl.inet.as18190 0 1 5579 
+117.218.171.175 1 8 27456 20150923033009
+screenshotgenerator-77-75-77-123.seznam.cz 0 1 20701 
+197.224.139.186 1 8 27456 20150923132358
+188.72.127.160 1 1 1984 20150903060217
+gov.ab.ca 0 1 5579 
+97.2.222.87.dynamic.jazztel.es 1 8 27456 20150902035441
+37.211.123.177 1 8 27456 20150910061841
+189-71-79-131.user.veloxzone.com.br 1 8 27456 20150905082245
+200-97-100-105.user.veloxzone.com.br 1 8 27456 20150902093009
+112.210.58.144.pldt.net 1 8 27456 20150917081708
+dsl-201-138-117-80-dyn.prod-infinitum.com.mx 1 8 27456 20150911171821
+b3e99d32.virtua.com.br 1 8 27456 20150911144304
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20150901 2 16 54912 2
+20150902 6 41 139264 6
+20150903 7 31 130495 6
+20150904 3 18 85929 3
+20150905 7 23 119717 4
+20150906 9 26 663642 3
+20150907 44 85 288738 5
+20150908 6 28 114311 6
+20150909 3 26 93526 3
+20150910 29 76 285832 10
+20150911 10 48 178801 8
+20150912 18 54 202927 9
+20150913 4 11 33408 3
+20150914 7 12 81874 5
+20150915 6 28 93899 4
+20150916 3 18 60491 3
+20150917 19 49 181156 8
+20150918 5 41 166313 5
+20150920 2 16 54912 2
+20150921 4 12 37007 3
+20150922 5 14 49195 5
+20150923 6 42 168297 6
+20150924 7 35 118421 7
+20150925 9 23 74312 6
+20150926 3 11 30519 3
+20150927 2 16 54912 2
+20150928 4 25 86997 4
+20150929 7 40 124564 7
+20150930 4 18 59533 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+30s-2mn 2
+15mn-30mn 1
+2mn-5mn 2
+0s-30s 135
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 23
+/ 143 325370 131 130
+/_wiki/index.php 53 140581 2 0
+/recognition.html 6 16018 2 1
+/whatsnew.html 5 20589 0 1
+/_joomla/index.php 4 8588 0 2
+/resume.html 4 10614 1 2
+/project.html 3 15053 0 0
+/credit.html 3 16562 0 0
+/FAQ.html 3 13311 1 0
+/_wiki/ 2 6868 2 0
+/_wiki/index.php/Main_Page 2 19597 0 0
+/LearningCurve.html 2 9744 0 1
+/_wiki/index.php/Oracle_10g 1 6649 0 0
+/link.html 1 7821 0 0
+/ToDo.html 1 5269 0 0
+/_wiki/index.php/Hyderabad 1 18715 1 1
+/_wiki/opensearch_desc.php 1 699 0 0
+/_wiki/index.php/All_views_9i 1 19545 0 0
+/_wiki/index.php/Oracle_11g 1 8823 0 0
+/index.php/admin/ 1 831 1 1
+/_wiki/index.php/Delhi 1 11655 0 1
+/_wiki/index.php/Category:Database 1 4446 0 0
+/_wiki/index.php/Talk:Main_Page 1 4270 0 1
+END_SIDER

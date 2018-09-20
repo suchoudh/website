@@ -1,0 +1,1 @@
+CREATE USER "onelife" WITH PASSWORD E'md5c657bfa0d7dff2485eb4b18a9ca9d3ce';

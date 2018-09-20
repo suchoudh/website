@@ -1,0 +1,21 @@
+<map version="0.8.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1265185069624" ID="Freemind_Link_1641691125" MODIFIED="1265185253394" TEXT="Way2Update">
+<node CREATED="1265185073249" FOLDED="true" ID="_" MODIFIED="1265185083405" POSITION="right" TEXT="PSVillage group">
+<node CREATED="1265185095578" ID="Freemind_Link_853787549" MODIFIED="1265185101187" TEXT="check what people sugest"/>
+<node CREATED="1265185101562" ID="Freemind_Link_1811577498" MODIFIED="1265185107390" TEXT="the global microbrand"/>
+<node CREATED="1265185107718" ID="Freemind_Link_528828396" MODIFIED="1265185114719" TEXT="the indian who did it already "/>
+</node>
+<node CREATED="1265185118500" FOLDED="true" ID="Freemind_Link_165486527" MODIFIED="1265185134344" POSITION="right" TEXT="JOBSites">
+<node CREATED="1265185135516" ID="Freemind_Link_554493088" MODIFIED="1265185137750" TEXT="Naukri"/>
+<node CREATED="1265185138016" ID="Freemind_Link_1337049474" MODIFIED="1265185139766" TEXT="Monster"/>
+</node>
+<node CREATED="1265185184283" ID="Freemind_Link_829186364" MODIFIED="1265185199377" POSITION="right" TEXT="SElf Blog"/>
+<node CREATED="1265185199721" FOLDED="true" ID="Freemind_Link_1040495827" MODIFIED="1265185202565" POSITION="right" TEXT="Others Blog">
+<node CREATED="1265185207502" ID="Freemind_Link_1885361485" MODIFIED="1265185209409" TEXT="Oracle"/>
+<node CREATED="1265185209752" ID="Freemind_Link_63109783" MODIFIED="1265185211237" TEXT="Food"/>
+<node CREATED="1265185211565" ID="Freemind_Link_274845600" MODIFIED="1265185213034" TEXT="Art"/>
+<node CREATED="1265185213456" ID="Freemind_Link_152522264" MODIFIED="1265185221299" TEXT="Personal"/>
+</node>
+</node>
+</map>

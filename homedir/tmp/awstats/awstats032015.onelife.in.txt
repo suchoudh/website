@@ -1,0 +1,732 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201503 will be lost/reset.
+# Last config file used to build this data file was /home/onelife/tmp/awstats/awstats.onelife.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2672                
+POS_VISITOR 16250               
+POS_DAY 24562               
+POS_DOMAIN 3453                
+POS_LOGIN 4202                
+POS_ROBOT 4357                
+POS_WORMS 5037                
+POS_EMAILSENDER 5168                
+POS_EMAILRECEIVER 5311                
+POS_SESSION 25317               
+POS_SIDER 25475               
+POS_FILETYPES 5446                
+POS_DOWNLOADS 5603                
+POS_OS 5704                
+POS_BROWSER 5977                
+POS_SCREENSIZE 6828                
+POS_UNKNOWNREFERER 6902                
+POS_UNKNOWNREFERERBROWSER 7419                
+POS_ORIGIN 7636                
+POS_SEREFERRALS 7776                
+POS_PAGEREFS 7974                
+POS_SEARCHWORDS 8427                
+POS_KEYWORDS 8619                
+POS_MISC 2335                
+POS_ERRORS 8721                
+POS_CLUSTER 4058                
+POS_SIDER_404 8823                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150401015135 42 7071 10055085947443
+FirstTime 0
+LastTime 20150331125941
+LastUpdate 20150401082515 42 0 41 0 0
+TotalVisits 163                 
+TotalUnique 149                 
+MonthHostsKnown 96                  
+MonthHostsUnknown 71                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 13 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 21 64858 32 53 111386
+1 5 12 38037 65 138 179713
+2 2 9 29440 18 34 71164
+3 10 61 464679 11 26 174005
+4 1 8 27456 26 37 256147
+5 25 42 641987 73 92 251195
+6 7 9 30621 34 67 306912
+7 4 32 109824 42 56 120929
+8 10 48 180026 41 62 330817
+9 9 51 170688 22 33 52330
+10 20 41 122638 27 50 396717
+11 9 41 158868 38 70 218795
+12 17 48 190043 28 42 187549
+13 8 45 152187 32 51 266519
+14 16 44 170553 47 67 673472
+15 9 50 169349 9 33 569915
+16 4 19 64459 24 40 319991
+17 28 71 273449 47 73 877174
+18 8 24 80699 11 25 228908
+19 16 31 88930 29 55 956597
+20 23 44 131235 21 25 31506
+21 3 10 31424 21 33 112397
+22 7 28 97954 18 30 611809
+23 6 20 65336 15 22 162450
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 40
+de 61 61 148585
+us 60 113 936382
+br 29 222 748655
+nl 20 27 120446
+cn 19 36 71633
+in 9 69 344603
+kr 6 6 11904
+ru 5 7 18301
+ph 4 32 109824
+es 4 25 84352
+jp 3 11 69941
+pt 2 16 54912
+fr 2 2 3968
+hk 2 16 54912
+ca 2 19 67085
+il 1 8 27456
+ua 1 1 1984
+tr 1 8 27456
+cl 1 8 27456
+my 1 8 27456
+mx 1 8 27456
+sy 1 2 2558
+ro 1 8 27456
+bb 1 8 27456
+tn 1 8 27456
+au 1 8 27456
+ch 1 1 1984
+at 1 1 1984
+bg 1 8 27456
+it 1 8 27456
+dz 1 1 1984
+pk 1 9 252829
+pl 1 1 1984
+za 1 8 27456
+zz 1 1 1984
+ae 1 8 27456
+iq 1 8 27456
+sk 1 8 27456
+pe 1 9 28122
+lu 1 1 1984
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+bot[\s_+:,\.\;\/\\-] 541 4621206 20150331232541 111
+spider 126 1247945 20150331171143 0
+robot 103 612239 20150331174206 36
+googlebot 50 56899 20150331153129 18
+crawl 43 155757 20150331112619 3
+unknown 36 6304 20150330052943 36
+slurp 17 143369 20150331004710 5
+[\s_+:,\.\;\/\\-]bot 15 115459 20150331155230 0
+no_user_agent 8 36860 20150325055010 2
+google[_+\s]web[_+\s]preview 8 27456 20150322112133 0
+bingpreview 7 25472 20150306064015 0
+msnbot\-media 5 46613 20150331133005 0
+googlebot\-image 4 69882 20150329103913 0
+php 1 4629 20150305162857 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 77 103103 0 0
+html 253 682207 0 0
+jpg 309 1131854 0 0
+js 89 51527 0 0
+gif 81 1586049 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/one.pdf 13 0 1460640
+/SunilChoudhary.pdf 3 0 295976
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+blackberry 3 3
+linuxandroid 19 4
+winlong 3 3
+macosx6 1 1
+winxp 27 12
+ios_iphone 4 1
+winunknown 22 9
+win8 9 1
+macosx9 1 0
+ios_ipad 8 1
+java 2 1
+linux 23 16
+win7 570 107
+macosx 26 11
+Unknown 79 79
+win8.1 12 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 45
+msie6.0 15 8
+chrome40.0.2214.115 17 3
+firefox3.6 2 2
+android 1 0
+chrome40.0.2214.111 7 7
+firefox4.0 1 1
+chrome33.0.1750.18 1 0
+firefox31.0 2 2
+msie8.0 9 9
+firefox6.0.2 1 1
+chrome41.0.2272.101 18 3
+msie7.0 1 1
+chrome37.0.2062.120 7 7
+chrome41.0.2272.76 1 0
+chrome41.0.2272.89 3 3
+safari8.0 10 1
+msie9.0 1 0
+Unknown 4 3
+firefox11.0 1 0
+blackberry 3 3
+chrome40.0.2214.109 16 2
+chrome30.0.1599.105 1 1
+firefox30.0 1 0
+chrome14.0.803.0 1 1
+chrome32.0.1700.107 49 7
+msie11.0 8 1
+chrome36.0.1985.143 367 58
+chrome18.0.1025.133 1 1
+mozilla 77 77
+firefox1.0 1 1
+firefox25.0 1 1
+chrome35.0.1916.153 67 9
+firefox14.0.1 7 7
+msie10.0 3 1
+msie28.0 1 1
+firefox6.0 5 5
+chrome39.0.2171.99 1 0
+firefox3.6.12 2 2
+firefox3.6.3 2 2
+msie 6 6
+firefox36.0 1 0
+firefox8.0.1 5 0
+firefox3.6.8 3 2
+firefox35.0 11 3
+safari 67 11
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_PageAnalyzer/1.1;) 20150331060042
+Mozilla/5.0_(compatible;_SiteExplorer/1.0b;__http://siteexplorer.info/) 20150322192034
+Mozilla/5.0_(compatible;_MegaIndex.ru/2.0;__https://www.megaindex.ru/?tab=linkAnalyze) 20150325055015
+GoogleFriendConnect/1.0 20150319020013
+nutch-1.4/Nutch-1.4 20150306130919
+Mozilla/5.0_(compatible;_Lipperhey-Kaus-Australis/5.0;__https://www.lipperhey.com/en/about/) 20150327172204
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+GoogleFriendConnect/1.0 20150319020013
+nutch-1.4/Nutch-1.4 20150306130919
+Java/1.7.0_60-ea 20150310180246
+Java/1.7.0_09 20150331125944
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 146 153
+From1 1 8
+From2 22 28
+From3 79 79
+From4 5 541
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google 2 7
+baidu 13 13
+search 6 6
+bing 0 1
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+http://semalt.semalt.com/crawler.php 37 37
+http://buttons-for-website.com 23 23
+http://seoairport.com/site/recommended 5 5
+http://www.seoairport.com/site/recommended 4 4
+http://pizza-tycoon.de 3 3
+http://hvd-store.com 2 2
+http://hundejo.com 2 2
+http://specialdessous.com 2 2
+http://burger-imperia.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+sunilchoudhary+swebsite 13
+onelife.in 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+sunilchoudhary 13
+swebsite 13
+onelife.in 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 1 4629
+404 236 270928
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 146
+/backup/bigdump.php 1 -
+/admin.php 1 -
+/www.oracle.com 12 -
+/admin/bigdump.php 1 -
+/admin/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/bigdump.php 1 -
+/hybridauth/hybridauth/install.php 1 -
+/include/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/openemr-4.1.1/library/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/scripts/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/images/uploader/uploadify.css 1 -
+/webadmin/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/xmlrpc.php 1 -
+/auth/hybridauth/install.php 1 -
+/media/uploadify/uploadify.css 1 -
+/assets/plugins/tinymce212/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/shop/yandex_market/ 1 -
+/stats/libs/open-flash-chart/php-ofc-library/ofc_upload_image.php 1 -
+/hybridauth/install.php 1 -
+/app/webroot/js/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/assets/uploadify/uploadify.css 1 -
+/dump/bigdump/bigdump.php 1 -
+/administrator/ 1 -
+/admin/fck/editor/filemanager/connectors/uploadtest.html 1 -
+/scripts/uploadify/uploadify.css 1 -
+/fckeditor/editor/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/includes/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/wp-login.php 6 -
+/apps/uploadify/uploadify.css 1 -
+/includes/php-ofc-library/ofc_upload_image.php 1 -
+/wp/wp-admin/ 10 -
+/cms/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/sites/default/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/sites/all/libraries/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/filebrowser/uploadify/uploadify.css 1 -
+/Resume_SunilChoudhary.rtf 3 -
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/wp-login/ 2 -
+/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/assets/plugins/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/admin/js/uploadify/uploadify.css 1 -
+/public/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/wp-includes/js/tinymce/utils/mctabs.js 1 -
+/zenphoto/zp-core/plugins/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/blog/xmlrpc.php 1 -
+/admin/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/blog/wp-images/wpminilogo.png 1 -
+/js/jquery/uploadify/uploadify.css 1 -
+/media/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/plugins/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/js/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/manager/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/Resume_SunilChoudhary.pdf 2 -
+/includes/uploadify/uploadify.css 1 -
+/yml/yandex.php 1 -
+/administrator/index.php 2 -
+/backup/bigdump/bigdump.php 1 -
+/php-ofc-library/ofc_upload_image.php 1 -
+/scripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/admin_area/charts/ofc-library/ofc_upload_image.php 1 -
+/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/admin/FCKeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/www.codezoo.net 8 -
+/wordpress/wp-admin/ 5 -
+/dump/bigdump.php 1 -
+/includes/js/plugins/uploadify/uploadify.css 1 -
+/js/uploadify/uploadify.css 1 -
+/uploadify/uploadify.css 1 -
+/ofc-library/ofc_upload_image.php 1 -
+/public/cms/resources/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/uploadify/uploadify.css 1 -
+/admin/includes/uploadify/uploadify.css 1 -
+/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/js/uploader/uploadify.css 1 -
+/js/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/_image/mine.gif 1 -
+/forum/ 1 -
+/Resume_SunilChoudhary.txt 2 -
+/media/js/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/uploader/uploadify.css 1 -
+/scripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/scripts/uploadify/uploadify.css 1 -
+/media/js/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/wordpress/wp-login.php 2 -
+/wp-admin/ 7 -
+/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/upload/uploadify.css 1 -
+/tinybrowser/readme.txt 1 -
+/static/uploadify/uploadify.css 1 -
+/blog/wp-includes/js/tinymce/utils/mctabs.js 1 -
+/FCKeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/mod/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/wp-images/wpminilogo.png 1 -
+/editor/editor/filemanager/connectors/uploadtest.html 1 -
+/core/uploadify/uploadify.css 1 -
+/js/ofc2/php-ofc-library/ofc_upload_image.php 1 -
+/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/modules/fckeditor/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/piwik/libs/open-flash-chart/php-ofc-library/ofc_upload_image.php 1 -
+/_ee/_fslib/swfupload/Changelog.txt 1 -
+/blog/wp-admin/ 10 -
+/blog/wp-login.php 2 -
+/inc/js/uploadify/uploadify.css 1 -
+/market.php 1 -
+/admin/editor/editor/filemanager/connectors/uploadtest.html 1 -
+/js/jquery/plugins/uploadify/uploadify.css 1 -
+/site/wp-login.php 2 -
+/test/wp-admin/ 8 -
+/editor/filemanager/connectors/uploadtest.html 1 -
+/system/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/app/webroot/js/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/libs/open-flash-chart/php-ofc-library/ofc_upload_image.php 1 -
+/app/webroot/js/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/old/wp-admin/ 9 -
+/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/js/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/photogallery/zp-core/plugins/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/www.nucleussoftware.com 15 -
+/js/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/sites/all/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/wp/wp-login.php 2 -
+/media/filebrowser/uploadify/uploadify.css 1 -
+/bigdump/bigdump.php 1 -
+/photo/zp-core/plugins/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/core/model/phpthumb/fonts/readme.txt 1 -
+/admin/dump/bigdump.php 1 -
+/admin/js/uploader/uploadify.css 1 -
+/yml.php 1 -
+/includes/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/manage/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/admin/js/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/data/scripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/js/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/assets/plugins/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/sites/all/libraries/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/sites/all/modules/fckeditor/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/public/js/uploadify/uploadify.css 1 -
+/sqlite/main.php 1 -
+/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/lib/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/openemr/library/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/upload/yandex.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 167
+static.11.156.9.5.clients.your-server.de 51 51 120810 20150325055015
+85.17.225.247 17 17 86377 20150327172205
+69.58.178.57 10 10 54116 20150312142204
+162.221.183.189 8 8 37032 20150324125630
+208.43.252.203-static.reverse.softlayer.com 4 4 10630 20150322192034
+211.244.83.215 4 4 7936 20150328191502
+61.135.190.219 3 3 5952 20150330052842
+208.43.252.201-static.reverse.softlayer.com 3 3 6281 20150322192015
+182.74.57.178 2 16 54912 20150309033051
+nat-vlan550.las1.sco.cisco.com 2 2 9258 20150316063207
+cli-5b7e4c45.wholesale.adamo.es 2 9 29440 20150306124018
+138.91.226.72 2 2 9258 20150308060241
+138.91.230.7 2 2 9258 20150321233535
+ec2-54-243-53-148.compute-1.amazonaws.com 2 2 5404 20150319001725
+static.211.11.251.148.clients.your-server.de 2 2 9258 20150331060042
+cpe-167-114-162-202-dsl.montrealnetworx.com 2 2 3968 20150310165734
+210.212.154.186 2 10 65312 20150304030941
+static.34.77.251.148.clients.your-server.de 2 2 3968 20150324055753
+103.44.116.250 2 10 65312 20150322110119
+61.135.190.100 2 3 4542 20150323081613
+112.137.166.42 1 8 27456 20150316211940
+61.135.190.105 1 1 1984 20150321172435
+rerere.re 1 1 1984 20150327095736
+b1c2871e.virtua.com.br 1 8 27456 20150324142126
+google-proxy-64-233-172-245.google.com 1 1 1984 20150309000232
+1-38-23-92.live.vodafone.in 0 1 29033 
+201-69-227-43.dial-up.telesp.net.br 1 8 27456 20150330130326
+189-19-46-62.dsl.telesp.net.br 1 8 27456 20150319072621
+google-proxy-66-102-6-144.google.com 1 1 1984 20150319020013
+google-proxy-66-249-84-212.google.com 1 1 1984 20150322112131
+113.106.138.190 1 1 2064 20150303180447
+107.192.70.148 0 1 5579 
+187.122.66.251 1 8 27456 20150311145940
+177.0.49.135 1 8 27456 20150312111925
+189-19-117-67.dsl.telesp.net.br 1 8 27456 20150320094902
+197.27.53.98 1 8 27456 20150319113534
+177.134.60.100.dynamic.adsl.gvt.net.br 1 8 27456 20150312112654
+117.254.180.35 0 1 29033 
+177.19.66.136.static.host.gvt.net.br 1 8 27456 20150329203436
+static.213-133-97-216.clients.your-server.de 1 1 4629 20150316220750
+194.150.168.79 1 1 1984 20150331015002
+1-39-3-121.live.vodafone.in 1 8 27456 20150310031444
+fastnetwork.140.34.host.fastnetwork.com.br 1 8 27456 20150318141133
+a89-152-0-96.cpe.netcabo.pt 1 8 27456 20150310173922
+baiduspider-123-125-71-105.crawl.baidu.com 1 1 1984 20150307125157
+188.166.5.209 1 1 4629 20150314010447
+177.40.66.241.static.host.gvt.net.br 1 8 27456 20150317191726
+95.86.82.230 1 8 27456 20150319055832
+180.191.114.6 1 8 27456 20150306002628
+180.149.143.25 0 1 731 
+188-27-208-101.rdsnet.ro 1 8 27456 20150327082907
+1.186.229.235 1 8 27456 20150330232939
+192.234.235.103 0 1 5579 
+61.135.190.223 0 3 1722 
+111.206.36.132 0 1 20701 
+106.77.243.136 0 1 29033 
+vps3006.5gbps.com 1 1 1984 20150330212049
+41.160.33.91 1 8 27456 20150319090208
+61.135.190.221 1 1 1984 20150313185203
+91.230.110.5 1 1 3162 20150324172038
+static.114.113.4.46.clients.your-server.de 1 1 1984 20150317084120
+zscore.mit.edu 1 1 1984 20150327130937
+229.red-80-37-10.staticip.rima-tde.net 1 8 27456 20150321161549
+61.135.190.220 1 4 3706 20150324081536
+179.180.151.194.dynamic.adsl.gvt.net.br 1 8 27456 20150310122512
+c-75-65-94-3.hsd1.ms.comcast.net 1 8 27456 20150305175756
+177.11.223.113.vlc.net.br 1 8 27456 20150316092408
+177.6.242.105 1 8 27456 20150324160218
+85x113x55x152.static-customer.samara.ertelecom.ru 1 1 1984 20150314061527
+177-107-117-34.opcaonet.com.br 1 8 27456 20150307224727
+google-proxy-66-249-84-253.google.com 1 1 1984 20150327060200
+cpe-167-114-162-201-dsl.montrealnetworx.com 1 1 1984 20150309094521
+out-ab-129.wireless.telus.com 0 1 5579 
+google-proxy-66-249-84-200.google.com 1 1 1984 20150301225658
+google-proxy-66-249-82-219.google.com 0 1 533753 
+209.52.88.177 0 1 5579 
+62.201.217.131 1 8 27456 20150316104901
+65.48.218.162 1 8 27456 20150322093737
+205.233.39.2 0 1 5579 
+61.135.190.104 1 1 1984 20150318091315
+crbknf0209w-142162091150.pppoe-dynamic.high-speed.nl.bellaliant.net 1 8 27456 20150324200755
+61.135.190.102 1 2 2558 20150307061410
+209.88.90.186 1 8 27456 20150311151956
+123202173151.ctinets.com 1 8 27456 20150315032032
+exit1.telostor.ca 1 1 1984 20150327221105
+180.149.143.139 0 1 666 
+cpe-167-114-162-103-dsl.montrealnetworx.com 1 1 1984 20150302204830
+baiduspider-ad-61-135-186-40.crawl.baidu.com 0 1 718 
+31.9.50.38 1 2 2558 20150326193458
+61.135.190.224 1 3 3132 20150320173620
+206.63.55.177-globaltechnet.com.br.63.55.177.in-addr.arpa 1 8 27456 20150329155605
+200-141-46-187.user.veloxzone.com.br 1 8 27456 20150316094558
+viawebrs.net.br 1 1 1984 20150308193009
+cpe-121-215-48-202.lnse1.pie.bigpond.net.au 1 8 27456 20150307100521
+94.131.14.4 1 1 1984 20150308080303
+208.43.251.182-static.reverse.softlayer.com 1 1 1984 20150310225456
+207.102.138.3 1 9 28471 20150331125941
+180.76.4.171 1 1 4629 20150330190625
+121.54.54.143 1 8 27456 20150318070807
+h-213.61.149.100.host.de.colt.net 1 1 1984 20150327210618
+m822c36d0.tmodns.net 0 1 5579 
+191-247-226-3.3g.claro.net.br 1 3 3897 20150308171734
+129.red-88-6-117.staticip.rima-tde.net 1 8 27456 20150318082611
+125.60.156.209 1 8 27456 20150305030151
+180.149.143.17 0 1 743 
+181.64.245.229 1 9 28122 20150322174938
+178.32.5.32 1 1 1984 20150308121810
+211.244.83.248 1 1 1984 20150323203231
+c9156157.virtua.com.br 1 8 27456 20150319073317
+b1c1937f.virtua.com.br 1 8 27456 20150305131923
+static.4.86.76.144.clients.your-server.de 1 1 1984 20150307193945
+b1b50fee.virtua.com.br 1 8 27456 20150311174021
+73.193.219.169 1 8 27456 20150315192215
+201-79-209-221.user.veloxzone.com.br 1 8 27456 20150310145016
+46.229.170.197 1 1 4629 20150322083623
+baiduspider-123-125-71-121.crawl.baidu.com 1 1 1984 20150307115222
+18949073083.user.veloxzone.com.br 1 8 27456 20150311122643
+191-112-51-199.baf.movistar.cl 1 8 27456 20150303032004
+adsl-71-149-241-131.dsl.mtry01.sbcglobal.net 1 2 2558 20150307122818
+117.78.13.29 1 1 1984 20150306130919
+222.239.162.7 1 1 1984 20150301181439
+raa.informika.ru 1 1 4629 20150318202536
+google-proxy-66-102-6-133.google.com 1 1 1984 20150320053121
+177.40.133.204.static.host.gvt.net.br 1 9 28187 20150321173746
+39.41.161.167 1 8 27456 20150306135722
+static.130.43.76.144.clients.your-server.de 1 1 1984 20150316164333
+tor-exit.xshells.net 1 1 1984 20150326010521
+106.66.172.235 1 8 27456 20150308080226
+177.73.143.121 1 8 27456 20150315090830
+151.52.76.181 1 8 27456 20150331105129
+92.f5.344a.static.theplanet.com 1 1 4629 20150330144147
+cpe-167-114-162-106-dsl.montrealnetworx.com 1 1 1984 20150303013404
+ec2-52-11-109-203.us-west-2.compute.amazonaws.com 1 1 1984 20150310180246
+ec2-54-204-120-57.compute-1.amazonaws.com 1 1 4629 20150325122127
+bba520679.alshamil.net.ae 1 8 27456 20150328012027
+bl22-172-250.dsl.telepac.pt 1 8 27456 20150312153242
+182.182.76.117 0 1 225373 
+95-27-179-120.broadband.corbina.ru 1 3 3897 20150315113633
+197.202.90.116 1 1 1984 20150328193449
+chello213047217101.surfer.at 1 1 1984 20150314053841
+bbb5c08f.virtua.com.br 1 8 27456 20150309150457
+61.135.190.101 1 1 1984 20150331052820
+ip-86-110-226-29.primanet.sk 1 8 27456 20150330040227
+123202005207.ctinets.com 1 8 27456 20150315204828
+baiduspider-180-149-133-38.crawl.baidu.com 1 1 1984 20150307152624
+60.254.32.118 1 8 27456 20150327082056
+baiduspider-123-125-71-137.crawl.baidu.com 0 1 1339 
+103.244.29.178 1 8 27456 20150325220624
+191-198-30-99.user.vivozap.com.br 1 8 27456 20150318151452
+177-95-200-131.dsl.telesp.net.br 1 8 27456 20150321134630
+104.194.197.35 1 1 1984 20150326052242
+c925934a.virtua.com.br 1 8 27456 20150301185250
+ec2-54-80-143-253.compute-1.amazonaws.com 1 1 4629 20150324031414
+95.10.57.90.dynamic.ttnet.com.tr 1 8 27456 20150308072224
+abts-mum-dynamic-111.17.70.182.airtelbroadband.in 1 8 27456 20150304020657
+host-24-100-8-179.newwavecomm.net 1 7 26725 20150323232841
+177.10.174.189 1 9 28187 20150326135431
+c-75-70-220-103.hsd1.co.comcast.net 1 7 26882 20150321224222
+199.96.121.62 1 8 27456 20150314051653
+95-42-98-40.btc-net.bg 1 8 27456 20150323085146
+c-65-34-138-252.hsd1.fl.comcast.net 1 1 1984 20150311234358
+spftor1e1.privacyfoundation.ch 1 1 1984 20150326143334
+212.165.108.172 1 8 27456 20150326181258
+h182.109.31.71.dynamic.ip.windstream.net 1 8 27456 20150321033031
+150-70-173-40.trendmicro.com 1 1 4629 20150305175907
+61.135.190.103 1 2 2558 20150305001343
+ec2-54-174-73-114.compute-1.amazonaws.com 1 1 1984 20150319152455
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20150301 3 10 31424 3
+20150302 1 1 1984 1
+20150303 5 20 61518 5
+20150304 3 19 98347 2
+20150305 5 28 95134 5
+20150306 6 27 90965 5
+20150307 8 31 98441 8
+20150308 9 25 76003 9
+20150309 5 19 60864 5
+20150310 7 35 115776 7
+20150311 5 33 111808 5
+20150312 30 51 176754 5
+20150313 2 2 3968 2
+20150314 5 13 38611 5
+20150315 5 35 113721 5
+20150316 8 37 131274 7
+20150317 3 10 31424 3
+20150318 7 38 686786 7
+20150319 10 46 149210 9
+20150320 20 29 101301 4
+20150321 8 44 149253 8
+20150322 13 36 144414 7
+20150323 4 20 313129 4
+20150324 15 38 137312 8
+20150325 19 26 72355 3
+20150326 6 22 64153 6
+20150327 24 38 151209 8
+20150328 3 10 31424 3
+20150329 2 16 54912 2
+20150330 7 29 96168 7
+20150331 5 21 65098 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 162
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 16
+/ 176 431179 159 152
+/project.html 8 29628 1 2
+/credit.html 7 29210 1 1
+/link.html 6 29322 0 1
+/recognition.html 6 16018 0 1
+/resume.html 6 13930 0 0
+/FAQ.html 6 21018 0 1
+/whatsnew.html 6 23226 1 0
+/project_perl.html 5 12551 1 1
+/LearningCurve.html 5 16668 0 1
+/career.html 4 8400 0 3
+/ToDo.html 4 12406 0 0
+/artwork.html 4 11602 0 0
+/oracle11iEbusiness_Suite.html 4 12439 0 0
+/oracle9i_application_server.html 3 6351 0 0
+/Bad_decisions_in_Liips.html 3 8259 0 0
+END_SIDER

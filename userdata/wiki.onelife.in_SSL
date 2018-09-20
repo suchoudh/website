@@ -1,0 +1,15 @@
+--- 
+documentroot: /home/onelife/public_html/wiki
+group: onelife
+homedir: /home/onelife
+ip: 69.73.181.211
+owner: sgdnet1
+phpopenbasedirprotect: 1
+port: 443
+serveradmin: webmaster@wiki.onelife.in
+serveralias: www.wiki.onelife.in
+servername: wiki.onelife.in
+ssl: 1
+usecanonicalname: 'Off'
+user: onelife
+userdirprotect: ''

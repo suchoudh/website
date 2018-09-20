@@ -1,0 +1,606 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201007 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2540                
+POS_VISITOR 10923               
+POS_DAY 16682               
+POS_DOMAIN 3362                
+POS_LOGIN 3925                
+POS_ROBOT 4080                
+POS_WORMS 4641                
+POS_EMAILSENDER 4772                
+POS_EMAILRECEIVER 4915                
+POS_SESSION 17495               
+POS_SIDER 17706               
+POS_FILETYPES 5050                
+POS_OS 5267                
+POS_BROWSER 5443                
+POS_SCREENSIZE 5799                
+POS_UNKNOWNREFERER 5873                
+POS_UNKNOWNREFERERBROWSER 6898                
+POS_ORIGIN 7322                
+POS_SEREFERRALS 7465                
+POS_PAGEREFS 7643                
+POS_SEARCHWORDS 8831                
+POS_KEYWORDS 9364                
+POS_MISC 2203                
+POS_ERRORS 9745                
+POS_CLUSTER 3781                
+POS_SIDER_404 9873                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20100801000212 28 5091 32604805596
+FirstTime 20100701010600
+LastTime 20100731222039
+LastUpdate 20100801071833 28 0 27 0 0
+TotalVisits 374                 
+TotalUnique 121                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 156                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 10 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 89 207 714270 33 34 47949
+1 166 260 1143088 61 66 371742
+2 98 175 680405 27 29 40294
+3 129 306 1501328 75 83 273566
+4 70 130 645849 30 32 49484
+5 220 413 1387770 74 77 613379
+6 346 573 2822632 79 85 70992
+7 182 237 1138633 58 64 99780
+8 113 131 696145 68 70 383027
+9 139 330 1243257 96 96 246535
+10 56 187 339598 28 30 34420
+11 38 75 597258 9 12 41377
+12 44 68 177564 41 43 207989
+13 26 54 341326 40 40 230297
+14 45 325 779752 34 34 142557
+15 75 209 1265677 72 77 71331
+16 4 23 64500 40 43 113743
+17 15 21 69197 18 18 47073
+18 0 24 22992 37 40 193624
+19 9 134 36052 19 19 66572
+20 5 10 187737 27 29 181779
+21 19 41 1094933 16 19 648703
+22 15 40 61577 20 22 33442
+23 42 97 3002339 28 34 165683
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 25
+in 1624 3607 12595964
+us 186 256 3964532
+cn 97 97 449013
+gb 8 25 286501
+nl 8 8 40742
+lu 8 8 40742
+ru 5 8 50535
+ae 3 3 354579
+ua 2 4 12676
+kr 1 3 30262
+mx 1 13 879792
+pk 1 8 31844
+mk 1 13 879792
+rs 0 1 22992
+jp 0 1 22992
+eg 0 1 22992
+ph 0 1 22992
+my 0 2 52025
+fr 0 1 22992
+ro 0 1 22992
+sa 0 1 22992
+id 0 5 114960
+vn 0 1 22992
+ca 0 1 22992
+de 0 1 22992
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+bot[+:,\.\;\/\\-] 188 845632 20100731173304 55
+crawl 98 363157 20100730162644 29
+spider 94 362970 20100731094249 17
+robot 84 372616 20100730151331 56
+slurp 81 315095 20100731161428 26
+msnbot 75 148852 20100731003255 42
+googlebot 71 145771 20100731071151 28
+msnbot\-media 21 887437 20100722084058 9
+unknown 10 3040 20100727033722 10
+jeeves 6 128363 20100726220431 3
+myweb 1 4629 20100701044350 0
+netcraft 1 4629 20100710062949 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 440 854926 0 0
+png 634 235363 0 0
+pdf 13 1426949 0 0
+htm 2 0 0 0
+php 1559 6792889 0 0
+html 371 1788166 0 0
+js 396 1260320 0 0
+jpg 277 7104690 0 0
+gif 378 550576 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 13
+winlong 42
+winxp 2000
+win2000 2
+winnt 1
+linuxubuntu 8
+linux 3
+winme 1
+macosx 1279
+win16 4
+winunknown 2
+win2003 5
+Unknown 698
+win2008 25
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 24
+firefox3.6.7 1
+msie6.0 807
+firefox3.6 1
+chrome 895
+opera 3
+msie999.1 1
+firefox3.6.6 33
+firefox3.6.2 14
+msie5.5 1
+firefox3.5.10 1
+msie8.0 55
+firefox2.0.0.11 2
+mozilla 467
+firefox1.0 1
+msie7.0 177
+netscape4.0 1
+firefox3.5.9 8
+firefox3.6.3 98
+wget 10
+msie5.0 1
+msie 1
+Unknown 220
+safari 1243
+firefox3.6.8 29
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Mozilla/5.0_(compatible;_ScoutJet;__http://www.scoutjet.com/) 20100726094403
+Mozilla/5.0_(en-us)_AppleWebKit/525.13_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Version/3.1_Safari/525.13 20100720083037
+Nokia6303iclassic/5.0_(06.61)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20100720083057
+Opera/9.80_(J2ME/MIDP;_Opera_Mini/5.0.17443/19.872;_U;_en)_Presto/2.5.25 20100723083830
+Apple-PubSub/65.19 20100729230430
+page_test_larbin2.6.3@unspecified.mail 20100711033552
+Mozilla/4.0 20100708043909
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_feed-id=12026835929238005562) 20100731215214
+Mozilla/4.0_(compatible;) 20100731170925
+Wget/1.9_cvs-stable_(Red_Hat_modified) 20100726160225
+Opera/9.80_(J2ME/MIDP;_Opera_Mini/5.0.18635/19.836;_U;_id)_Presto/2.5.25 20100719052036
+BlackBerry8520/5.0.0.592_Profile/MIDP-2.1_Configuration/CLDC-1.1_VendorID/603 20100715070809
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_feed-id=12026835929238005562) 20100731215214
+Apple-PubSub/65.19 20100729230430
+page_test_larbin2.6.3@unspecified.mail 20100711033552
+Yandex/1.01.001_(compatible;_Win16;_H) 20100705225317
+BlackBerry8520/5.0.0.592_Profile/MIDP-2.1_Configuration/CLDC-1.1_VendorID/603 20100715070809
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 514 962
+From1 0 1
+From2 29 46
+From3 6 34
+From4 1396 3027
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 26 43
+yandex 1 1
+yahoo 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 19
+http://www.linkedin.com/profile 2 2
+http://www.oracleappshub.com/account-payable/quick-notes-%e2%80%98procure-2-pay%e2%80%99-cycle/ 2 2
+http://blogs.timesofindia.indiatimes.com/bugs-eye-view/entry/pass-me-the-railways 1 1
+http://in.linkedin.com/in/suchoudh 1 1
+http://picsdigger.com/keyword/rj45%20wiring%20diagram/ 0 1
+http://jonisha-jeetendra.freeliveblog.eu/100409/ 0 1
+http://ignazio.tezz.co.uk/towerhamlets/blog_sg/ 0 1
+http://abhisyanta-netana.bestspacelog.in/100409/ 0 2
+http://adeana-ignacius.hostsuperarea.in/100615/ 0 3
+http://picsdigger.com/domain/13.rs/ 0 1
+http://127.0.0.1:4664/preview 0 5
+http://picsdigger.com/keyword/leticia%20cline%20howard%20stern/ 0 1
+http://baldassare-jonie.blogblogfirst.in/100409/ 0 1
+http://abhijata-octavian.besthostfree.in/100409/ 0 1
+http://aaqila-tzurishadai.getfreeblog.in/100409/ 0 1
+http://webcache.googleusercontent.com/search 0 2
+http://picsdigger.com/keyword/ktm%20525%20supermoto/ 0 1
+http://aditya-benedikte.blogblogfirst.in/100409/ 0 1
+http://leticia-dakota.yourjournal.in/100625/ 0 6
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 11
+oracle+dba+resume+filetype+pdf 2
+sunil+choudhary 2
+onelife 1
+%d1%f3%ef%e5%f0+%ed%ee%e2%ee%e3%ee%e4%ed%e5%e5+%ef%f0%e5%e4%eb%ee%e6%e5%ed%e8%e5 1
+choudhary+site 1
+sunil+choudhary+onelife 1
+http+//www.onelife.in/ 1
+filetype+pdf+~+resume+and+apps+dba+and+india 1
+oracle+11i+forms+listener+servlet+issues 1
+neil+gogte+genesis+oracle+applications 1
+igate+oracle+apps+technical+resume 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 29
+oracle 5
+choudhary 4
+resume 4
+filetype 3
+sunil 3
+pdf 3
+dba 3
+onelife 2
+apps 2
+and 2
+issues 1
+india 1
+servlet 1
+forms 1
+technical 1
+~ 1
+gogte 1
+%ef%f0%e5%e4%eb%ee%e6%e5%ed%e8%e5 1
+genesis 1
+neil 1
+http 1
+11i 1
+applications 1
+%ed%ee%e2%ee%e3%ee%e4%ed%e5%e5 1
+igate 1
+//www.onelife.in/ 1
+listener 1
+site 1
+%d1%f3%ef%e5%f0 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 191 3820
+206 10 757028
+301 85 16818
+404 80 15481
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 17
+/forums/themes/english/resources/style.css 3 http://www.onelife.in/_joomla/plugins/editors/tinymce/jscripts/tiny_mce/blank.htm
+/forums/themes/english/resources/otn_new.css 1 http://www.onelife.in/_joomla/plugins/editors/tinymce/jscripts/tiny_mce/blank.htm
+//PHPMYADMIN/main.php 1 -
+/www.oracle.com 10 -
+/Resume_SunilChoudhary.rtf 8 -
+/Resume_SunilChoudhary.txt 6 -
+/_image/mine.gif 1 -
+//phpmyadmin/main.php 1 -
+/_wki 1 -
+/forums/style/style.jsp 4 http://www.onelife.in/_joomla/plugins/editors/tinymce/jscripts/tiny_mce/blank.htm
+/www.nucleussoftware.com 11 -
+/_wiki/index.php 4 -
+/valid-xhtml10.png 10 http://www.onelife.in/artwork.html
+//dbadmin/main.php 1 -
+/Resume_SunilChoudhary.pdf 7 -
+/www.codezoo.net 10 -
+//phpMyAdmin/main.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 156
+123.242.248.130 702 1221 4062710 20100726144139
+219.64.201.89 548 1558 3541047 20100723042954
+122.168.200.144 151 291 895961 20100726014937
+72.14.194.17 38 38 175902 20100731071607
+122.168.187.172 34 97 162741 20100708034146
+122.168.166.33 33 73 408712 20100728080128
+122.168.31.121 25 86 178753 20100702054626
+72.14.192.67 21 21 97209 20100728122852
+123.125.67.161 17 17 78693 20100714084015
+123.125.67.159 17 17 78693 20100715230231
+38.99.97.230 16 16 82846 20100726094403
+74.125.16.2 16 16 74064 20100730234123
+122.168.206.194 16 16 50735 20100730014403
+123.125.67.158 16 16 74064 20100714170546
+123.125.67.157 15 15 69435 20100715083950
+123.125.67.156 12 12 55548 20100715164000
+123.125.67.160 11 11 50919 20100715071944
+122.168.203.212 11 11 34414 20100729073214
+208.80.193.121 10 10 46290 20100726074533
+122.168.254.113 9 9 28382 20100726135813
+122.168.205.233 8 8 25367 20100728123341
+122.168.239.123 8 8 25366 20100724041751
+122.168.50.43 8 8 25365 20100727025138
+91.214.45.223 8 8 40742 20100731002427
+213.5.70.184 8 8 40742 20100730230316
+183.78.184.250 1 1 118193 20100726042714
+122.169.132.73 4 12 203329 20100714094325
+122.167.127.160 1 8 31844 20100725232425
+59.97.233.43 1 4 67749 20100731101347
+195.3.157.254 1 1 3649 20100716194433
+122.168.211.135 6 32 45078 20100702055550
+189.200.10.172 1 13 879792 20100713154205
+208.80.193.34 2 2 9258 20100716195930
+208.80.194.30 2 2 9258 20100731164543
+41.235.216.58 0 1 22992 
+194.44.168.55 1 3 9027 20100708122422
+74.133.31.62 1 8 31844 20100705064531
+122.163.51.219 2 10 72854 20100724032918
+86.161.210.6 3 11 76503 20100729093817
+86.96.228.93 1 1 118193 20100724014420
+89.216.81.165 0 1 22992 
+195.229.236.215 1 1 118193 20100727115616
+110.226.84.32 0 1 29033 
+208.80.193.27 3 3 13887 20100722084140
+66.58.136.210 1 13 879792 20100706215552
+74.125.154.82 1 1 4629 20100724033412
+98.71.186.88 0 1 22992 
+74.222.3.186 1 1 4629 20100711033552
+94.96.135.101 0 1 22992 
+86.21.74.112 4 11 159057 20100719131529
+95.25.46.102 1 3 9027 20100718025011
+208.80.193.29 2 2 9258 20100709230125
+122.168.105.195 5 5 15073 20100726095339
+123.125.67.228 2 2 9258 20100727074723
+61.247.209.81 0 1 2641 
+208.80.193.38 4 4 18516 20100727222913
+98.242.151.26 0 1 22992 
+208.80.193.42 4 4 18516 20100727164313
+208.80.193.30 5 5 23145 20100725040410
+123.125.67.229 3 3 13887 20100727094856
+209.85.226.83 1 1 4629 20100726120243
+110.55.81.217 0 1 22992 
+208.80.194.34 1 1 4629 20100731222039
+64.56.68.210 1 2 5644 20100727033724
+211.233.79.178 1 1 4629 20100701133730
+123.125.67.226 1 1 4629 20100727085120
+222.254.190.253 0 1 22992 
+71.251.167.176 0 1 22992 
+66.249.85.1 1 1 4629 20100716071058
+207.46.12.120 1 1 118193 20100708233358
+207.46.12.14 1 3 8658 20100705203640
+74.125.75.1 6 6 27774 20100731215214
+74.125.74.130 0 1 29033 
+209.85.228.80 1 1 4629 20100726232036
+64.255.180.223 0 1 22992 
+122.168.141.141 7 18 110129 20100726045211
+118.101.210.132 0 1 22992 
+70.36.101.58 3 3 16806 20100712211104
+77.29.198.226 1 13 879792 20100728064008
+64.56.66.178 7 7 34474 20100726160225
+75.23.60.194 0 1 22992 
+116.71.188.209 1 8 31844 20100711130807
+208.80.193.37 1 1 4629 20100704002451
+108.9.43.115 1 13 879792 20100728230150
+206.53.152.83 0 1 22992 
+95.108.142.138 4 4 18516 20100705225317
+74.125.154.84 1 1 4629 20100725073850
+122.168.25.177 1 1 3014 20100727032140
+122.168.254.133 7 7 13050 20100708123032
+122.169.130.64 3 10 153686 20100712210747
+60.50.107.133 0 1 29033 
+74.125.154.87 2 2 9258 20100727073834
+59.93.87.40 1 1 118193 20100709203702
+92.30.134.189 0 1 22992 
+180.214.243.65 0 1 22992 
+122.168.155.49 4 4 12056 20100726034946
+74.52.245.146 1 1 4629 20100724024453
+72.14.212.83 2 2 9258 20100724012426
+74.125.154.81 2 2 9258 20100719012412
+110.136.221.214 0 1 22992 
+122.167.226.115 2 10 72854 20100727111959
+203.191.35.22 0 3 0 
+90.42.141.247 0 1 22992 
+72.185.104.46 1 13 879792 20100728230337
+59.90.212.59 1 8 31844 20100731025809
+117.254.182.213 1 13 879792 20100714233937
+98.129.136.186 1 1 4037 20100728092631
+208.80.193.35 5 5 23145 20100723171611
+74.222.5.146 1 2 5644 20100703054043
+119.172.149.163 0 1 22992 
+85.92.222.254 1 1 4957 20100708043909
+209.85.228.83 1 1 4629 20100727063636
+208.80.194.36 1 1 4629 20100730084034
+208.80.193.43 1 1 4629 20100706224503
+122.169.214.51 2 2 236386 20100714015600
+122.168.107.16 1 1 3014 20100728083130
+175.100.175.178 1 8 31844 20100727053713
+121.241.235.68 1 8 31844 20100702051709
+81.178.200.248 0 1 22992 
+117.197.165.165 0 1 533753 
+208.80.193.40 2 2 9258 20100724213338
+220.227.91.195 1 8 31844 20100701034254
+161.162.4.21 0 1 22992 
+122.167.178.215 1 8 31844 20100729135615
+123.125.67.224 1 1 4629 20100726121446
+62.224.227.63 0 1 22992 
+74.222.7.234 1 2 5644 20100721200209
+58.248.216.37 1 1 4629 20100719142355
+207.46.204.210 1 3 8613 20100730074210
+66.249.82.66 1 1 4629 20100705115553
+208.80.194.29 2 2 9258 20100730142319
+115.178.50.10 0 1 22992 
+122.168.181.225 1 1 3015 20100726102348
+124.123.91.28 0 2 3656 
+122.168.51.166 1 1 3014 20100724064800
+74.222.3.106 1 2 5644 20100716233618
+59.182.17.119 1 8 31844 20100719003205
+74.125.154.83 1 1 4629 20100714002608
+123.125.67.225 1 1 4629 20100727081614
+125.163.112.171 0 1 22992 
+122.168.230.84 7 7 22353 20100724061758
+64.255.164.24 0 1 22992 
+195.229.237.37 1 1 118193 20100727115619
+208.80.193.39 3 3 13887 20100723113343
+72.14.212.86 1 1 4629 20100716065334
+122.168.182.190 2 5 40763 20100727030924
+218.248.64.239 0 1 58870 
+122.176.202.126 2 5 40763 20100714053945
+65.113.40.1 1 9 63549 20100726054237
+178.49.12.138 0 1 22992 
+110.138.178.108 0 1 22992 
+120.60.129.192 2 3 37107 20100716151129
+59.95.128.232 1 4 36726 20100719110259
+122.36.55.5 0 1 22992 
+92.84.221.46 0 1 22992 
+24.8.34.217 1 4 67749 20100722030650
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20100701 31 47 178942 9
+20100702 55 167 395692 14
+20100703 75 345 445244 5
+20100704 17 32 51043 3
+20100705 18 59 141781 15
+20100706 67 390 1847682 26
+20100707 24 35 90087 15
+20100708 88 155 585512 20
+20100709 267 285 1878991 15
+20100711 7 29 82610 7
+20100712 30 44 322943 26
+20100713 23 35 981630 22
+20100714 106 202 1878844 26
+20100715 156 307 809534 20
+20100716 67 123 372156 12
+20100717 2 5 32250 2
+20100718 13 139 598090 6
+20100719 132 190 1004450 13
+20100720 87 129 496386 12
+20100721 202 405 1048767 5
+20100722 95 199 616638 7
+20100723 20 34 224391 5
+20100724 23 31 260296 9
+20100725 153 301 960269 9
+20100726 48 74 489921 19
+20100727 34 62 525407 18
+20100728 42 139 3077130 11
+20100729 28 47 257020 7
+20100730 20 32 173701 8
+20100731 15 28 186472 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 18
+5mn-15mn 9
+0s-30s 301
+30s-2mn 11
+2mn-5mn 8
+15mn-30mn 11
+30mn-1h 16
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 19
+/_wiki/index.php 1527 6375306 54 61
+/ 288 1319265 274 263
+/_joomla/index.php 30 416857 0 3
+/recognition.html 13 52481 6 5
+/one.pdf 12 1300123 10 12
+/_wiki/ 12 40173 6 0
+/artwork.html 11 54527 11 9
+/project.html 9 54621 0 4
+/resume.html 8 25543 2 2
+/_joomla/ 7 108382 3 0
+/FAQ.html 7 37597 2 2
+/credit.html 6 40200 4 4
+/whatsnew.html 5 31695 0 2
+/career.html 2 6960 0 0
+/_joomla/plugins/editors/tinymce/jscripts/tiny_mce/blank.htm 2 0 1 2
+/_wiki/opensearch_desc.php 2 726 0 1
+/Bad_decisions_in_Liips.html 2 11720 0 2
+/SunilChoudhary.pdf 1 126826 0 1
+/oracle11iEbusiness_Suite.html 1 5002 1 1
+END_SIDER

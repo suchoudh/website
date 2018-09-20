@@ -1,0 +1,1 @@
+a:3:{s:3:"url";s:35:"http://blogs.oracle.com/stevenChan/";s:8:"feed_url";s:59:"http://feeds.feedburner.com/OracleE-BusinessSuiteTechnology";s:5:"build";i:20070719221955;}

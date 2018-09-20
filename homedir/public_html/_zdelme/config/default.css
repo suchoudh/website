@@ -1,0 +1,847 @@
+/* ------------------------------------------------------------------------
+    Default CSS styles for all common browsers
+    Brothers in art
+    http://www.brothersinart.net
+-------------------------------------------------------------------------*/
+
+/*  BODY AND PAGE CONTAINERS
+-------------------------------------------------------------------------*/
+
+body        { background: #606078;font-family: Arial, Verdana, sans-serif;font-size: 12px;line-height: 18px;color: #111111;}
+body.popup  { background-color:#7B819A;}
+#container  { position: relative;background: url(http://images.gfxartist.com/gfx/cont_bg.gif) repeat-y;width: 977px; padding:0px;margin: 0px auto 0px auto;background-color: #7B819A;}
+#main       { float:left;width: 728px;margin: 4px 0 0 9px;}
+#side       { float: right;width: 214px;margin: 4px 14px 0 0;}
+#copyright  { font-family: Tahoma, Arial, sans-serif;font-size: 11px;line-height: normal;text-align: center;}
+#footer     { position: relative;background: url(http://images.gfxartist.com/gfx/cont_end.gif) no-repeat;width: 977px;height: 13px;margin: 0px auto 0px auto;}
+
+/*  GENERAL STYLES
+-------------------------------------------------------------------------*/
+
+A           { color: #46455C;text-decoration:none;}
+A:hover     { color: #FFF;text-decoration:none;}
+.clear      { clear:both; height: 1px; overflow:hidden;}
+.note       { font-family: Tahoma, Arial, sans-serif;font-size: 11px;color: #646985;margin-top: 10px;}
+
+/*  TABLE STYLES
+-----------------------*/
+
+TABLE       { border: 0px;}
+TABLE TH    { background: #606078;font-family: Arial, Verdana, sans-serif;font-size: 12px;line-height: 18px;font-weight: bold;background-color: #8890B2;padding: 3px 0 2px 5px;background: url(http://images.gfxartist.com/gfx/th_bg.gif) repeat-x;}
+
+.editartwork TABLE TD, .forum TABLE TD, .gallery TABLE.header TD {
+  padding: 3px;
+  background-color: #A7ADC8;
+}
+
+/*  HEADER STYLES
+-----------------------*/
+
+H1 {
+  font-family: "Arial Narrow", Arial, sans-serif;
+  font-size: 21px;
+  line-height: normal;
+  font-weight: normal;
+  margin: 0 0 1px 0;
+  color: #46455C;
+}
+.generalnewsitem H1 {
+  font-size: 27px;
+}
+H2 {
+  font-family: "Arial Narrow", Arial, sans-serif;
+  font-size: 21px;
+  line-height: normal;
+  font-weight: normal;
+  margin: 0 0 1px 0;
+  color: #46455C;
+  border-bottom: 1px solid #46455C;
+}
+H3 {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: normal;  
+  font-weight: bold;
+  margin: 0px;
+}
+H4 {
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 11px;
+  line-height: 18px;  
+  font-weight: normal;
+  margin: 0px;
+}
+.sitesearch H4 {
+  margin-top: 3px;
+}
+H5 {
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 11px;
+  line-height: 18px;  
+  font-weight: bold;
+  margin: 6px 0 2px 0;
+  background: url(http://images.gfxartist.com/gfx/news_line.gif) no-repeat 0 17px;
+}
+
+/*  BUTTON BASE STYLES
+-----------------------*/
+
+.label {
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 11px;
+  text-align: center;
+  display: block;
+  white-space: nowrap;
+  margin: 4px 5px 0 0;
+}
+.button, .buttonDark {
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 11px;
+  float: left;
+  text-align: center;
+  display: block;
+  white-space: nowrap;
+  margin: 0 5px 0 0;
+}
+.button A, .buttonDark A {
+  display: block; 
+  color: #46455C;
+  height: 20px;
+  padding: 3px 4px 0 4px;
+}
+.button A:hover, .buttonDark A:hover {
+  color: #FFF;
+}
+.button {
+  background: url(http://images.gfxartist.com/gfx/but_bg_winoption.gif) no-repeat right;
+}
+.button A {
+  background: url(http://images.gfxartist.com/gfx/but_side_winoption.gif) no-repeat left;
+}
+.buttonDark {
+  background: url(http://images.gfxartist.com/gfx/but_bg_winoption_dark.gif) no-repeat right;
+}
+.buttonDark A {
+  background: url(http://images.gfxartist.com/gfx/but_side_winoption_dark.gif) no-repeat left;
+}
+
+.adminonly {
+background-color: orange;
+text-align: center;
+color: white;
+font-weight: bold;
+}
+
+/*  FORM STYLES
+-----------------------*/
+
+form {
+  margin: 0px;
+  padding: 0px;
+  display: inline;
+}
+.form_input,.form_select, SELECT, .form_button, .form_txtarea {
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  line-height: normal;
+  color: #111111;
+  text-align: left;
+  background: url(http://images.gfxartist.com/gfx/input_bg.gif) repeat-x;
+  background-color: #8990B0;
+  border: 1px solid #495271;
+  vertical-align:middle;
+  margin: 1px 5px 0 0;
+}
+.form_input {
+  padding: 2px 0 0 2px;
+  height: 16px;
+}
+.form_select, SELECT {
+  height: 19px;
+}
+.form_upload {
+  background-color: #8990B0;
+  border: 1px solid #495271;
+}
+.form_button {
+  padding: 0 4px 0 4px;
+  background: url(http://images.gfxartist.com/gfx/button_bg.gif) repeat-x;
+  height: 20px;
+  text-align: center;
+}
+.form_txtarea {
+  font-size: 12px;
+  line-height: 18px;
+  padding: 1px;
+  background: url(http://images.gfxartist.com/gfx/input_bg.gif) repeat-x;
+  background-color: #8990B0;
+  margin: 0;
+}
+.form_checkbox {
+  margin: 0 3px 4px 4px;
+  vertical-align:middle;
+}
+
+/*  AD STYLES (?)
+-----------------------*/
+
+.adHeadline {
+  font-size:8pt;
+  font-weight:bold;
+}
+.adText {
+  font-size:8pt;
+  font-weight:normal;
+  text-decoration:none;
+}
+
+/*  IMAGE STYLES
+-------------------------------------------------------------------------*/
+
+IMG {
+  border: 0px;
+}
+IMG.icon {
+  border: 0px;
+  vertical-align: middle;
+  margin-bottom: 2px;
+}
+#copyright IMG.icon {
+  border: 0px;
+  vertical-align: middle;
+  margin-bottom: 3px;
+}
+IMG.smallthumb {
+  width: 64px;
+  height: 64px;
+  border: 1px solid #495271;
+}
+IMG.medthumb {
+  width: 200px;
+  height: 150px;
+  border: 1px solid #495271;
+}
+#logo IMG {
+  border: 0px;
+}
+.fullArtwork {
+  text-align:center;
+  width: 716px;
+  overflow:hidden;
+}
+/*  MEMBERBAR
+-------------------------------------------------------------------------*/
+
+#memberbar {
+  position: relative;
+  background: url(http://images.gfxartist.com/gfx/memberbar.gif) no-repeat;
+  background-color: #7C84A7;
+  font-size: 11px;
+  width: 957px;
+  height: 36px;
+  margin: 0px auto 0px auto;
+  padding: 8px 10px 0 10px;
+}
+#memberbar .form_input, #memberbar .form_button, #memberbar .form_checkbox {
+  margin-bottom: 3px;
+}
+#memberbar IMG {
+  border: 0px;
+  vertical-align: middle;
+  margin-bottom: 2px;
+}
+#memberbar UL {
+  height: 22px;
+  margin: 0px;
+  padding: 4px 0;
+}
+#memberbar LI {
+  display: inline;
+  margin: 0px;
+}
+#memberbar LI A {
+  color: #000;
+  padding: 6px;
+}
+#memberbar LI A:hover {
+  background: url(http://images.gfxartist.com/gfx/member_navhover.gif) repeat-x;
+  color: #FFF;
+}
+#memberbar .nav {
+  font-size: 11px;
+  float: left;
+  width: 651px;
+  height: 31px;
+}
+#memberbar .beats {
+  float: left;
+  width: 75px;
+  height: 24px;
+  padding: 5px 0 0 0;
+}
+#memberbar .beats .button {
+  margin: -2px;
+  background: url(http://images.gfxartist.com/gfx/but_bg_clock.gif) no-repeat right;
+}
+#memberbar .beats .button A {
+  background: url(http://images.gfxartist.com/gfx/but_side_clock.gif) no-repeat left;
+  padding: 4px 7px 0 7px;
+  color: #000;
+}
+#memberbar .stats {
+  float: right;
+  width: 222px;
+  height: 31px;
+  text-align: center;
+}
+#memberbar .stats LI A {
+  color: #000;
+  padding: 6px 3px 6px 1px;
+}
+#memberbar .stats LI A:hover {
+  color: #FFF;
+  background: none;
+}
+
+/*  LOGIN STYLES
+-----------------------*/
+
+.login, .pass {
+  display:inline;
+  width: 80px;
+}
+.login .form_input,.pass .form_input {
+  width: 80px;
+}
+.login .form_input {
+  background: url(http://images.gfxartist.com/gfx/input_member_bg.gif) repeat-x;
+}
+.pass .form_input {
+  background: url(http://images.gfxartist.com/gfx/input_pass_bg.gif) repeat-x;
+}
+
+/*  STATUSBAR
+-------------------------------------------------------------------------*/
+
+#statusbar {
+  display: table-cell;
+  width:702px;
+  height: 66px;
+  padding: 13px;
+  background: url(http://images.gfxartist.com/gfx/status_bg.gif) no-repeat;
+  text-align:center;
+  vertical-align: middle;
+  margin-bottom: 11px;
+}
+
+/*  NAVIGATION
+-------------------------------------------------------------------------*/
+
+#navigation {
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 11px;
+  line-height: normal;
+}
+#navigation A {
+  color: #000;
+}
+#navigation A:HOVER {
+  color: #FFF;
+}
+/*  WINDOWS
+-------------------------------------------------------------------------*/
+
+.window {
+  position: relative;
+  width: 100%;
+}
+.window .bookmark {
+  position: absolute;
+  z-index: 500;
+  top: 2px;
+  left: 615px;
+  width: 110px;
+  height: 17px;
+}
+.window .bookmark img {
+  border: none;
+}
+.window .top, .window .sidetop {
+  background: url(../core_image/win_main_topbg.gif) repeat-x;
+  background-color: #7981A4;
+  font-weight: bold;
+  font: 11px/normal Tahoma, Arial, sans-serif;
+  font-weight: bold;
+  color: #FFF;
+  width: 100%;
+  height: 20px;
+  line-height: 20px;
+  overflow:hidden;
+}
+.window .top .header, .window .sidetop .header {
+  text-shadow: #606881 1px 2px 3px;
+}
+.window .sidetop {
+  background: url(../core_image/win_side_topbg.gif) repeat-x;
+  background-color: #7981A4;
+}
+.window .topleft {
+  float:left;
+  vertical-align: middle;
+  margin-bottom: 3px;
+}
+.window .topright {
+  float:right;
+  vertical-align: middle;
+}
+.window .body, .window .sidebody {
+  background: #A2A8C3;
+  border-right: 1px solid #444B66;
+  border-left: 1px solid #444B66;
+  padding: 4px 6px 1px 6px;
+}
+.window .sidebody {
+  font: 11px/17px Tahoma, Arial, sans-serif;
+}
+.window .bottom, .window .sidebottom {
+  background: url(../core_image/win_main_botbg.gif) repeat-x;
+  width: 100%;
+  height: 20px;
+  overflow:hidden;
+}
+.window .sidebottom {
+  background: url(../core_image/win_side_botbg.gif) repeat-x;
+  #background-color: #3981A4;
+  overflow:hidden;
+}
+.window .botleft {
+  float:left;
+  vertical-align: middle;
+  margin-bottom: 3px;
+}
+.window .botright {
+  float:right;
+  vertical-align: middle;
+}
+
+/*  AD WINDOW
+-----------------------*/
+
+.ad         { margin-bottom: 11px;}
+
+/*  WINDOW LINK BAR
+-----------------------*/
+
+.winoption, .winoptionsmall, .winoptionCenter, .winform, .winformCenter  {
+  font: 11px/normal Tahoma, Arial, sans-serif;
+  text-align: left;
+  padding: 4px 0 4px 8px;
+  -moz-border-radius: 5px; /* mozilla only */
+}
+.winoption, .winoptionsmall, .winoptionCenter {
+  background-color: #989FBD;
+  border: 1px solid #9298B8;
+  height: 20px;
+}
+.winoptionCenter,.winoptionsmall, .winformCenter {
+  text-align: center;
+}
+.winoptionCenter {
+  padding: 4px 0 4px 0;
+  overflow:hidden;
+}
+.winoptionsmall {
+  padding: 3px 5px 5px 5px;
+  height: 10px;
+  margin-top: 5px;
+}
+.winform, .winformCenter {
+  background-color: #9097B8;
+  border: 1px solid #8289AA;
+  height: 30px;
+  margin-bottom: 5px;
+}
+
+/* ----------------------------------------------------------------------
+
+    PAGE/TEMPLATE SPECIFIC STYLES AND ADJUSTMENTS
+
+-------------------------------------------------------------------------*/
+
+/*  COMMENT/REVIEW TABS
+-------------------------------------------------------------------------*/
+
+.dynamic-tab-pane-control.tab-pane {
+	position:	relative;
+	width:		100%;		/* width needed weird IE bug */
+	margin-right:	-2px;	/* to make room for the shadow */
+	margin-top: 15px;
+}
+
+.dynamic-tab-pane-control .tab-row .tab {
+	width:				168px;
+	height:				26px;
+	background-image:	url( "http://images.gfxartist.com/gfx/tab.gif" );
+	position:		relative;
+	top:			0;
+	display:		inline;
+	float:			left;
+	overflow:		hidden;
+	cursor:			Default;
+	margin:			1px -1px 1px 2px;
+	padding:		6px 0px 0px 0px;
+	border:			0;
+	z-index:		1;
+	font:			16px Arial, Helvetica;
+	font-weight: bold;
+	white-space:	nowrap;
+	text-align:		center;
+}
+.dynamic-tab-pane-control .tab-row .tab.selected {
+	width:				168px !important;
+	height:				27px !important;
+	background-image:	url( "http://images.gfxartist.com/gfx/tab_active.gif" ) !important;
+	background-repeat:	no-repeat;
+
+	border-bottom-width:	0;
+	z-index:		3;
+	padding:		8px 0 0px 0;
+	margin:			1px -3px -3px 0px;
+	top:			-2px;
+	font:				16px Arial, Helvetica;
+	font-weight: bold;
+}
+
+.dynamic-tab-pane-control .tab-row .tab a {
+	font:				16px Arial, Helvetica;
+	font-weight: bold;
+	color: #BEC3D9;
+	text-decoration:	none;
+	cursor:				default;
+}
+
+.dynamic-tab-pane-control .tab-row .tab.selected a {
+	color: #FFFFFF;
+}
+
+.dynamic-tab-pane-control .tab-row .tab.hover {
+	font:				16px Arial, Helvetica;
+	font-weight: bold;
+	width:				168px;
+	height:				26px;
+}
+.dynamic-tab-pane-control .tab-page {
+	clear:			both;
+	z-index:		2;
+	position:		relative;
+	top:			-2px;
+}
+.dynamic-tab-pane-control .tab-row {
+	z-index:		1;
+	white-space:	nowrap;
+	background:	url( "http://images.gfxartist.com/gfx/tab_bg.gif" ) repeat-x 0px -5px;
+	height: 45px;
+	padding-left: 10px;
+}
+
+/*  COMMENTS
+-------------------------------------------------------------------------*/
+
+.newcomment .form_txtarea {
+  width: 445px;
+}
+.comments td {
+  padding: 4px;
+  border: 1px solid #7A83A2;
+  -moz-border-radius: 5px; /* mozilla only */
+}
+/*
+.comments td.cmnt-read {
+  padding: 4px;
+  border: 1px solid #7A83A2;
+  background-color: #9BA1BC;
+  color: #323648;
+  -moz-border-radius: 5px;
+}
+.comments td.cmnt-read:hover {
+  padding: 4px;
+  border: 1px solid #7A83A2;
+  background-color: #A2A8C3;
+  color: #111111;
+  -moz-border-radius: 5px;
+}
+*/
+.comments td.user {
+  background: url(http://images.gfxartist.com/gfx/comment_bg.gif) repeat-x;
+  background-color: #949BBD;
+}
+.comments td.user IMG.avatar {
+  float:right;
+}
+.comments .seperator {
+  margin: 5px 0 4px -5px;
+}
+.comments .commentText {
+  float:left;
+  width: 445px;
+  overflow:hidden;
+}
+.comments .rating {
+  width: 16px;
+  height: 16px;
+  float: right;
+  border: 1px solid #7A83A2;
+  background-color: #949BBD;
+  padding: 2px;
+  margin: -5px 0px 5px 5px;
+}
+.comments td .reviewText {
+	margin-bottom: 20px;
+}
+
+/*  ARTWORK ITEM
+-------------------------------------------------------------------------*/
+
+.artworkitem TD {
+  padding: 4px 8px 8px 8px;
+  background-color: #949BBD;
+  border: 1px solid #7A83A2;
+  -moz-border-radius: 5px; /* mozilla only */
+}
+.artworkitem TD.score {
+  background: url(http://images.gfxartist.com/gfx/artwork_opt1_bg.gif) repeat-x;
+  background-color: #939BBC;
+}
+.artworkitem TD.vote {
+  background: url(http://images.gfxartist.com/gfx/artwork_opt2_bg.gif) repeat-x;
+  background-color: #969EBE;
+}
+.artworkitem TD.options {
+  background: url(http://images.gfxartist.com/gfx/artwork_opt3_bg.gif) repeat-x;
+  background-color: #9BA2C0;
+}
+.artworkitem .description {
+  padding: 0 10px 0 10px;
+}
+/*  GENERAL NEWS
+-------------------------------------------------------------------------*/
+
+/*  HEADLINES
+-----------------------*/
+
+.headlines IMG.smallthumb, .generalnewsarchive IMG.smallthumb {
+  margin: 4px 8px 0 5px;
+  float: left;
+  clear: left;
+}
+.headlines .options, .generalnewsarchive .options{
+  margin: 5px 0 0 80px;
+  height: 40px;
+}
+.headlines .options .button, .generalnewsarchive .options .button {
+  background: url(http://images.gfxartist.com/gfx/but_bg_fade.gif) no-repeat right;
+}
+.headlines .options .button A, .generalnewsarchive .options .button A {
+  background: url(http://images.gfxartist.com/gfx/but_side_fade.gif) no-repeat left;
+}
+.headlines .winoption .button, .headlines .label{
+  float:right;
+}
+
+/*  GENERAL NEWS ITEM
+-----------------------*/
+.generalnewsitem TD {
+  padding: 4px;
+  border: 1px solid #7A83A2;
+  -moz-border-radius: 5px; /* mozilla only */
+}
+.generalnewsitem TD.thumb {
+  background: url(http://images.gfxartist.com/gfx/comment_bg.gif) repeat-x;
+  background-color: #949BBD;
+}
+.generalnewsitem .thumb {
+  background: url(http://images.gfxartist.com/gfx/comment_bg.gif) repeat-x;
+  background-color: #949BBD;
+  text-align: center;
+  padding: 4px;
+  border: 1px solid #7A83A2;
+  -moz-border-radius: 5px; /* mozilla only */
+}
+
+/*  MORE HEADLINES
+-----------------------*/
+
+.moreheadlines TD {
+  height: 21px;
+}
+.moreheadlines .label{
+  float:right;
+}
+.moreheadlines .winoption{
+  text-align:right;
+}
+.moreheadlines .winoption .button, .moreheadlines .winoption .buttonDark{
+  float:right;
+}
+/*  RECENT TOPICS
+-----------------------*/
+
+.moreforumtopics TD {
+  height: 21px;
+}
+.moreforumtopics .label{
+  float:right;
+}
+.moreforumtopics .winoption .button{
+  float:right;
+}
+.latestart .winoption .button, .latestart .label{
+  float:right;
+}
+
+/*  GALLERIES
+-------------------------------------------------------------------------*/
+
+/*  GALLERY
+-----------------------*/
+
+.gallery .medthumb {
+  margin: 4px 8px 5px 6px;
+  float:left;
+}
+.gallery .smallthumb {
+  margin: 4px 8px 22px 6px;
+  float:left;
+}
+.gallery .options .button {
+  background: url(http://images.gfxartist.com/gfx/but_bg_fade.gif) no-repeat right;
+}
+.gallery .options .button A {
+  background: url(http://images.gfxartist.com/gfx/but_side_fade.gif) no-repeat left;
+}
+.gallery .winoption, .listnew .winoption{
+  text-align:right;
+}
+.gallery .winoption .button, .gallery .winoption .label, .listnew .winoption .button, .listnew .winoption .label{
+  float:right;
+}
+/*  LIST
+-----------------------*/
+
+.artlist IMG.medthumb {
+  margin: 4px 8px 10px 5px;
+  float: left;
+  clear: left;
+}
+.artlist H2 {
+  margin-top: 3px;
+}
+.artlist .options{
+  margin: 5px 0 0 0px;
+  height: 30px;
+}
+.artlist .options .button {
+  background: url(http://images.gfxartist.com/gfx/but_bg_fade.gif) no-repeat right;
+}
+.artlist .options .button A {
+  background: url(http://images.gfxartist.com/gfx/but_side_fade.gif) no-repeat left;
+}
+.listnew .smallthumb{
+  float:left;
+  margin: 4px 8px 0 5px;
+}
+
+/*  MORE SAYWHAT
+-------------------------------------------------------------------------*/
+
+.moresaywhat .label{
+  float:right;
+}
+.moresaywhat .winoption .buttonDark{
+  float:right;
+}
+
+/*  PIC OF THE DAY
+-------------------------------------------------------------------------*/
+
+.potd .label{
+  float:right;
+}
+.potd .winoption .button{
+  float:right;
+}
+
+/*  SIDE WINDOWS
+-------------------------------------------------------------------------*/
+
+/*  REGULAR LINK BAR
+-----------------------*/
+
+.sidebody .winoption {
+  margin-top: 5px;
+}
+.sidebody .button {
+  float: left;
+  margin: 0 2px 0 0;
+}
+.sidebody .button A {
+  font: 11px/normal Tahoma, Arial, sans-serif;
+  display: block; 
+  color: #46455C;
+  text-decoration: none;
+  height: 20px;
+  padding: 3px 1px 0 1px;
+}
+.sidebody .button A:hover{
+  color: #FFF;
+  text-decoration: none;
+}
+
+/*  LATEST ELITE WORK
+-----------------------*/
+
+.win_latestelite .sidebody {
+  text-align: center;
+}
+.win_latestelite .sidebody .medthumb {
+  border-left: 0px;
+  border-right: 0px;
+}
+
+/*  LATEST MEMBER WORK
+-----------------------*/
+
+.win_latestmember .sidebody {
+  text-align: center;
+}
+.win_latestmember .sidebody .medthumb {
+  border-left: 0px;
+  border-right: 0px;
+}
+
+/*  SAYWHAT
+-----------------------*/
+
+.win_saywhat .buttonDark {
+  float: right;
+  margin:0px;
+}
+.win_saywhat .form_input {
+  margin: 1px 0px 0 0;
+}
+.win_saywhat FORM {
+  margin-top: 4px;
+}
+/*  AFFILIATES
+-----------------------*/
+
+.win_affiliates .sidebody {
+  text-align: center;
+}
+
+.win_onlinemembers TD{
+  height: 16px;
+  line-height: normal;
+}
+
+

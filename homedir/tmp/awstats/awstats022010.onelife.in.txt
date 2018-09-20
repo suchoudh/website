@@ -1,0 +1,742 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201002 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2543                
+POS_VISITOR 24929               
+POS_DAY 29597               
+POS_DOMAIN 3351                
+POS_LOGIN 3803                
+POS_ROBOT 3958                
+POS_WORMS 4485                
+POS_EMAILSENDER 4616                
+POS_EMAILRECEIVER 4759                
+POS_SESSION 30322               
+POS_SIDER 30530               
+POS_FILETYPES 4894                
+POS_OS 5155                
+POS_BROWSER 5329                
+POS_SCREENSIZE 5629                
+POS_UNKNOWNREFERER 5703                
+POS_UNKNOWNREFERERBROWSER 6085                
+POS_ORIGIN 6483                
+POS_SEREFERRALS 6627                
+POS_PAGEREFS 6813                
+POS_SEARCHWORDS 7251                
+POS_KEYWORDS 7694                
+POS_MISC 2206                
+POS_ERRORS 8018                
+POS_CLUSTER 3659                
+POS_SIDER_404 8168                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20100301014632 44 7855 18056662405797
+FirstTime 20100201010529
+LastTime 20100228195928
+LastUpdate 20100304003941 44 0 43 0 0
+TotalVisits 266                 
+TotalUnique 114                 
+MonthHostsKnown 1                   
+MonthHostsUnknown 118                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 13 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 44 93 520797 19 20 16004
+1 68 291 1741346 41 53 188543
+2 25 129 492418 27 54 78680
+3 15 96 271638 31 31 33607
+4 63 98 880414 51 54 17465
+5 43 150 1415057 34 153 291207
+6 101 247 1854744 49 82 181553
+7 72 108 688472 53 56 255070
+8 114 882 3128125 56 78 149353
+9 3 41 952170 24 29 59112
+10 14 108 261636 59 61 25840
+11 47 735 890981 58 59 34241
+12 201 4126 2028175 88 393 464479
+13 25 702 203683 33 63 46513
+14 11 43 100152 38 39 18418
+15 2 17 36473 20 21 19568
+16 7 54 41102 49 54 92297
+17 11 152 916824 26 29 132472
+18 6 19 23518 23 25 32531
+19 20 48 63222 27 28 15865
+20 5 137 84616 21 24 17170
+21 13 93 231070 32 40 50547
+22 9 35 39416 21 21 21195
+23 38 163 193156 24 25 31868
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+in 683 8180 13118674
+ru 171 178 1172335
+us 78 115 780839
+de 8 8 6648
+fr 5 14 123993
+ua 2 2 5460
+gb 2 23 146876
+il 1 13 879792
+jp 1 2 5972
+at 1 1 831
+eu 1 1 831
+bg 1 6 35261
+lt 1 10 614715
+ae 1 4 64744
+ap 1 8 31844
+ro 0 1 58870
+cy 0 1 11520
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+msnbot 286 64625 20100228145859 182
+googlebot 123 78439 20100228211021 30
+slurp 79 423548 20100228174804 27
+unknown 78 23712 20100228192244 78
+bot[+:,\.\;\/\\-] 58 151510 20100228031628 29
+robot 36 8816 20100228141526 29
+spider 11 30734 20100228013110 5
+jeeves 4 124661 20100214014312 2
+crawl 4 9866 20100213191935 2
+msnbot\-media 3 25634 20100205180920 1
+no_user_agent 2 4629 20100203200929 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 768 449329 0 0
+png 4866 555761 0 0
+pdf 24 2516585 0 0
+htm 5 7271 0 0
+swf 6 76722 0 0
+php 328 1389868 0 0
+html 396 1524656 0 0
+js 758 2307979 0 0
+jpg 468 6518323 0 0
+Unknown 198 1095036 0 0
+gif 750 617675 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 13
+winlong 36
+winxp 6496
+win2000 2
+winnt 21
+linuxubuntu 3
+win98 8
+linux 1
+macosx 488
+win16 169
+winme 1
+win2003 7
+Unknown 1312
+win2008 23
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 18
+msie6.0 558
+firefox3.0.18 2
+firefox2.0.0.20 26
+firefox3.6 18
+chrome 5750
+firefox3.0.17 22
+firefox3.0.11 20
+msie8.0 28
+firefox3.0.3 167
+mozilla 1297
+firefox1.0 1
+msie7.0 83
+firefox3.0.13 4
+wget 1
+Unknown 183
+safari 325
+firefox3.0.8 8
+firefox3.5.7 74
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Wget/1.10.2_(Red_Hat_modified) 20100214063723
+Python-urllib/2.6 20100202184857
+al_viewer_larbin2.6.3@unspecified.mail 20100202050251
+Mozilla/4.0_(compatible;) 20100223230809
+Imagedownload 20100219200536
+http://api.samepoint.com;_admin@samepoint.com 20100202031925
+Shockwave_Flash 20100210063525
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+Python-urllib/2.6 20100202184857
+al_viewer_larbin2.6.3@unspecified.mail 20100202050251
+Yandex/1.01.001_(compatible;_Win16;_I) 20100228192247
+Imagedownload 20100219200536
+Yandex/1.01.001_(compatible;_Win16;_H) 20100225075033
+http://api.samepoint.com;_admin@samepoint.com 20100202031925
+Shockwave_Flash 20100210063525
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 348 1640
+From1 0 0
+From2 37 49
+From3 12 12
+From4 560 6866
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 21 21
+google_image 14 26
+yahoo 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+http://www.pdf-search-engine.com/d2k-forms-and-report-pdf.html 6 6
+http://jonathanlewis.wordpress.com/2008/08/19/miscellaneous/ 2 2
+http://www.oracleappshub.com/account-payable/quick-notes-%e2%80%98procure-2-pay%e2%80%99-cycle/ 2 2
+http://inpunblc01 1 1
+http://onelife.wikidot.com/mms2 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 7
+sunil+choudhary 9
+dr+sunil+choudhary 1
+sunil+choudhary+oracle+apps+dba 1
+resume+oracle+applications+engineer+mba+pdf 1
+resume+unix+or+perl+or+shell+-apply+-send+-forward+-wanted+-recruitment+-jobs+-hiring+-opening+-walkin+-news+-training 1
+oracle+d2k+report6i+pdf+documents 1
+sunil+resume 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 29
+sunil 12
+choudhary 11
+resume 3
+oracle 3
+or 2
+pdf 2
+documents 1
+apps 1
+-wanted 1
+-walkin 1
+-opening 1
+report6i 1
+d2k 1
+-jobs 1
+shell 1
+-training 1
+-recruitment 1
+-hiring 1
+-send 1
+-news 1
+unix 1
+applications 1
+dr 1
+-forward 1
+dba 1
+perl 1
+-apply 1
+engineer 1
+mba 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 1 1637
+302 4 406
+206 14 516629
+500 8 4015
+404 624 777485
+301 157 27252
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 141
+/_joomla/index.php/index.php/index.php/search/media/system/js/caption.js 1 http://www.onelife.in/_joomla/index.php/index.php/index.php/search/index.php
+/_joomla/index.php/index.php/index.php/search/media/system/js/templates/system/css/error.css 1 http://www.onelife.in/_joomla/index.php/index.php/index.php/search/media/system/js/mootools.js
+/www.oracle.com 8 -
+/img/var/thumbs/myPapersnDocs/DSC02324.JPG 4 http://www.onelife.in/img/index.php/myPapersnDocs
+/_joomla/index.php/index.php/index.php/index.php/templates/rhuk_milkyway/css/template.css 5 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/login
+/img/var/thumbs/myPapersnDocs/DSC02321.JPG 7 http://www.onelife.in/img/index.php/myPapersnDocs
+/_joomla/index.php/index.php/index.php/index.php/index.php/templates/rhuk_milkyway/css/template.css 4 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/index.php/index.php
+/_joomla/ 1 -
+/_joomla/index.php/index.php/index.php/index.php/index.php/templates/rhuk_milkyway/css/green_bg.css 4 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/index.php/index.php
+/_joomla/index.php/templates/system/images/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/media/system/css/calendar-jos.css 1 http://www.onelife.in/_joomla/index.php/submit-article
+/_joomla/index.php/search/media/system/js/templates/system/css/error.css 1 http://www.onelife.in/_joomla/index.php/search/media/system/js/mootools.js
+/_joomla/index.php/index.php/index.php/search/templates/rhuk_milkyway/css/templates/system/css/error.css 1 http://www.onelife.in/_joomla/index.php/index.php/index.php/search/templates/rhuk_milkyway/css/template.css
+/_joomla/index.php/index.php/index.php/index.php/index.php/images/M_images/printButton.png 4 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/index.php/index.php
+/_joomla/index.php/index.php/index.php/index.php/index.php/includes/js/joomla.javascript.js 3 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/index.php/index.php
+/_joomla/index.php/images/M_images/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/media/system/js/calendar-setup.js 1 http://www.onelife.in/_joomla/index.php/submit-article
+/_joomla/index.php/templates/system/images/templates/system/css/error.css 1 http://www.onelife.in/_joomla/index.php/templates/system/images/calendar.png
+/_joomla/index.php/index.php/index.php/search/media/system/js/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/index.php/index.php/index.php/index.php/templates/system/css/system.css 4 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/index.php/index.php
+/_joomla/index.php/templates/rhuk_milkyway/css/green.css 29 http://www.onelife.in/_joomla/index.php/search
+/_joomla/index.php/index.php/index.php/search/includes/js/joomla.javascript.js 1 http://www.onelife.in/_joomla/index.php/index.php/index.php/search/index.php
+/backup/bw.gif 2 http://www.onelife.in/backup/index.html
+/_joomla/index.php/index.php/index.php/templates/system/css/system.css 10 http://www.onelife.in/_joomla/index.php/index.php/index.php/submitnewlink
+/_joomla/index.php/index.php/index.php/index.php/index.php/media/system/js/caption.js 4 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/index.php/index.php
+/_joomla/index.php/includes/js/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/index.php/index.php/index.php/index.php/images/M_images/pdf_button.png 4 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/index.php/index.php
+/wp-login.php 36 -
+/_joomla/index.php/images/M_images/templates/system/css/templates/system/css/templates/system/css/error.css 1 -
+/img/index.php/quick/rotate/24/ccw 1 http://www.onelife.in/img/index.php/myPapersnDocs/DSC02300
+/img/index.php/simple_uploader/add_photo/14 3 -
+/_joomla/index.php/index.php/index.php/search/media/system/js/templates/system/css/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/login 1 http://www.onelife.in/_joomla/
+/_joomla/index.php/media/system/js/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/index.php/index.php/search/templates/rhuk_milkyway/css/templates/system/css/templates/system/css/error.css 1 -
+/img/var/thumbs/myPapersnDocs/strawberry.jpg 1 -
+/Resume_SunilChoudhary.rtf 3 -
+/_joomla/index.php/index.php/index.php/search/templates/system/css/system.css 1 http://www.onelife.in/_joomla/index.php/index.php/index.php/search/index.php
+/_joomla/index.php/index.php/index.php/search/templates/system/css/error.css 2 http://www.onelife.in/_joomla/index.php/index.php/index.php/search/rman
+/_joomla/index.php/templates/system/images/templates/system/css/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/search/includes/js/templates/system/css/error.css 1 http://www.onelife.in/_joomla/index.php/search/includes/js/joomla.javascript.js
+/_joomla/index.php/templates/rhuk_milkyway/css/ieonly.css 14 http://www.onelife.in/_joomla/index.php/search
+/_joomla/index.php/index.php/index.php/search/rman 2 http://www.onelife.in/_joomla/index.php/search
+/_joomla/index.php/media/system/css/templates/system/css/error.css 1 http://www.onelife.in/_joomla/index.php/media/system/css/calendar-jos.css
+/_joomla/index.php/media/system/js/modal.js 1 http://www.onelife.in/_joomla/index.php/submit-article
+/_joomla/index.php/images/M_images/templates/system/css/error.css 1 http://www.onelife.in/_joomla/index.php/images/M_images/pdf_button.png
+/_joomla/index.php/index.php/index.php/search/includes/js/templates/system/css/error.css 1 http://www.onelife.in/_joomla/index.php/index.php/index.php/search/includes/js/joomla.javascript.js
+/_joomla/index.php/templates/system/css/system.css 29 http://www.onelife.in/_joomla/index.php/search
+/img/index.php/combined/javascript/3f99addc8426beb4c42adf05010ed39c.js 2 http://www.onelife.in/img/index.php/
+/_joomla/index.php/search/includes/js/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/index.php/index.php/includes/js/joomla.javascript.js 10 http://www.onelife.in/_joomla/index.php/index.php/index.php/submitnewlink
+/_joomla/index.php/templates/system/css/general.css 29 http://www.onelife.in/_joomla/index.php/search
+/_joomla/index.php/index.php/media/system/js/caption.js 7 http://www.onelife.in/_joomla/index.php/index.php/index.php
+/_joomla/index.php/index.php/index.php/templates/rhuk_milkyway/css/green_bg.css 10 http://www.onelife.in/_joomla/index.php/index.php/index.php/submitnewlink
+/_joomla/index.php/plugins/editors/tinymce/jscripts/tiny_mce/templates/system/css/templates/system/css/templates/system/css/error.css 1 -
+/Resume_SunilChoudhary.pdf 4 -
+/_joomla/index.php/index.php/index.php/index.php/templates/system/css/system.css 5 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/login
+/_joomla/index.php/index.php/images/M_images/pdf_button.png 13 http://www.onelife.in/_joomla/index.php/index.php/index.php
+/_joomla/index.php/search/includes/js/templates/system/css/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/index.php/media/system/js/mootools.js 7 http://www.onelife.in/_joomla/index.php/index.php/index.php
+/_joomla/index.php/index.php/templates/rhuk_milkyway/css/green_bg.css 8 http://www.onelife.in/_joomla/index.php/index.php/index.php
+/administrator/index.php 1 -
+/_joomla/search 1 -
+/img/index.php/combined/css/e96a1eee0212e54d54597e351db6760e.css 2 http://www.onelife.in/img/index.php/
+/_joomla/index.php/media/system/js/caption.js 3 http://www.onelife.in/_joomla/index.php/index.php
+/_joomla/index.php/index.php/images/M_images/edit.png 6 http://onelife.in/_joomla/index.php/index.php/index.php
+/www.codezoo.net 4 -
+/_joomla/index.php/index.php/index.php/search/templates/system/css/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/templates/rhuk_milkyway/css/green_bg.css 28 http://www.onelife.in/_joomla/index.php/search
+/img/var/thumbs/myPapersnDocs/DSC02325.JPG.1237515117.JPG 5 http://www.onelife.in/img/index.php/myPapersnDocs
+/_joomla/index.php/images/M_images/pdf_button.png 1 http://www.onelife.in/_joomla/index.php/faq
+/_joomla/index.php/images/M_images/printButton.png 1 http://www.onelife.in/_joomla/index.php/faq
+/_joomla/index.php/templates/rhuk_milkyway/css/templates/system/css/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/index.php/index.php/index.php/includes/js/joomla.javascript.js 1 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/login
+/_joomla/index.php/index.php/templates/system/css/general.css 8 http://www.onelife.in/_joomla/index.php/index.php/index.php
+/Resume_SunilChoudhary.txt 3 -
+/img/index.php/combined/javascript/2a748c1e7567d7d212223871e342c41a.js 2 http://www.onelife.in/img/index.php/myPapersnDocs/DSC02300
+/_joomla/index.php/index.php/index.php/search/includes/js/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/templates/rhuk_milkyway/css/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/index.php/images/M_images/emailButton.png 13 http://www.onelife.in/_joomla/index.php/index.php/index.php
+/_joomla/index.php/index.php/index.php/search/templates/system/css/general.css 1 http://www.onelife.in/_joomla/index.php/index.php/index.php/search/index.php
+/_joomla/index.php/images/M_images/emailButton.png 1 http://www.onelife.in/_joomla/index.php/faq
+/_joomla/index.php/plugins/editors/tinymce/jscripts/tiny_mce/templates/system/css/error.css 1 http://www.onelife.in/_joomla/index.php/plugins/editors/tinymce/jscripts/tiny_mce/tiny_mce.js
+/_joomla/index.php 1 http://www.onelife.in/_joomla/index.php
+/_joomla/index.php/index.php/index.php/index.php/index.php/templates/rhuk_milkyway/css/green.css 4 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/index.php/index.php
+/_joomla/index.php/images/stories/key.jpg 12 http://www.onelife.in/_joomla/index.php/login
+/backup/aifacs.jpg 1 http://www.onelife.in/backup/recognition.html
+/_joomla/index.php/index.php/index.php/index.php/index.php/images/M_images/emailButton.png 4 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/index.php/index.php
+/_joomla/index.php/index.php/templates/rhuk_milkyway/css/green.css 8 http://www.onelife.in/_joomla/index.php/index.php/index.php
+/_joomla/index.php/index.php/index.php/index.php/index.php/templates/system/css/general.css 4 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/index.php/index.php
+/_joomla/index.php/index.php/templates/rhuk_milkyway/css/template.css 8 http://www.onelife.in/_joomla/index.php/index.php/index.php
+/_joomla/index.php/templates/system/css/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/includes/js/joomla.javascript.js 21 http://www.onelife.in/_joomla/index.php/search
+/_joomla/index.php/templates/rhuk_milkyway/css/template.css 29 http://www.onelife.in/_joomla/index.php/search
+/_joomla/index.php/media/system/js/templates/system/css/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/images/M_images/edit.png 1 http://www.onelife.in/_joomla/index.php/faq
+/_joomla/index.php/templates/system/css/templates/system/css/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/index.php/index.php/index.php/templates/rhuk_milkyway/css/green_bg.css 5 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/login
+/_joomla/index.php/media/system/css/templates/system/css/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/templates/system/css/templates/system/css/error.css 1 http://www.onelife.in/_joomla/index.php/templates/system/css/system.css
+/_joomla/index.php/index.php/index.php/search/templates/system/css/templates/system/css/error.css 1 http://www.onelife.in/_joomla/index.php/index.php/index.php/search/templates/system/css/error.css
+/img/var/thumbs/myPapersnDocs/.album.jpg 2 http://www.onelife.in/img/
+/_joomla/index.php/index.php/index.php/search/media/system/js/mootools.js 1 http://www.onelife.in/_joomla/index.php/index.php/index.php/search/index.php
+/_joomla/index.php/media/system/js/calendar.js 1 http://www.onelife.in/_joomla/index.php/submit-article
+/_joomla/index.php/index.php/index.php/templates/system/css/general.css 10 http://www.onelife.in/_joomla/index.php/index.php/index.php/submitnewlink
+/_joomla/index.php/index.php/index.php/search/includes/js/templates/system/css/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/search/media/system/js/mootools.js 1 http://www.onelife.in/_joomla/index.php/search/index.php
+/_joomla/index.php/plugins/editors/tinymce/jscripts/tiny_mce/tiny_mce.js 1 http://www.onelife.in/_joomla/index.php/submit-article
+/_joomla/index.php/templates/rhuk_milkyway/css/templates/system/css/error.css 1 http://www.onelife.in/_joomla/index.php/templates/rhuk_milkyway/css/template.css
+/_joomla/index.php/media/system/js/mootools.js 4 http://www.onelife.in/_joomla/index.php/index.php
+/_IMG 1 -
+/_joomla/submitnewlink 1 -
+/_joomla/index.php/index.php/templates/system/css/system.css 8 http://www.onelife.in/_joomla/index.php/index.php/index.php
+/_joomla/index.php/index.php/index.php/index.php/index.php/images/M_images/edit.png 3 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/index.php/index.php
+/_joomla/index.php/plugins/editors/tinymce/jscripts/tiny_mce/templates/system/css/templates/system/css/error.css 1 -
+/joomla 2 -
+/www.nucleussoftware.com 10 -
+/_joomla/index.php/index.php/includes/js/joomla.javascript.js 4 http://www.onelife.in/_joomla/index.php/index.php/login
+/_joomla/index.php/index.php/index.php/templates/rhuk_milkyway/css/green.css 10 http://www.onelife.in/_joomla/index.php/index.php/index.php/submitnewlink
+/_joomla/index.php/search/includes/js/joomla.javascript.js 1 http://www.onelife.in/_joomla/index.php/search/index.php
+/_joomla/index.php/includes/js/templates/system/css/error.css 1 http://www.onelife.in/_joomla/index.php/includes/js/joomla.javascript.js
+/_joomla/index.php/media/system/js/templates/system/css/error.css 1 http://www.onelife.in/_joomla/index.php/media/system/js/mootools.js
+/_joomla/index.php/includes/js/templates/system/css/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/templates/system/images/calendar.png 1 http://www.onelife.in/_joomla/index.php/submit-article
+/_joomla/index.php/media/system/css/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/index.php/images/stories/key.jpg 1 http://www.onelife.in/_joomla/index.php/index.php/login
+/_joomla/index.php/index.php/index.php/index.php/images/stories/key.jpg 5 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/login
+/_joomla/index.php/media/system/css/modal.css 1 http://www.onelife.in/_joomla/index.php/submit-article
+/valid-xhtml10.png 7 http://www.onelife.in/artwork.html
+/_img 1 -
+/img/index.php/combined/javascript/c7a766c564c153207d558046c4fbc948.js 2 http://www.onelife.in/img/
+/img/index.php/combined/css/7fddade2a76203909fb331271c578d07.css 2 http://www.onelife.in/img/
+/_joomla/index.php/index.php/index.php/index.php/templates/system/css/general.css 5 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/login
+/_joomla/index.php/index.php/index.php/search/templates/rhuk_milkyway/css/template.css 1 http://www.onelife.in/_joomla/index.php/index.php/index.php/search/index.php
+/_joomla/index.php/index.php/images/M_images/printButton.png 13 http://www.onelife.in/_joomla/index.php/index.php/index.php
+/_joomla/index.php/index.php/index.php/templates/rhuk_milkyway/css/template.css 10 http://www.onelife.in/_joomla/index.php/index.php/index.php/submitnewlink
+/_joomla/index.php/images/stories/articles.jpg 1 http://www.onelife.in/_joomla/index.php/artfeed
+/_joomla/index.php/search/media/system/js/templates/system/css/templates/system/css/error.css 1 -
+/_joomla/index.php/index.php/index.php/index.php/index.php/media/system/js/mootools.js 4 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/index.php/index.php
+/_joomla/index.php/index.php/index.php/index.php/templates/rhuk_milkyway/css/green.css 5 http://www.onelife.in/_joomla/index.php/index.php/index.php/index.php/login
+/_joomla/index.php/search/media/system/js/templates/system/css/templates/system/css/templates/system/css/error.css 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 119
+123.242.248.130 281 1718 3516830 20100223074158
+219.64.201.89 275 5731 4381186 20100210130643
+77.88.27.27 84 84 754824 20100228192247
+122.168.203.108 54 225 590548 20100222123826
+95.108.150.235 52 52 240708 20100225075033
+77.88.51.45 24 24 113536 20100219005216
+122.168.214.29 9 20 196702 20100220123657
+122.168.36.68 8 263 78500 20100206122319
+95.108.142.138 6 6 27774 20100213081919
+66.90.75.206 4 4 7122 20100218234020
+74.222.4.82 4 8 22576 20100218191328
+85.214.73.63 4 4 3324 20100218234000
+122.169.218.194 4 13 92124 20100206024028
+115.240.179.231 4 14 186756 20100212084123
+208.80.193.27 4 4 18516 20100221081253
+203.191.35.22 4 9 0 20100221084202
+115.113.49.98 3 10 153686 20100211052604
+spider29.yandex.ru 3 3 0 20100219035824
+64.56.66.210 3 6 16932 20100221220946
+38.99.108.10 3 3 2493 20100224012601
+91.121.154.99 3 3 2493 20100218233958
+208.80.193.31 3 3 13887 20100210075931
+208.80.193.40 3 3 13887 20100210000913
+196.15.16.20 3 18 104698 20100218080246
+208.80.193.42 3 3 13887 20100226005951
+89.190.210.86 1 6 35261 20100203064237
+12.163.3.18 1 4 67749 20100225140529
+78.226.232.198 1 8 0 20100224115525
+69.137.55.27 1 4 67749 20100208202726
+216.224.124.124 1 1 831 20100218233828
+115.184.108.217 2 11 47524 20100224062338
+122.162.224.209 1 8 31844 20100217061001
+70.36.103.42 2 4 11288 20100207015629
+208.80.193.34 2 2 9258 20100224040018
+74.52.245.146 1 1 4629 20100201081614
+208.80.193.32 2 2 9258 20100214180536
+220.225.121.5 1 1 118193 20100216085130
+85.140.64.43 1 1 3649 20100211015220
+117.254.171.30 1 4 67749 20100206033419
+84.240.13.74 1 10 614715 20100206045207
+85.140.243.84 1 8 31844 20100228032203
+96.31.166.228 1 1 4629 20100224081348
+59.182.134.48 1 8 31844 20100203015726
+59.177.134.183 1 8 31844 20100209160101
+117.193.135.242 0 1 5579 
+150.70.84.25 1 2 5972 20100210052934
+208.80.193.36 1 1 4629 20100216092301
+61.247.238.164 1 1 118193 20100208230138
+74.222.3.186 1 1 4629 20100202050251
+66.230.230.230 2 2 1662 20100218233820
+208.80.193.35 2 2 9258 20100218053053
+122.162.181.172 1 8 31844 20100207004918
+208.80.193.29 2 2 9258 20100228195928
+122.162.196.65 1 2 33070 20100212013440
+220.225.239.13 1 1 118193 20100201061558
+115.240.8.39 1 8 31844 20100212150806
+65.55.109.101 1 1 831 20100212214016
+208.80.193.43 1 1 4629 20100204032341
+208.80.193.38 1 1 4629 20100208105002
+188.165.12.60 1 1 118193 20100214063723
+78.142.140.194 1 1 831 20100218234007
+59.164.73.231 2 2 13400 20100224105846
+117.241.112.102 1 8 31844 20100212004049
+59.91.211.159 1 1 118193 20100202104345
+65.55.110.75 1 3 8285 20100212233009
+122.170.6.143 1 5 15207 20100224042032
+111.125.224.56 1 8 31844 20100225121710
+65.55.104.27 1 3 9725 20100226084921
+208.80.193.30 1 1 4629 20100225175522
+71.236.153.93 1 3 7305 20100202225714
+216.104.15.130 1 1 4629 20100225043056
+65.55.109.61 1 3 11477 20100214080233
+192.251.226.206 1 1 831 20100218233758
+124.123.252.245 1 1 118193 20100211074612
+115.98.206.97 1 4 67749 20100225095423
+95.133.222.212 2 2 5460 20100205231505
+85.115.60.180 1 13 55752 20100223012935
+115.118.209.181 2 3 37107 20100204114026
+67.202.32.68 1 1 4629 20100202031925
+122.163.210.33 2 3 15493 20100210052723
+124.247.193.146 1 1 4629 20100222194703
+180.148.223.59 1 4 67749 20100204104211
+65.55.107.244 1 3 7693 20100221222013
+123.236.35.30 1 1 118193 20100218070710
+212.42.236.140 2 2 1662 20100218233954
+87.68.224.232 1 13 879792 20100217051321
+208.80.193.28 1 1 4629 20100221010011
+87.228.232.132 0 1 11520 
+117.197.65.149 1 13 879792 20100208090757
+122.181.137.50 1 1 118193 20100209025755
+18.246.2.79 1 1 831 20100218233956
+117.193.195.2 1 1 118193 20100218114052
+208.80.193.33 2 2 9258 20100222214232
+216.121.78.30 2 2 9258 20100213164803
+78.46.199.173 1 1 831 20100218233845
+89.43.196.214 0 1 58870 
+65.55.109.245 1 3 7305 20100221101649
+208.80.193.39 2 2 9258 20100216173453
+91.74.235.54 1 4 64744 20100214022900
+115.118.25.249 2 9 37215 20100201035524
+65.55.109.164 1 3 9516 20100217222524
+121.246.9.215 0 1 58870 
+86.182.141.67 1 10 91124 20100208133101
+24.128.83.63 1 4 67749 20100204212245
+122.169.175.217 1 1 118193 20100216115027
+117.197.145.67 1 8 31844 20100206030355
+208.80.193.37 2 2 9258 20100219190314
+38.99.171.180 1 1 4629 20100202184857
+65.55.109.65 1 3 8613 20100207044634
+62.141.58.13 1 1 831 20100218233802
+74.222.4.218 3 6 16932 20100226213049
+192.18.1.36 2 2 236386 20100224003943
+117.194.198.129 1 8 31844 20100228023007
+208.80.193.41 1 1 4629 20100222143001
+114.143.80.194 1 13 879792 20100219172304
+122.248.163.1 1 8 31844 20100202023542
+80.78.0.134 0 2 3307 
+125.21.51.18 1 1 118193 20100210054928
+122.169.181.195 1 1 118193 20100221012826
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20100201 18 56 342653 8
+20100202 36 366 322941 13
+20100203 128 900 3024415 10
+20100204 14 39 320324 11
+20100205 50 76 201674 13
+20100206 21 320 908314 11
+20100207 10 23 200701 7
+20100208 16 54 1199145 13
+20100209 23 50 218334 13
+20100210 286 5163 3559682 14
+20100211 91 241 1686111 14
+20100212 16 88 319575 13
+20100213 15 178 41661 11
+20100214 7 225 216730 7
+20100215 12 43 27774 9
+20100216 8 27 251288 8
+20100217 10 49 960446 7
+20100218 32 50 435836 22
+20100219 34 90 1026681 8
+20100220 12 38 202346 3
+20100221 11 58 166609 8
+20100222 57 278 722175 4
+20100223 7 55 54989 4
+20100224 15 42 360741 10
+20100225 16 29 199745 13
+20100226 8 11 19998 8
+20100228 4 18 68317 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+5mn-15mn 5
+0s-30s 233
+15mn-30mn 4
+2mn-5mn 5
+30s-2mn 12
+30mn-1h 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 103
+/ 172 754527 118 110
+/_joomla/administrator/index.php 150 781352 0 0
+/_joomla/index.php 138 527577 2 9
+/_joomla/ 75 212323 18 9
+/index.php 25 20775 14 12
+/img/index.php/myPapersnDocs 21 374171 0 0
+/one.pdf 20 2009281 17 19
+/artwork.html 15 59484 14 14
+/credit.html 14 60300 11 12
+/resume.html 14 36490 7 7
+/recognition.html 14 44407 8 8
+/FAQ.html 14 37597 7 8
+/_joomla/index.php/login 13 28340 0 0
+/project.html 12 48552 5 6
+/_joomla/index.php/index.php/index.php/submitnewlink 11 32068 0 1
+/img/index.php/tags 10 5113 0 0
+/img/index.php/ 10 121983 0 0
+/img/index.php/simple_uploader/add_photo/14 9 90 0 0
+/_joomla/index.php/search 8 21256 0 1
+/_joomla/index.php/index.php/index.php 8 31754 0 0
+/img/index.php/tags/autocomplete 8 6 0 0
+/img/ 6 50771 0 0
+/img/lib/swfupload/swfupload.swf 6 76722 0 0
+/img/index.php/simple_uploader/finish 6 120 0 0
+/Bad_decisions_in_Liips.html 5 11720 5 5
+/_joomla/index.php/index.php/ 1 3291 0 0
+/_joomla/index.php/artfeed 1 1977 0 0
+/backup/recognition.html 1 3440 0 0
+/img/index.php/exif/show/22 1 2748 0 0
+/img/index.php/quick/form_edit/24 1 1529 0 0
+/img/index.php/quick/form_delete/27 1 452 0 0
+/_joomla/index.php/submit-article 2 12530 0 0
+/img/index.php/quick/rotate/18/cw 1 97 0 0
+/img/index.php/quick/delete/26 1 31 0 0
+/img/index.php/admin/graphics 5 30323 0 0
+/LearningCurve.html 4 4872 4 4
+/career.html 4 3480 4 4
+/img/index.php/quick/form_delete/17 1 453 0 0
+/img/index.php/quick/form_delete/19 1 453 0 0
+/img/index.php/myPapersnDocs/DSC02325 1 11980 0 0
+/_joomla/index.php/index.php/index.php/search/index.php 1 4671 0 0
+/link.html 5 15642 5 5
+/img/index.php/quick/form_delete/23 1 453 0 0
+/img/index.php/quick/form_delete/26 3 1365 0 0
+/img/index.php/quick/delete/17 1 31 0 0
+/img/index.php/myPapersnDocs/DSC02323 2 24048 0 0
+/img/index.php/simple_uploader/app/14 5 44664 0 0
+/_joomla/index.php/submitnewlink 2 5816 0 0
+/backup/FAQ.html 1 4774 0 0
+/img/index.php/admin 2 29579 0 0
+/img/index.php/rss/feed/gallery/album/13 2 13742 0 0
+/SunilChoudhary.pdf 4 507304 4 4
+/img/index.php/admin/users 1 10572 0 0
+/_joomla/index.php/faq 1 2823 0 0
+/cpanel 2 11632 0 1
+/oracle11iEbusiness_Suite.html 5 10004 4 5
+/_joomla/index.php/index.php/index.php/index.php/index.php/index.php 4 17479 0 0
+/img/index.php/login/auth_ajax 3 60 0 0
+/img/index.php/quick/rotate/24/ccw 1 97 0 0
+/img/index.php/form/edit/users/2 1 1141 0 0
+/img/index.php/rss/feed/gallery/album/1 2 38073 0 0
+/img/index.php/quick/form_delete/22 1 453 0 0
+/img/index.php/admin/maintenance/start/gallery_task::rebuild_dirty_images 4 7716 0 0
+/img/index.php/myPapersnDocs/DSC02321 3 36064 0 0
+/img/index.php/simple_uploader/app/1 1 8912 0 0
+/ToDo.html 4 5269 4 4
+/project_perl.html 4 4295 4 4
+/img/index.php/myKit 2 16374 0 0
+/_joomla/plugins/editors/tinymce/jscripts/tiny_mce/blank.htm 4 0 3 4
+/img/index.php/admin/maintenance 5 44465 0 0
+/_joomla/index.php/art-links 1 2899 0 0
+/backup/whatsnew.html 1 3728 0 0
+/img/index.php/rss/feed/gallery/album/14 2 21549 0 0
+/img/index.php/quick/rotate/22/cw 3 69502 0 0
+/img/index.php/quick/rotate/22/ccw 1 97 0 0
+/img/index.php/quick/delete/23 3 7229 0 0
+/img/index.php/myPapersnDocs/DSC02300 4 40372 0 0
+/img/index.php/admin/maintenance/run/1 1 150 0 0
+/img/index.php/tags/4 1 7884 0 0
+/_joomla/index.php/index.php/index.php/index.php/login 5 10539 0 0
+/img/index.php/admin/users/add_group_form 4 1920 0 1
+/img/index.php/quick/make_album_cover/27 2 62 0 0
+/img/index.php/quick/delete/19 1 31 0 0
+/img/index.php/organize/dialog/14 4 18852 0 0
+/img/index.php/myPapersnDocs/ORACLE_coarse_fine_ASM 3 37138 0 1
+/img/index.php/admin/maintenance/run/3 1 150 0 0
+/_joomla/index.php/index.php 1 1683 0 0
+/img/index.php/rss/feed/tag/tag/4 1 756 0 0
+/img/index.php/login/ajax 3 4911 0 0
+/img/index.php/organize/album/14/25 3 168 0 0
+/img/index.php/myPapersnDocs/DSC02322 2 24048 0 0
+/backup/ 2 6116 0 0
+/_joomla/plugins/editors/tinymce/jscripts/tiny_mce/plugins/table/table.htm 1 7271 0 0
+/_joomla/index.php/index.php/login 1 2268 0 0
+/img/index.php/form/edit/photos/24 1 1529 0 0
+/_joomla/administrator/ 4 6354 1 0
+/oracle9i_application_server.html 5 8898 4 5
+/_joomla/index.php/search/index.php 1 4577 0 0
+/img/index.php/myKit/IndiaButton 1 7901 0 0
+/whatsnew.html 4 6339 3 3
+/img/index.php/simple_uploader/add_photo/1 1 10 0 0
+/img/index.php/form/add/comments/29) 1 1047 0 0
+/img/index.php/myPapersnDocs/Roland2 1 12207 0 0
+END_SIDER

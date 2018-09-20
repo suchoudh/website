@@ -1,0 +1,571 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201004 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2540                
+POS_VISITOR 10393               
+POS_DAY 14450               
+POS_DOMAIN 3396                
+POS_LOGIN 3892                
+POS_ROBOT 4047                
+POS_WORMS 4620                
+POS_EMAILSENDER 4751                
+POS_EMAILRECEIVER 4894                
+POS_SESSION 15287               
+POS_SIDER 15497               
+POS_FILETYPES 5029                
+POS_OS 5295                
+POS_BROWSER 5475                
+POS_SCREENSIZE 5814                
+POS_UNKNOWNREFERER 5888                
+POS_UNKNOWNREFERERBROWSER 6607                
+POS_ORIGIN 7183                
+POS_SEREFERRALS 7329                
+POS_PAGEREFS 7504                
+POS_SEARCHWORDS 8412                
+POS_KEYWORDS 8730                
+POS_MISC 2203                
+POS_ERRORS 8932                
+POS_CLUSTER 3748                
+POS_SIDER_404 9062                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20100501012802 42 7201 38668350123
+FirstTime 20100401063854
+LastTime 20100430235609
+LastUpdate 20100501072516 42 0 41 0 0
+TotalVisits 331                 
+TotalUnique 94                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 106                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 10 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 113 458 916195 58 59 66379
+1 141 404 2213320 79 81 76105
+2 219 1167 4261194 65 85 308530
+3 431 1544 2628802 129 137 135190
+4 349 1111 1897953 125 130 178000
+5 207 550 2198997 126 128 117592
+6 334 1948 2185827 160 162 221691
+7 94 509 688628 77 80 343615
+8 168 428 1542349 55 60 97293
+9 317 760 2236747 86 91 500366
+10 234 738 1327687 69 72 72489
+11 63 183 414299 41 45 702351
+12 65 194 1786083 54 60 402814
+13 141 550 1849054 69 72 96684
+14 123 507 828132 115 125 208239
+15 30 119 135892 58 61 62263
+16 10 15 64653 33 34 48575
+17 13 57 182756 43 45 299887
+18 9 73 56512 45 55 111288
+19 6 15 172592 35 39 545567
+20 7 27 104351 34 36 49749
+21 26 104 252268 23 23 19501
+22 48 169 403775 16 18 10578
+23 112 370 2419329 44 47 157215
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 20
+in 2963 11551 24364666
+us 143 224 3637076
+ru 118 119 781692
+lu 8 8 44615
+ae 7 16 156935
+pe 6 12 37482
+gb 4 15 66177
+ir 3 16 889050
+ie 2 9 37215
+de 2 2 5460
+kr 1 1 4629
+fr 1 11 2140
+ca 1 8 31844
+nl 1 1 831
+ph 0 1 22992
+my 0 1 22992
+id 0 2 81862
+vn 0 1 533753
+by 0 1 22992
+se 0 1 22992
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+msnbot 240 561563 20100430212121 171
+googlebot 146 307682 20100430144037 41
+slurp 110 840413 20100430161054 36
+unknown 107 32528 20100430155007 107
+spider 106 388013 20100430092617 26
+bot[+:,\.\;\/\\-] 85 234871 20100429175529 43
+crawl 57 253478 20100423140130 9
+robot 42 19594 20100430152117 34
+msnbot\-media 20 864947 20100430183210 9
+no_user_agent 7 30154 20100420045225 0
+jeeves 2 4933 20100425155051 1
+netcraft 1 4629 20100409001029 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 2006 1749052 0 0
+png 3002 1060620 0 0
+pdf 10 1089636 0 0
+htm 11 426 0 0
+swf 2 25574 0 0
+php 2792 12697794 0 0
+html 398 1767518 0 0
+js 1594 4716091 0 0
+jpg 619 6571215 0 0
+Unknown 47 314091 0 0
+gif 1519 775378 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 13
+winlong 18
+winxp 9244
+winnt 1
+win2000 3
+linuxubuntu 51
+win98 2
+linux 1
+macosx 1579
+win16 118
+winunknown 1
+win2003 10
+Unknown 922
+win2008 50
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 22
+msie6.0 2809
+firefox3.0.18 8
+msie5.01 2
+firefox3.6 1
+chrome 5852
+opera 8
+firefox3.6.2 37
+firefox3.0.11 12
+msie5.5 1
+firefox3.5.3 51
+msie8.0 56
+firefox3.5.5 1
+mozilla 846
+firefox1.0 1
+msie7.0 480
+netscape4.5 1
+firefox3.5.9 10
+firefox3.6.3 40
+msie 1
+firefox3.0.19 9
+Unknown 194
+safari 1580
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_feed-id=12026835929238005562) 20100429142221
+W3C_Validator/1.767 20100420064333
+Mozilla/5.0_(en-us)_AppleWebKit/525.13_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Version/3.1_Safari/525.13 20100422141302
+Mozilla/5.0_(compatible;_ScoutJet;__http://www.scoutjet.com/) 20100426113127
+Gist_Server 20100411102535
+BlackBerry9550/5.0.0.607_Profile/MIDP-2.1_Configuration/CLDC-1.1_VendorID/105 20100415195646
+Mozilla/4.0_(compatible;) 20100430171527
+BlackBerry8520/4.6.1.286_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/149 20100401092512
+Shockwave_Flash 20100421020043
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_feed-id=12026835929238005562) 20100429142221
+W3C_Validator/1.767 20100420064333
+Gist_Server 20100411102535
+BlackBerry9550/5.0.0.607_Profile/MIDP-2.1_Configuration/CLDC-1.1_VendorID/105 20100415195646
+Yandex/1.01.001_(compatible;_Win16;_I) 20100430235609
+Yandex/1.01.001_(compatible;_Win16;_H) 20100430014907
+BlackBerry8520/4.6.1.286_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/149 20100401092512
+Shockwave_Flash 20100421020043
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 439 1269
+From1 0 0
+From2 23 35
+From3 12 12
+From4 2786 10684
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 15 17
+google_image 8 18
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 11
+http://jonathanlewis.wordpress.com/2008/08/19/miscellaneous/ 2 2
+http://www.coderanch.com/t/453518/Jobs-Discussion/careers/lull-career-JUMPSTART 1 1
+http://us.mg2.mail.yahoo.com/dc/launch 1 1
+http://www.bing.com/search 1 1
+http://davidmaister.com/blog/218/The-Best-Manager-I-Ever-Had 1 1
+http://in.mg50.mail.yahoo.com/dc/blank.html 1 1
+http://www.capgemini.com/technology-blog/2010/01/if_you_are_not_in_google_you_d.php 1 1
+http://in.mc955.mail.yahoo.com/mc/welcome 1 1
+http://blogs.oracle.com/stevenChan/2008/11/introducing_noby_joseph_guest_author.html 1 1
+http://www.oracleappshub.com/account-payable/quick-notes-%e2%80%98procure-2-pay%e2%80%99-cycle/ 1 1
+http://www.oracleappshub.com/account-payable/quick-notes-%E2%80%98procure-2-pay%E2%80%99-cycle/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 6
+sunil+choudhary 7
+http+//onelife.in/ 1
+resume+oracle+dba+rac+10g+oracle+mumbai+-job+-jobs 1
+sunil+choudhary+hyd 1
+sunil+choudhary+resume 1
+neil+gogte+java+lectures 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 17
+choudhary 9
+sunil 9
+resume 2
+oracle 2
+rac 1
+gogte 1
+mumbai 1
+neil 1
+http 1
+-jobs 1
+hyd 1
+java 1
+dba 1
+lectures 1
+10g 1
+-job 1
+//onelife.in/ 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 451 9700
+206 7 827960
+301 163 25736
+404 201 425760
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 29
+/_wiki/now 1 -
+/_vti_bin/owssvr.dll 1 -
+/java 1 -
+/_joomla/administrattor 1 -
+/_joomla/admin 1 -
+/_gallery 1 -
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/www.oracle.com 7 -
+/g2 1 -
+/_image/mine.gif 1 -
+/Resume_SunilChoudhary.txt 7 -
+/Resume_SunilChoudhary.rtf 9 -
+/img/themes/admin_default/fix-ie.css 13 http://www.onelife.in/img/index.php/admin
+/img_ 1 -
+/gee 1 -
+/g/ 1 -
+/valid-xhtml10.png 7 http://www.onelife.in/career.html
+/style07.css 1 http://www.onelife.in/_joomla/plugins/editors/tinymce/jscripts/tiny_mce/blank.htm
+/MSOffice/cltreq.asp 1 -
+/www.codezoo.net 11 -
+/image/CGlogo.png 1 -
+/g3 1 -
+/img/index.php/combined/css/287618eb8c793114c4b5bce0487153d4.css 2 http://www.onelife.in/img/index.php/admin/maintenance
+/g 1 -
+/www.nucleussoftware.com 7 -
+/img/index.php/combined/javascript/e735dbdc694cfe81d75f6136f4fdb692.js 2 http://www.onelife.in/img/index.php/admin/maintenance
+/_wiki/index.php 110 http://www.onelife.in/_wiki/index.php
+/g2/ 1 -
+/Resume_SunilChoudhary.pdf 8 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 106
+219.64.201.89 1430 4989 9297276 20100430131133
+123.242.248.130 1426 6148 12836207 20100429043315
+122.168.174.75 61 123 431619 20100403080616
+77.88.24.27 58 58 480960 20100430235609
+95.108.150.235 56 56 259224 20100429110851
+72.14.192.67 31 31 143499 20100428120050
+74.125.16.2 16 16 74064 20100429142221
+208.80.193.39 10 10 46290 20100429123054
+64.56.65.219 10 19 55425 20100430141033
+91.214.45.95 8 8 44615 20100417212358
+74.222.4.219 7 14 39508 20100419141739
+200.121.239.131 6 12 37482 20100415214212
+70.36.103.59 6 12 33864 20100415091540
+208.80.193.34 5 5 23145 20100430220200
+122.168.21.44 5 111 169969 20100424002456
+208.80.193.30 4 4 18516 20100426213105
+86.96.228.92 4 8 58669 20100417021047
+125.18.104.1 4 12 194696 20100409085810
+122.168.210.71 4 11 161005 20100418143708
+95.108.142.138 4 4 18516 20100430014907
+203.199.147.5 4 13 110553 20100406214035
+72.14.194.17 3 3 13887 20100402043801
+86.96.227.93 3 8 98266 20100417021032
+122.166.9.110 3 11 76503 20100420044943
+208.80.193.27 3 3 13887 20100425081029
+202.153.41.114 1 4 67749 20100416122902
+93.186.28.207 1 7 30829 20100401092512
+78.226.232.198 1 8 0 20100417015212
+115.113.49.98 2 9 35493 20100409082945
+59.98.224.26 1 8 31844 20100427033119
+202.152.170.244 0 1 58870 
+74.52.245.146 1 1 4629 20100425223801
+216.104.15.134 1 1 4037 20100402130046
+208.80.193.32 1 1 4629 20100411001622
+178.130.1.9 0 1 22992 
+203.84.170.246 0 1 22992 
+205.223.239.158 1 1 0 20100412065757
+117.195.199.227 1 4 67749 20100406130210
+173.63.173.242 1 13 879792 20100424121253
+210.212.157.7 1 4 44666 20100412032243
+207.46.12.64 1 3 8613 20100410184915
+99.161.122.155 2 27 1764035 20100414232109
+75.99.177.170 2 2 236386 20100413123859
+114.143.243.154 1 1 118193 20100413010450
+83.183.5.97 0 1 22992 
+207.46.204.161 1 3 9995 20100410201546
+123.24.3.179 0 1 533753 
+111.94.110.153 0 1 22992 
+173.203.224.38 1 1 4629 20100425003907
+128.30.52.71 1 1 4629 20100420064333
+208.80.193.36 2 2 9258 20100410170110
+77.105.185.166 0 1 22992 
+72.14.193.4 2 2 9258 20100422060046
+87.238.84.64 2 9 37215 20100429030659
+188.72.213.44 1 1 831 20100430035512
+208.80.193.35 3 3 13887 20100429062014
+208.80.193.29 1 1 4629 20100401132125
+96.27.139.14 1 8 31844 20100421213544
+208.80.193.43 2 2 9258 20100407233130
+208.80.193.38 2 2 9258 20100430141745
+206.53.147.58 1 8 31844 20100415195645
+62.24.129.14 1 2 5644 20100420065413
+122.168.227.77 2 10 72854 20100413083940
+124.123.107.54 1 1 118193 20100415000712
+124.13.178.160 0 1 22992 
+79.175.165.25 2 2 9258 20100408183745
+64.56.66.211 2 4 11288 20100410005504
+208.80.193.40 1 1 4629 20100404082848
+122.172.164.1 1 4 13053 20100402094943
+122.163.86.178 1 8 31844 20100419023948
+93.190.142.26 1 1 831 20100429155218
+118.94.226.104 1 5 68764 20100404205548
+196.15.16.20 2 9 37215 20100401103012
+208.80.193.42 1 1 4629 20100424071549
+74.125.126.80 1 1 4629 20100429044051
+115.117.245.73 1 8 31844 20100403020323
+115.98.202.59 2 2 13400 20100401110851
+115.240.209.52 1 8 31844 20100414012058
+71.224.66.62 1 4 29626 20100423120328
+208.80.193.120 2 2 9258 20100409112253
+207.46.193.36 1 3 8285 20100402182700
+113.193.91.176 1 5 70390 20100402061506
+85.115.60.180 1 5 29704 20100401065833
+66.249.85.1 1 1 4629 20100404174012
+124.124.208.165 1 8 31844 20100405045624
+59.98.160.140 1 8 31844 20100414011029
+207.46.12.106 1 3 8285 20100422154018
+208.80.193.28 3 3 13887 20100421144136
+74.125.75.1 1 1 4629 20100429075142
+116.125.140.2 1 1 4629 20100423134920
+74.125.74.130 0 1 29033 
+38.99.96.240 1 1 4629 20100426113127
+208.80.193.33 2 2 9258 20100416040302
+117.197.69.106 1 8 31844 20100419045358
+216.104.15.138 0 1 1015 
+79.127.15.35 1 14 879792 20100428052837
+82.44.243.38 1 1 0 20100425110311
+122.162.140.117 1 8 31844 20100409114703
+38.99.96.148 1 1 4629 20100409214701
+122.173.207.177 0 1 58870 
+122.167.8.81 1 8 31844 20100405120403
+174.37.154.78 1 1 4629 20100411102535
+208.80.193.41 2 2 9258 20100412134116
+87.230.55.47 1 1 4629 20100423225329
+80.78.0.134 0 3 2140 
+122.160.22.107 1 2 13653 20100426232702
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20100401 108 275 765232 12
+20100402 15 155 252272 11
+20100403 537 2123 2946505 8
+20100404 15 50 255388 10
+20100405 167 252 1361871 12
+20100406 163 1092 1254311 14
+20100407 127 439 770227 9
+20100408 102 298 710771 7
+20100409 102 310 887418 12
+20100410 75 227 490420 12
+20100411 43 85 279853 9
+20100412 236 529 2309698 14
+20100413 98 443 899501 14
+20100414 89 215 2194411 10
+20100415 105 1524 1313393 14
+20100416 32 75 238452 6
+20100417 86 412 596771 14
+20100418 25 54 424156 12
+20100419 87 307 1234107 15
+20100420 99 329 494428 18
+20100421 140 301 4806696 9
+20100422 6 9 56555 6
+20100423 10 23 81649 7
+20100424 15 134 1073955 11
+20100425 14 14 37032 11
+20100426 40 68 351544 9
+20100427 53 162 317233 5
+20100428 12 28 903658 12
+20100429 643 2040 3317129 16
+20100430 16 27 142759 12
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 12
+5mn-15mn 14
+30s-2mn 17
+15mn-30mn 7
+2mn-5mn 8
+0s-30s 266
+30mn-1h 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 53
+/_wiki/index.php 2701 12306417 32 51
+/ 254 1143363 196 187
+/_joomla/index.php 61 239804 0 6
+/_wiki/ 29 93475 18 0
+/_joomla/administrator/index.php 19 144490 0 0
+/credit.html 16 87100 10 11
+/_joomla/ 14 113781 8 1
+/whatsnew.html 12 57051 7 5
+/_joomla/plugins/editors/tinymce/jscripts/tiny_mce/blank.htm 11 426 3 3
+/img/index.php/admin/maintenance 11 107498 0 0
+/FAQ.html 11 42968 4 6
+/artwork.html 10 44613 8 8
+/recognition.html 10 20185 7 8
+/_wiki/opensearch_desc.php 9 5421 5 5
+/project.html 9 48552 2 5
+/one.pdf 7 709158 4 5
+/resume.html 7 21894 2 5
+/img/index.php/admin/maintenance/start/gallery_task::rebuild_dirty_images 6 11575 0 0
+/link.html 4 7821 4 3
+/ToDo.html 4 5269 4 4
+/img/index.php/simple_uploader/add_photo/1 4 40 0 0
+/img/index.php/rss/feed/gallery/album/1 3 79028 0 0
+/img/ 3 45407 0 0
+/SunilChoudhary.pdf 3 380478 3 3
+/LearningCurve.html 3 0 3 3
+/img/index.php/admin/maintenance/resume/7 2 3858 0 0
+/img/index.php/image010 1 11418 0 0
+/img/index.php/simple_uploader/app/1 1 8894 0 0
+/_joomla/images/stories/ 1 47 0 0
+/project_perl.html 1 4295 1 1
+/img/index.php/admin/maintenance/run/10 1 150 0 0
+/img/index.php/admin/maintenance/run/5 1 150 0 0
+/Bad_decisions_in_Liips.html 1 0 1 1
+/img/index.php/admin/modules 2 18782 0 0
+/img/index.php/simple_uploader/finish 1 20 0 0
+/career.html 2 3480 2 2
+/img/index.php/organize/album/1/25 1 55 0 0
+/img/index.php/admin/maintenance/run/7 1 150 0 0
+/img/index.php/organize/dialog/1 1 5647 0 0
+/img/index.php/login/ajax 1 1637 0 0
+/img/index.php/admin/maintenance/run/8 1 150 0 0
+/img/index.php/admin 1 14955 0 1
+/oracle9i_application_server.html 1 0 1 1
+/_joomla/administrator/ 2 6233 0 0
+/index.php 2 1662 2 2
+/img/index.php/mine 2 22834 0 0
+/img/index.php/admin/maintenance/run/9 1 150 0 0
+/oracle11iEbusiness_Suite.html 3 0 3 3
+/img/index.php/admin/maintenance/resume/10 2 3860 0 0
+/img/lib/swfupload/swfupload.swf 2 25574 1 1
+/img/index.php/login/auth_ajax 1 20 0 0
+/img/index.php/best_posible_scenario 2 23220 0 0
+/img/index.php/ 1 21984 0 0
+END_SIDER

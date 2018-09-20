@@ -1,0 +1,10 @@
+--- 
+addon_domains: {}
+
+main_domain: onelife.in
+parked_domains: []
+
+sub_domains: 
+  - cms.onelife.in
+  - img.onelife.in
+  - wiki.onelife.in

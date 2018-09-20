@@ -1,0 +1,504 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201306 will be lost/reset.
+# Last config file used to build this data file was /home/onelife/tmp/awstats/awstats.onelife.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2003                
+POS_TIME 2679                
+POS_VISITOR 8965                
+POS_DAY 12202               
+POS_DOMAIN 3464                
+POS_LOGIN 3940                
+POS_ROBOT 4095                
+POS_WORMS 4618                
+POS_EMAILSENDER 4749                
+POS_EMAILRECEIVER 4892                
+POS_SESSION 12887               
+POS_SIDER 13093               
+POS_FILETYPES 5027                
+POS_DOWNLOADS 5233                
+POS_OS 5358                
+POS_BROWSER 5503                
+POS_SCREENSIZE 6068                
+POS_UNKNOWNREFERER 6142                
+POS_UNKNOWNREFERERBROWSER 6569                
+POS_ORIGIN 6838                
+POS_SEREFERRALS 6977                
+POS_PAGEREFS 7153                
+POS_SEARCHWORDS 7611                
+POS_KEYWORDS 7817                
+POS_MISC 2342                
+POS_ERRORS 7936                
+POS_CLUSTER 3796                
+POS_SIDER_404 8051                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130701002136 29 4714 40683199750
+FirstTime 20130601060732
+LastTime 20130630015441
+LastUpdate 20130701071059 29 0 28 0 0
+TotalVisits 79                  
+TotalUnique 56                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 95                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 17 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 15 49786 34 66 452804
+1 5 15 570528 29 51 1596831
+2 6 22 74200 28 53 376198
+3 11 17 315726 40 63 461495
+4 6 55 180843 52 97 325503
+5 14 21 105609 43 70 792184
+6 18 49 775160 41 75 273086
+7 12 28 1014517 39 57 201122
+8 2 7 84704 43 70 100883
+9 4 12 42854 47 75 172076
+10 6 21 103515 41 58 105213
+11 12 67 396338 17 29 144345
+12 25 73 280014 25 45 135665
+13 11 23 897776 39 70 247934
+14 8 11 137218 30 59 251742
+15 3 5 149460 23 40 85388
+16 2 10 584043 38 69 260640
+17 1 2 60468 35 56 179818
+18 6 8 94372 52 83 466854
+19 16 17 55429 23 40 113404
+20 18 19 72505 27 54 716313
+21 2 7 23674 17 33 54066
+22 13 15 186050 37 57 355369
+23 7 10 177346 23 36 199137
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 19
+us 127 206 2860036
+in 47 245 702594
+ro 10 10 54832
+ca 8 15 480261
+cn 7 11 40406
+fr 6 6 30041
+ru 2 9 51511
+nz 2 2 6529
+jp 1 1 4629
+no 1 9 561067
+gb 1 1 4629
+de 1 2 122822
+ua 0 1 22992
+au 0 3 34150
+dk 0 1 533753
+at 0 1 533753
+id 0 2 69882
+pl 0 1 22992
+nl 0 3 295256
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+bot[\s_+:,\.\;\/\\-] 453 2011741 20130630234724 164
+googlebot 265 3050961 20130630141756 41
+[\s_+:,\.\;\/\\-]bot 184 369377 20130630223905 73
+robot 180 1886270 20130630001926 17
+spider 81 185126 20130630074724 1
+msnbot\-media 57 452479 20130627135348 29
+msnbot 38 75589 20130617105934 4
+unknown 20 3360 20130629134018 20
+no_user_agent 3 15646 20130628052455 0
+crawl 2 2044 20130621060235 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 45 64210 0 0
+php 29 88104 0 0
+png 87 98592 0 0
+html 184 654985 0 0
+pdf 8 942789 0 0
+js 33 56214 0 0
+jpg 108 4028584 0 0
+gif 35 498657 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/robots.txt 350 0 87360
+/one.pdf 24 0 2234861
+/SunilChoudhary.pdf 1 0 121351
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 10
+linuxandroid 1
+winlong 2
+winxp 101
+linux 66
+winvista 13
+win7 114
+macosx 137
+win2003 22
+j2me 8
+Unknown 65
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 34
+msie6.0 2
+chrome27.0.1453.94 2
+safari5.0.3 1
+android 1
+chrome22.0.1229 13
+safari3.1.1 1
+safari5.0.6 59
+chrome23.0.1271.95 1
+opera9.80 11
+msie8.0 4
+firefox0.10.1 2
+msie7.0 35
+chrome27.0.1453.93 8
+firefox9.0.1 1
+msie9.0 1
+chrome18.0.1025.1634 1
+Unknown 27
+w3c_validator 1
+firefox2.0.0.20 1
+firefox21.0 10
+safari6.0 47
+chrome27.0.1453.110 39
+firefox12.0 7
+safari6.0.5 8
+mozilla 40
+firefox1.0 1
+netscape5.0 10
+chrome26.0.1410.64 8
+firefox14.0.1 22
+msie10.0 4
+firefox6.0 30
+safari5.1 2
+chrome27.0.1453.116 124
+safari 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Micromax_X294/Q03C_MAUI-Browser_Profile/MIDP-2.0_Configuration/CLDC-1.1 20130619043652
+Python-urllib/2.6 20130622020328
+Mozilla/5.0_(compatible;_SiteExplorer/1.0b;__http://siteexplorer.info/) 20130628035504
+linkdex.com/v2.0 20130613150151
+W3C_Validator/1.3_http://validator.w3.org/services 20130607110038
+nutch-1.4/Nutch-1.4 20130618084956
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Micromax_X294/Q03C_MAUI-Browser_Profile/MIDP-2.0_Configuration/CLDC-1.1 20130619043652
+Python-urllib/2.6 20130622020328
+linkdex.com/v2.0 20130613150151
+nutch-1.4/Nutch-1.4 20130618084956
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 165 193
+From1 0 0
+From2 6 18
+From3 3 11
+From4 39 307
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 4 13
+bing 0 3
+yandex 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://www.linkedin.com/profile/view 1 1
+http://www.sitefinder.co.in 1 1
+http://www.e-neclub.com 1 1
+http://www.pepper.nl/profiel 0 1
+http://purelyblogs.com/the-return-of-ultraman-jazz-rar/ 0 4
+http://kootation.com/ultraman-tiga-vs-lucy/chzpokememes.files.wordpress.com*2011*08*pokmon-rawk-the-b-rock.jpg/ 0 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+onelife.in 2
+http+//onelife.in/ 1
+sunil+choudhary+s 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 6
+onelife.in 2
+choudhary 1
+http 1
+sunil 1
+s 1
+//onelife.in/ 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 1 20
+206 4 11942
+404 93 0
+301 8 804
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 22
+/apple-touch-icon-72x72.png 2 -
+/apple-touch-icon-precomposed.png 2 -
+/user/ 1 -
+/apple-touch-icon.png 2 -
+/bitrix/admin/index.php 1 -
+/admin.php 1 -
+/www.oracle.com 20 -
+/Resume_SunilChoudhary.rtf 5 -
+/_image/mine.gif 4 -
+/Resume_SunilChoudhary.txt 9 -
+/administrator/index.php 1 -
+/http://sunil_choudhary.blogspot.com/ 3 -
+/admin/login.php 1 -
+/valid-xhtml10.png 4 -
+/www.codezoo.net 13 -
+/admin/index.php 1 -
+/Resume_SunilChoudhary.zip 1 -
+/www.nucleussoftware.com 15 -
+/wp-login.php 2 -
+/apple-touch-icon-72x72-precomposed.png 2 -
+/templates/system/css/toolbar.css 1 -
+/Resume_SunilChoudhary.pdf 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 95
+173.192.235.226 37 37 83169 20130628035504
+223.196.146.22 23 69 149713 20130628123020
+107.22.127.196 16 16 37777 20130613142502
+178.156.190.66 10 10 54832 20130628052726
+69.58.178.58 10 10 54116 20130622065044
+38.100.21.62 10 11 54205 20130618202651
+69.58.178.57 10 10 54116 20130629073241
+49.205.49.53 9 59 156197 20130607110426
+23.20.161.3 8 8 16247 20130613150151
+207.172.209.16 7 7 16183 20130621221625
+184.22.183.114 7 8 156328 20130612232721
+142.4.217.221 5 11 448252 20130615032218
+5.135.125.178 5 5 25084 20130610195657
+124.125.22.50 4 12 70004 20130629040212
+166.77.6.8 3 11 66943 20130627100955
+218.93.127.107 3 3 23463 20130629051930
+37.204.158.236 2 6 16570 20130606000320
+184.22.211.146 2 3 35222 20130615032219
+142.4.217.219 2 3 30109 20130615061627
+122.167.7.89 2 9 29815 20130601060758
+122.162.35.254 2 9 28912 20130619095606
+119.47.119.118 2 2 6529 20130609111509
+128.30.52.65 1 1 1900 20130607110038
+74.52.245.146 1 1 4629 20130617005906
+65.55.215.253 1 3 3755 20130607144035
+84.27.209.157 0 1 58870 
+112.215.66.141 0 1 34941 
+199.30.16.116 0 1 34941 
+106.78.149.100 0 6 7756 
+37.228.106.111 1 8 27314 20130614023400
+14.97.76.41 0 2 17392 
+118.102.173.82 1 8 27314 20130624045230
+59.144.9.6 1 8 27314 20130625102337
+69.73.47.7 1 8 27314 20130613062300
+199.80.54.252 1 1 4629 20130622020328
+66.249.80.97 1 13 875142 20130615070722
+106.51.134.151 1 8 27314 20130604015724
+217.13.180.202 0 1 533753 
+220.181.132.195 1 3 3755 20130618214057
+106.78.149.102 0 7 2528 
+68.35.12.148 0 1 57393 
+58.107.106.226 0 1 22992 
+59.183.170.148 0 1 8696 
+150.70.172.201 1 1 4629 20130619100421
+166.137.156.31 0 1 5579 
+220.181.127.14 1 1 4629 20130618213943
+221.194.156.170 1 2 5644 20130618161303
+65.55.218.41 0 1 559 
+180.248.130.122 0 1 34941 
+76.24.100.35 0 1 5579 
+131.253.26.239 1 3 3772 20130608032950
+76.20.176.190 0 1 5579 
+65.55.217.222 0 1 34941 
+106.77.196.147 1 7 23370 20130624045250
+117.203.193.218 1 8 27314 20130617063024
+106.78.149.99 0 7 2601 
+76.121.120.158 0 1 5579 
+24.187.69.1 1 8 27314 20130626065644
+168.62.22.20 1 1 4629 20130616123820
+81.191.61.253 0 1 533753 
+106.78.149.127 0 1 215 
+49.176.8.85 0 1 5579 
+120.63.55.116 1 8 27314 20130613024601
+123.201.114.164 1 8 27314 20130614051714
+93.75.111.54 0 1 22992 
+199.19.249.196 1 1 4629 20130625102336
+131.253.24.159 0 1 559 
+198.95.226.40 1 8 27314 20130624000322
+46.105.114.127 1 1 4957 20130608224207
+115.118.22.187 0 1 20701 
+65.55.217.242 0 1 34941 
+203.88.6.44 0 1 8696 
+106.78.149.103 0 5 3418 
+74.67.159.22 0 1 57393 
+12.71.131.186 0 1 34941 
+198.50.102.150 1 1 1900 20130601233528
+128.184.184.37 0 1 5579 
+75.161.3.55 1 13 875142 20130628130248
+46.112.162.197 0 1 22992 
+188.134.40.34 0 3 34941 
+89.145.108.206 1 1 4629 20130626024215
+46.229.160.208 0 2 236386 
+76.185.167.175 0 1 8696 
+176.57.141.254 1 2 122822 20130615032211
+131.94.186.11 0 1 5579 
+212.10.96.254 0 1 533753 
+66.249.84.29 1 1 1900 20130617085451
+65.55.218.60 1 2 4315 20130622071116
+124.238.215.151 1 1 1900 20130618084956
+131.253.24.133 1 2 3567 20130626161139
+59.178.177.109 0 1 8696 
+131.253.24.104 1 3 3453 20130630015441
+50.57.68.9 1 1 4629 20130604144746
+65.55.215.255 0 1 115438 
+218.30.116.96 0 1 1015 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20130601 10 19 190731 5
+20130603 2 4 40801 2
+20130604 2 13 135435 2
+20130605 1 3 8285 1
+20130606 5 7 16577 2
+20130607 11 63 161852 3
+20130608 6 10 170422 4
+20130609 2 5 81990 1
+20130610 7 10 47067 2
+20130611 0 2 17392 0
+20130612 19 27 910937 7
+20130613 12 26 74244 8
+20130614 6 20 63906 3
+20130615 5 21 1070245 5
+20130616 1 1 4629 1
+20130617 8 16 579092 4
+20130618 14 20 189341 5
+20130619 3 11 42237 2
+20130621 17 20 226643 2
+20130622 12 14 63619 3
+20130623 0 1 8696 0
+20130624 3 50 153386 3
+20130625 2 9 31943 2
+20130626 3 13 93462 3
+20130627 3 13 110580 1
+20130628 41 101 1138396 4
+20130629 17 27 796774 3
+20130630 1 3 3453 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+5mn-15mn 1
+30s-2mn 2
+0s-30s 69
+15mn-30mn 2
+2mn-5mn 2
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 19
+/ 55 169996 44 38
+/_wiki/index.php 21 67357 0 1
+/link.html 18 103946 4 5
+/resume.html 18 43121 8 3
+/oracle11iEbusiness_Suite.html 13 33574 3 2
+/credit.html 12 69357 4 7
+/project.html 10 44285 0 2
+/recognition.html 10 29770 2 2
+/oracle9i_application_server.html 9 18261 3 3
+/FAQ.html 9 36695 2 2
+/whatsnew.html 9 37861 2 2
+/_joomla/index.php 8 20747 2 2
+/ToDo.html 5 14353 1 3
+/artwork.html 5 19087 4 3
+/project_perl.html 4 10217 0 0
+/LearningCurve.html 3 14616 0 2
+/Bad_decisions_in_Liips.html 2 5194 0 2
+/career.html 1 1591 0 0
+/_wiki/ 1 3061 0 0
+END_SIDER
